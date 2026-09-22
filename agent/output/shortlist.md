@@ -1,26 +1,25 @@
 # Residency Shortlist
 
-Screened 2026-09-23 · 55 residencies in the database · 17 shortlisted · 10 to verify · 28 disqualified
+Screened 2026-09-23 · 55 residencies in the database · 15 shortlisted · 10 to verify · 30 disqualified
 
 **Client:** emerging, based in India, Indian passport, applies solo. Mixed media, sculpture and installation, trained in typography. Dramatic, surrealist and figurative: containment and vitrines, the body breaking the picture plane, hyperrealism used for unease, scale distortion, a restrained palette with one loud accent, the senses as subject.
 
 ## Apply now
 
-- **PACT Zollverein Residencies January to July 2027**, Germany · fit 71/100 · Open, 5 days left (2026-09-28). Urgent.
 - **Kulturkollektiv Goetheschule Lauscha Artist in Residence**, Germany · fit 74/100 · Open, 7 days left (2026-09-30). Urgent.
 - **L-AIR Artist in Residence & Support Program (Himeji)**, Japan · fit 64/100 · Open, 7 days left (2026-09-30). Urgent.
-- **Farnham Craft Town Artist in Residence 2027**, United Kingdom · fit 78/100 · Open, 9 days left (2026-10-02). Urgent.
+- **Studio Bubec Sculpture Residency**, Czech Republic · fit 56/100 · Open, 7 days left (2026-09-30). Urgent.
 - **Braunschweig Projects Fellowship 2027/28 (HBK Braunschweig)**, Germany · fit 83/100 · Open, 11 days left (2026-10-04). Urgent.
-- **Alaska AIR 2027-28 (Bunnell Street Arts Center Artist in Residence)**, United States · fit 67/100 · Open, 22 days left (2026-10-15).
 - **The Inlaks Residency at Skowhegan (2027)**, United States · fit 86/100 · Open, 23 days left (2026-10-16).
-- **Shigaraki Ceramic Cultural Park (SCCP) Artist-in-Residence: Open-Call Guest Artist 2027**, Japan · fit 78/100 · Open, 38 days left (2026-10-31).
-- **Volland Foundation 2027 Residency Program**, United States · fit 60/100 · Open, 40 days left (2026-11-02).
+- **Creative Spark International Artist Residency 2027**, Ireland · fit 48/100 · Open, 24 days left (2026-10-17).
+- **Arteles Creative Center: Way Beyond Thematic Residency 2027**, Finland · fit 57/100 · Open, 36 days left (2026-10-29).
 - **Est-Nord-Est Artist Residency 2027-2028**, Canada · fit 73/100 · Open, 46 days left (2026-11-08).
-- **Künstler:innenhaus Lauenburg Stipendium Bildende Kunst 2027**, Germany · fit 70/100 · Open, 48 days left (2026-11-10).
 - **SIXI AiR (Sixi Museum) International Artist-in-Residence Project 2027, Spring and Autumn**, China · fit 76/100 · Open, 53 days left (2026-11-15).
-- **Monson Arts Residency, Spring 2027**, United States · fit 62/100 · Open, 114 days left (2027-01-15).
 - **Surel's Place Artist-in-Residence Program (July to November 2027)**, United States · fit 62/100 · Open, 159 days left (2027-03-01).
 - **Artist in Residence at The Factory (Factory on Willow) 2027**, United States · fit 77/100 · Rolling. Apply any time.
+- **Kala Yatra International Artist Residency (KaYa)**, Nepal · fit 54/100 · Rolling. Apply any time.
+- **Earthskin Creative Residency**, New Zealand · fit 53/100 · Rolling. Apply any time.
+- **Tyrone Guthrie Centre residency (self-funded, international rate)**, Ireland · fit 52/100 · Rolling. Apply any time.
 
 ## Ranked shortlist
 
@@ -31,20 +30,18 @@ Passed every hard gate and verified. Ranked by fit, not by deadline.
 | 1 | Gasworks | United Kingdom | 92 | Strong fit | £175/week stipend, up to £800 materials, flights and visa support | Closed 2026-03-02, 205 days ago. Watch for the next call. |
 | 2 | The Inlaks Residency at Skowhegan (2027) | United States | 86 | Strong fit | Housing, all meals and studio at Skowhegan, return airfare up to USD 1200, USD 1000 mater… | Open, 23 days left (2026-10-16). |
 | 3 | Braunschweig Projects Fellowship 2027/28 (HBK Bra… | Germany | 83 | Strong fit | EUR 1,600/month for 12 months plus a rent-free studio apartment and a project/travel allo… | Open, 11 days left (2026-10-04). Urgent. |
-| 4 | Farnham Craft Town Artist in Residence 2027 | United Kingdom | 78 | Strong fit | Travel, living costs, accommodation, studio and a materials contribution covered; no amou… | Open, 9 days left (2026-10-02). Urgent. |
-| 5 | Shigaraki Ceramic Cultural Park (SCCP) Artist-in-… | Japan | 78 | Strong fit | JPY 200,000 honorarium (one-off, paid after the donation of work is settled) plus economy… | Open, 38 days left (2026-10-31). |
-| 6 | Artist in Residence at The Factory (Factory on Wi… | United States | 77 | Strong fit | USD 1,600 stipend for food and art supplies plus USD 350 travel, free live/work studio ap… | Rolling. Apply any time. |
-| 7 | SIXI AiR (Sixi Museum) International Artist-in-Re… | China | 76 | Strong fit | Flights, visa, insurance, apartment and studio plus a material allowance of unstated size… | Open, 53 days left (2026-11-15). |
-| 8 | Kulturkollektiv Goetheschule Lauscha Artist in Re… | Germany | 74 | Good fit | EUR 1,000 stipend for one month plus free lodging and studio; travel at artist's cost | Open, 7 days left (2026-09-30). Urgent. |
-| 9 | Est-Nord-Est Artist Residency 2027-2028 | Canada | 73 | Good fit | CAD 2,080 honorarium for 8 weeks plus housing and studio-workshop; artist pays travel, ma… | Open, 46 days left (2026-11-08). |
-| 10 | Kyoto Art Center Artist-in-Residence Program | Japan | 72 | Good fit | JPY 200,000 production subsidy plus housing, studio and airfare | Closed 2025-08-31, 388 days ago. Watch for the next call. |
-| 11 | PACT Zollverein Residencies January to July 2027 | Germany | 71 | Good fit | Weekly stipend (amount not published) plus housing and one return trip for 3 to 6 weeks | Open, 5 days left (2026-09-28). Urgent. |
-| 12 | Künstler:innenhaus Lauenburg Stipendium Bildende… | Germany | 70 | Good fit | EUR 1,000 net per month for 4 months plus free flat and studio; EUR 10 application fee; t… | Open, 48 days left (2026-11-10). |
-| 13 | Alaska AIR 2027-28 (Bunnell Street Arts Center Ar… | United States | 67 | Good fit | USD 2,000 stipend for a month plus travel up to USD 1,000, USD 250 materials and private… | Open, 22 days left (2026-10-15). |
-| 14 | L-AIR Artist in Residence & Support Program (Hime… | Japan | 64 | Good fit | Up to JPY 150,000/month production grant plus housing, studio, one return trip, free leat… | Open, 7 days left (2026-09-30). Urgent. |
-| 15 | Monson Arts Residency, Spring 2027 | United States | 62 | Good fit | USD 500 stipend (USD 250 for 2 weeks) plus private studio, room and all meals; artist pay… | Open, 114 days left (2027-01-15). |
-| 16 | Surel's Place Artist-in-Residence Program (July t… | United States | 62 | Good fit | USD 100 per week living stipend plus USD 300 travel and free housing with studio; no fee;… | Open, 159 days left (2027-03-01). |
-| 17 | Volland Foundation 2027 Residency Program | United States | 60 | Good fit | USD 500 (2 weeks) or USD 1,000 (4 weeks) stipend plus free housing and studio; artist pay… | Open, 40 days left (2026-11-02). |
+| 4 | Artist in Residence at The Factory (Factory on Wi… | United States | 77 | Strong fit | USD 1,600 stipend for food and art supplies plus USD 350 travel, free live/work studio ap… | Rolling. Apply any time. |
+| 5 | SIXI AiR (Sixi Museum) International Artist-in-Re… | China | 76 | Strong fit | Flights, visa, insurance, apartment and studio plus a material allowance of unstated size… | Open, 53 days left (2026-11-15). |
+| 6 | Kulturkollektiv Goetheschule Lauscha Artist in Re… | Germany | 74 | Good fit | EUR 1,000 stipend for one month plus free lodging and studio; travel at artist's cost | Open, 7 days left (2026-09-30). Urgent. |
+| 7 | Est-Nord-Est Artist Residency 2027-2028 | Canada | 73 | Good fit | CAD 2,080 honorarium for 8 weeks plus housing and studio-workshop; artist pays travel, ma… | Open, 46 days left (2026-11-08). |
+| 8 | L-AIR Artist in Residence & Support Program (Hime… | Japan | 64 | Good fit | Up to JPY 150,000/month production grant plus housing, studio, one return trip, free leat… | Open, 7 days left (2026-09-30). Urgent. |
+| 9 | Surel's Place Artist-in-Residence Program (July t… | United States | 62 | Good fit | USD 100 per week living stipend plus USD 300 travel and free housing with studio; no fee;… | Open, 159 days left (2027-03-01). |
+| 10 | Arteles Creative Center: Way Beyond Thematic Resi… | Finland | 57 | Possible | Artist pays EUR 1,950 (or EUR 1,350 supported rate) plus EUR 120 on selection and travel;… | Open, 36 days left (2026-10-29). |
+| 11 | Studio Bubec Sculpture Residency | Czech Republic | 56 | Possible | Artist pays a residency fee (amount unconfirmed on the official page; about EUR 1,200 per… | Open, 7 days left (2026-09-30). Urgent. |
+| 12 | Kala Yatra International Artist Residency (KaYa) | Nepal | 54 | Possible | Artist pays EUR 300 per month (SAARC rate); nothing is paid to the artist | Rolling. Apply any time. |
+| 13 | Earthskin Creative Residency | New Zealand | 53 | Possible | Artist pays NZD 250 per week plus utilities, food and materials, and gives one artwork as… | Rolling. Apply any time. |
+| 14 | Tyrone Guthrie Centre residency (self-funded, int… | Ireland | 52 | Possible | Nothing paid; artist pays EUR 560 (self-catering) or EUR 840 (full board) per week plus t… | Rolling. Apply any time. |
+| 15 | Creative Spark International Artist Residency 2027 | Ireland | 48 | Possible | Nothing paid; free shared studio and workshop access only, artist covers travel, housing… | Open, 24 days left (2026-10-17). |
 
 ## Worth verifying
 
@@ -81,24 +78,6 @@ Not ruled out, but a gate-critical fact is still unknown. Scores are provisional
 - Cannot hold other funding during the fellowship.
 - Studio provision beyond the studio apartment not confirmed on the page.
 
-**Farnham Craft Town Artist in Residence 2027**
-
-- The 2027 round explicitly prioritises wood and furniture makers and applicants from other World Craft Towns; a mixed media sculptor from India matches neither priority.
-- Work is retained: 'Each of our artists in residence will be asked to create a piece inspired by Farnham, which will form part of our local craft collection.'
-- No amounts are published for living costs, travel or the materials contribution.
-- The page says nothing about visas or visa support, and a UK visa would be needed.
-- Deadline is 17.00 GMT Friday 2 October 2026, nine days away.
-
-**Shigaraki Ceramic Cultural Park (SCCP) Artist-in-Residence: Open-Call Guest Artist 2027**
-
-- Work donation is a condition: '制作した作品、もしくは制作の技術的情報を滋賀県もしくは指定管理者に寄贈願います' (donate a work made, or the technical information of the making, to Shiga Prefecture or the operator; selection agreed with staff; large works may be refused).
-- The JPY 200,000 honorarium is paid only after the donated work or technical information is decided.
-- Housing is not free: JPY 20,300 per month single room, plus bedding and air-con charges.
-- Only about two open-call guest slots (one overseas resident), so highly competitive.
-- Public lectures or workshops during the stay are expected, and an exhibition at the park may be requested.
-- Stays of 4 months or more require enrolment in Japanese National Health Insurance.
-- Basic ceramic knowledge and experience is asked for on the application page.
-
 **Artist in Residence at The Factory (Factory on Willow) 2027**
 
 - Official: 'The program requires for each artist to donate once piece created during their residency to be part of the Factory on Willow's permanent collection.' The donated work is displayed across the campus.
@@ -129,43 +108,12 @@ Not ruled out, but a gate-critical fact is still unknown. Scores are provisional
 - Summer 2027 session is curated for artists of African descent; choose another season.
 - Application fee not stated; assume none but confirm.
 
-**Kyoto Art Center Artist-in-Residence Program**
-
-- No living stipend or artist fee. Food and living costs for up to 3 months are self-funded.
-- Visual and performing arts calls alternate by year. AIR 2027 is performing arts only, so the next visual arts call is likely summer 2027 and is not announced.
-- Residents must run public exchange projects.
-- No fabrication workshop is listed.
-
-**PACT Zollverein Residencies January to July 2027**
-
-- Deadline is five days away (28 September 2026).
-- Stipend amount is not published; ask before relying on it.
-- Strongly performance-oriented context; a static sculptural project may read as off-brief.
-
-**Künstler:innenhaus Lauenburg Stipendium Bildende Kunst 2027**
-
-- Residents must spend at least 50 percent of the period in Lauenburg.
-- A closing solo presentation and an A4 report are mandatory; donating a work is voluntary.
-- EUR 10 application fee (about INR 950), well under the cap.
-
-**Alaska AIR 2027-28 (Bunnell Street Arts Center Artist in Residence)**
-
-- Obligations: an introductory artist talk and a community engagement component (workshop, outreach or event).
-- Travel cap of USD 1,000 will not cover India to Homer, Alaska; expect to top up.
-- The organisation's own site (bunnellarts.org) did not respond during this sweep; facts come from its official CaFE / Creative West application listing and its ACA listing. No visa language anywhere.
-
 **L-AIR Artist in Residence & Support Program (Himeji)**
 
 - Leather must be the primary material.
 - Every work made with L-AIR leather is donated to L-AIR, so he keeps none of it.
 - The grant is for production only. Living costs and insurance are self-funded.
 - Season deadlines: 30 Sep 2026, 30 Nov 2026, 1 Mar 2027, 31 May 2027.
-
-**Monson Arts Residency, Spring 2027**
-
-- Application portal opens only on December 1, 2026; the January 15 deadline is confirmed but the form is not yet live.
-- Stipend is small; no travel money.
-- No visa language on the site.
 
 **Surel's Place Artist-in-Residence Program (July to November 2027)**
 
@@ -174,11 +122,42 @@ Not ruled out, but a gate-critical fact is still unknown. Scores are provisional
 - Must be 25 or older.
 - Obligations: at least one public workshop plus a show or lecture.
 
-**Volland Foundation 2027 Residency Program**
+**Arteles Creative Center: Way Beyond Thematic Residency 2027**
 
-- A car for the full stay and a valid driver's licence are required; an Indian licence plus international permit and a US rental would be the artist's cost and problem.
-- Stipend is small against a flight from India.
-- No visa language on the site.
+- Fully fee-based; roughly INR 1.8 to 2.6 lakh before flights.
+- The 'financially supported' rate is limited and not guaranteed.
+
+**Studio Bubec Sculpture Residency**
+
+- Money flows from the artist unless a scholarship is granted; scholarships are limited and not guaranteed.
+- Fee amount could not be confirmed on the official page.
+- Deadline is one week away (30 September 2026, 14:00).
+
+**Kala Yatra International Artist Residency (KaYa)**
+
+- Pay-to-stay. No stipend or grant.
+- Shared work areas rather than a dedicated sculpture workshop; check suitability for large or messy material work.
+
+**Earthskin Creative Residency**
+
+- Fee-paying and unfunded.
+- A koha artwork must be gifted to the trust's collection for fundraising.
+- No synthetic or chemical art materials permitted on site; check this against the client's actual materials before applying.
+- No smoking, drugs or alcohol.
+- Visa not addressed on the site.
+
+**Tyrone Guthrie Centre residency (self-funded, international rate)**
+
+- Entirely self-funded at the higher international rate.
+- Requires a proven professional track record and membership of a professional body; emerging artists may not pass approval.
+- Maximum two weeks per year; 2026 availability described as very limited.
+
+**Creative Spark International Artist Residency 2027**
+
+- No accommodation and no money; Dundalk housing must be self-funded.
+- Selection weighs commitment to workshops, talks and public engagement.
+- TransArtists profile says residents donate one artwork to Creative Spark's archive; not on the 2027 official page, so unconfirmed.
+- Application fee is not stated on the official page, so it cannot be recorded as zero. Confirm before applying.
 
 **Tokyo Arts and Space (TOKAS) International Creator Residency**
 
@@ -212,34 +191,36 @@ Not ruled out, but a gate-critical fact is still unknown. Scores are provisional
 
 | Residency | Country | Why |
 |---|---|---|
-| Tobichi Art Museum 2026 'Baton' Exhibition in a V… | Japan | No stipend or grant. |
-| Swatch Art Peace Hotel Artist Residency | China | No stipend or grant. |
-| Farm Studio International Artist Residency | India | No stipend or grant. |
-| Leitrim Sculpture Centre Professional Development… | Ireland | No stipend or grant. |
-| Ivica Sveta Residency: Material Synthesis (Octobe… | Serbia | No stipend or grant. |
-| Arteles Creative Center: Way Beyond Thematic Resi… | Finland | No stipend or grant. |
-| Palazzo Monti | Italy | No stipend or grant. |
-| Studio Bubec Sculpture Residency | Czech Republic | No stipend or grant. |
-| BigCi (Bilpin international ground for Creative i… | Australia | No stipend or grant. |
-| Kala Yatra International Artist Residency (KaYa) | Nepal | No stipend or grant. |
-| Banff Centre Early Career Banff Artist in Residen… | Canada | No stipend or grant. |
-| Earthskin Creative Residency | New Zealand | No stipend or grant. |
-| EMAP (European Media Art Platform) | Multiple | Scoped to digital or media art only. Requires a duo or collective, and the client applies solo. |
-| Delfina Foundation | United Kingdom | Closed to India-based artists on the current call. |
-| Driving Creek Artist in Residence Programme | New Zealand | No stipend or grant. |
-| Tyrone Guthrie Centre residency (self-funded, int… | Ireland | No stipend or grant. |
-| Eramboo Artist Environment Live-in Residency | Australia | No stipend or grant. |
+| Shigaraki Ceramic Cultural Park (SCCP) Artist-in-… | Japan | Locked to a single craft or material (ceramic), and the practice is mixed media. |
+| Farnham Craft Town Artist in Residence 2027 | United Kingdom | Locked to a single craft or material (wood or furniture), and the practice is mixed media. |
+| Kyoto Art Center Artist-in-Residence Program | Japan | Locked to a single craft or material (performance), and the practice is mixed media. |
+| Künstler:innenhaus Lauenburg Stipendium Bildende… | Germany | Application fee of about INR 1,030, and the rule is no fee at all. |
+| Alaska AIR 2027-28 (Bunnell Street Arts Center Ar… | United States | Application fee of about INR 2,200, and the rule is no fee at all. |
+| Tobichi Art Museum 2026 'Baton' Exhibition in a V… | Japan | Application fee of about INR 36,000, and the rule is no fee at all. |
+| PACT Zollverein Residencies January to July 2027 | Germany | Excludes both mixed media and sculpture or installation. |
+| Swatch Art Peace Hotel Artist Residency | China | Application fee of about INR 3,200, and the rule is no fee at all. |
+| Monson Arts Residency, Spring 2027 | United States | Application fee of about INR 2,200, and the rule is no fee at all. |
+| Volland Foundation 2027 Residency Program | United States | Application fee of about INR 2,200, and the rule is no fee at all. |
+| Farm Studio International Artist Residency | India | Hosted in India, and the brief is for a residency abroad. |
+| Leitrim Sculpture Centre Professional Development… | Ireland | Costs about INR 41,200 a week to stay, over the INR 5,000 cap. |
+| Ivica Sveta Residency: Material Synthesis (Octobe… | Serbia | Costs about INR 28,840 a week to stay, over the INR 5,000 cap. |
+| EMAP (European Media Art Platform) | Multiple | Requires a duo or collective, and the client applies solo. |
+| Palazzo Monti | Italy | Application fee of about INR 2,575, and the rule is no fee at all. |
+| BigCi (Bilpin international ground for Creative i… | Australia | Costs about INR 23,200 a week to stay, over the INR 5,000 cap. |
 | 25AV Residency Programme (2026-2027) | Multiple | Closed to India-based artists on the current call. Requires a duo or collective, and the client applies solo. |
-| Cromarty Arts Trust self-funded residency | United Kingdom | No stipend or grant. |
-| Ballinglen Arts Foundation Fellowship Programme | Ireland | No stipend or grant. |
+| Banff Centre Early Career Banff Artist in Residen… | Canada | Application fee of about INR 4,160, and the rule is no fee at all. |
+| Delfina Foundation | United Kingdom | Closed to India-based artists on the current call. |
+| Driving Creek Artist in Residence Programme | New Zealand | Locked to a single craft or material (ceramic), and the practice is mixed media. |
+| Eramboo Artist Environment Live-in Residency | Australia | Costs about INR 17,400 a week to stay, over the INR 5,000 cap. |
+| Cromarty Arts Trust self-funded residency | United Kingdom | Costs about INR 31,388 a week to stay, over the INR 5,000 cap. |
+| Ballinglen Arts Foundation Fellowship Programme | Ireland | Application fee of about INR 5,150, and the rule is no fee at all. |
 | UNIDEE / Fondazione Pistoletto Cittadellarte | Italy | Closed to India-based artists on the current call. |
 | Studio Museum in Harlem Artist-in-Residence Progr… | United States | Closed to India-based artists on the current call. |
-| Lighthouse Works Fellowship 2027 | United States | Closed to India-based artists on the current call. |
-| Creative Spark International Artist Residency 2027 | Ireland | No stipend or grant. |
-| Burren College of Art Artist Residency | Ireland | No stipend or grant. |
-| Vermont Studio Center Residency (2027 sessions) | United States | No stipend or grant. |
+| Lighthouse Works Fellowship 2027 | United States | Closed to India-based artists on the current call. Application fee of about INR 2,200, and the rule is no fee at all. |
+| Burren College of Art Artist Residency | Ireland | Application fee of about INR 10,300, and the rule is no fee at all. Costs about INR 29,632 a week to stay, over the INR 5,000 cap. |
+| Vermont Studio Center Residency (2027 sessions) | United States | Application fee of about INR 2,200, and the rule is no fee at all. |
 | Radical Sabbatical 2027 Residencies (Eastside Pro… | United Kingdom | Closed to India-based artists on the current call. |
-| Clay City Professional Residency, Winter 2027 (Th… | Ireland | No stipend or grant. For established artists only. |
+| Clay City Professional Residency, Winter 2027 (Th… | Ireland | For established artists only. Locked to a single craft or material (ceramic), and the practice is mixed media. |
 
 ## How the screen works
 

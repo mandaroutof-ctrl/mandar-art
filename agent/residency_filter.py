@@ -185,7 +185,167 @@ def check_gates(record, crit):
     need, have = el.get("min_years_experience"), crit["client"].get("years_practising")
     if g.get("enforce_min_experience") and is_number(need) and is_number(have) and have < need:
         reasons.append(f"Needs {need:g}+ years of practice and the client has {have:g}.")
+
+    if g.get("exclude_host_country_india") and str(record.get("country") or "").strip().lower() == "india":
+        reasons.append("Hosted in India, and the brief is for a residency abroad.")
+
+    if g.get("exclude_single_material_only") and single_craft_lock(record):
+        reasons.append(f"Locked to a single craft or material ({single_craft_lock(record)}), "
+                       "and the practice is mixed media.")
+
+    cap = g.get("max_application_fee_inr")
+    if is_number(cap):
+        fee, waived = application_fee_inr(fu, g)
+        if is_number(fee) and fee > cap and not waived:
+            reasons.append(f"Application fee of about INR {fee:,.0f}, and the rule is no fee at all."
+                           if cap == 0 else
+                           f"Application fee of about INR {fee:,.0f}, over the INR {cap:,.0f} cap.")
+
+    stay_cap = g.get("max_stay_cost_per_week_inr")
+    if is_number(stay_cap):
+        weekly = stay_cost_per_week_inr(fu)
+        if is_number(weekly) and weekly > stay_cap:
+            reasons.append(f"Costs about INR {weekly:,.0f} a week to stay, over the INR {stay_cap:,.0f} cap.")
     return reasons
+
+
+def _per_week(text, amount):
+    """Normalise an amount to a weekly figure using the period named in `text`."""
+    if re.search(r"per month|/ ?month|a month|monthly|pro Monat", text, re.I):
+        return amount / 4.345
+    if re.search(r"per day|/ ?day|a day|daily|per night", text, re.I):
+        return amount * 7
+    m = re.search(r"per (\d+) weeks?", text, re.I)
+    if m:
+        return amount / float(m.group(1))
+    if re.search(r"per week|/ ?week|a week|weekly", text, re.I):
+        return amount
+    return None
+
+
+# Rates are approximate and only decide gate pass or fail, never a quoted figure.
+_INR = {"INR": 1, "RS": 1, "USD": 88, "US$": 88, "$": 88, "EUR": 103, "€": 103, "GBP": 118, "£": 118,
+        "CHF": 110, "CAD": 64, "AUD": 58, "NZD": 53, "SGD": 68, "JPY": 0.60, "¥": 0.60, "CNY": 12.3,
+        "AED": 24, "SEK": 9.2, "NOK": 8.6, "DKK": 13.8, "CZK": 4.1, "PLN": 24, "ZAR": 4.9}
+_FREE = re.compile(r"\b(no (application )?fee|fee[- ]free|free to apply|none|not required|no cost|no charge)\b", re.I)
+_AMOUNT = re.compile(r"(US\$|CA\$|NZ\$|A\$|S\$|CHF|EUR|USD|GBP|JPY|INR|CAD|AUD|SGD|CNY|AED|Rs\.?|[$€£¥₹])\s*"
+                     r"([0-9][0-9,.]*)|([0-9][0-9,.]*)\s*(CHF|EUR|USD|GBP|JPY|INR|CAD|AUD|SGD|CNY|AED|euros?|dollars?|pounds?|yen)", re.I)
+_SYM = {"US$": "USD", "CA$": "CAD", "NZ$": "NZD", "A$": "AUD", "S$": "SGD", "$": "USD", "€": "EUR",
+        "£": "GBP", "¥": "JPY", "₹": "INR", "RS": "INR", "EUROS": "EUR", "EURO": "EUR",
+        "DOLLARS": "USD", "DOLLAR": "USD", "POUNDS": "GBP", "POUND": "GBP", "YEN": "JPY"}
+
+
+def _to_inr(text):
+    """Largest money amount in `text`, converted to INR. None when there is no amount."""
+    best = None
+    for m in _AMOUNT.finditer(str(text)):
+        cur, amt = (m.group(1), m.group(2)) if m.group(2) else (m.group(4), m.group(3))
+        try:
+            value = float(str(amt).replace(",", ""))
+        except ValueError:
+            continue
+        code = _SYM.get(str(cur).upper().strip(), str(cur).upper().strip())
+        rate = _INR.get(code)
+        if rate is None:
+            continue
+        inr = value * rate
+        best = inr if best is None else max(best, inr)
+    return best
+
+
+def application_fee_inr(funding, gates):
+    """(fee in INR or None, waived?). A waiver counts only when the host names the client's category."""
+    raw = funding.get("application_fee")
+    if raw is None or str(raw).strip() == "":
+        return None, False
+    text = str(raw)
+    waived = False
+    if str(gates.get("application_fee_waiver_counts_as_free")) == "explicit_category_only":
+        if re.search(r"\bwaive", text, re.I) and re.search(r"\bindia|\bindian", text, re.I):
+            waived = True
+    amount = _to_inr(text)
+    if amount is None:
+        return (0.0 if _FREE.search(text) else None), waived
+    if _FREE.search(text) and not re.search(r"\bfee (is|of)\b", text, re.I):
+        return 0.0, waived
+    return amount, waived
+
+
+def stay_cost_per_week_inr(funding):
+    """
+    NET weekly cost of being there, in INR. None when nothing chargeable is stated.
+
+    Net, not gross: a fellowship paying EUR 1,600 a month while charging EUR 250 rent costs the artist
+    nothing to attend. Counting the 250 alone would disqualify the best-funded residency on the list.
+    """
+    pays = funding.get("artist_pays")
+    parts = pays if isinstance(pays, list) else [pays] if pays else []
+    gross = None
+    for part in parts:
+        text = str(part)
+        # Costs he would carry anywhere, and never a reason to disqualify.
+        if re.search(r"visa|flight|airfare|travel|material|art suppl|equipment|insurance|shipping|car hire|rent a car", text, re.I):
+            continue
+        # A line describing the stipend rather than a charge: "living costs beyond the EUR 350/week stipend".
+        if re.search(r"stipend|bursary|grant|honorarium|beyond the", text, re.I):
+            continue
+        amount = _to_inr(text)
+        if amount is None:
+            continue
+        weekly = _per_week(text, amount)
+        if weekly is None:
+            continue          # no period stated, so it cannot be normalised
+        gross = weekly if gross is None else max(gross, weekly)
+    if gross is None:
+        return None
+    return max(0.0, gross - (stipend_per_week_inr(funding) or 0.0))
+
+
+def stipend_per_week_inr(funding):
+    """What the residency pays the artist, normalised to INR per week. None when it pays nothing."""
+    if funding.get("has_stipend") is False:
+        return None
+    best = None
+    for key in ("stipend_detail", "materials_budget"):
+        text = str(funding.get(key) or "")
+        for m in _AMOUNT.finditer(text):
+            # Look only BEHIND the figure for words that make it a charge. A wider window would let
+            # "a contribution of 250 EUR" further down the sentence mask the 1,600 EUR being paid.
+            before = text[max(0, m.start() - 40):m.start()]
+            if re.search(r"contribution|payable back|pay back|deduct|rent of|towards incidental", before, re.I):
+                continue
+            amount = _to_inr(m.group(0))
+            if amount is None:
+                continue
+            weekly = _per_week(text[m.start():m.end() + 40], amount)
+            if weekly is None:
+                continue
+            best = weekly if best is None else max(best, weekly)
+    return best
+
+
+_CRAFT_LOCK = [("ceramic", r"ceramics?[- ]only|only ceramics?|ceramic art centre|ceramics? residency|pottery"),
+               ("glass", r"glass[- ]only|only glass|glass studio residency|glassmaking programme"),
+               ("wood or furniture", r"wood(work)?[- ]only|furniture making|only furniture"),
+               ("textile", r"textiles?[- ]only|only textiles?|weaving[- ]only"),
+               ("printmaking", r"printmaking[- ]only|only printmaking"),
+               ("performance", r"performing arts only|performance only")]
+
+
+def single_craft_lock(record):
+    """Name of the craft a programme is locked to, or None when it takes a range of media."""
+    di = section(record, "discipline")
+    if di.get("mixed_media_ok") is True or di.get("sculpture_installation_ok") is True:
+        pass  # still check: a ceramics centre may tick sculpture yet accept only clay
+    hay = " ".join(str(di.get(k) or "") for k in
+                   ("required_material", "thematic_constraint", "programme_focus")).lower()
+    required = str(di.get("required_material") or "").strip().lower()
+    for name, pattern in _CRAFT_LOCK:
+        if re.search(pattern, hay):
+            return name
+        if required and required.startswith(name[:6]):
+            return name
+    return None
 
 
 def open_questions(record, crit):
