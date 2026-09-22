@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Tokyo Arts and Space (TOKAS) International Creator Residency Program",
+    "location": "TOKAS Residency, 2-14-7 Tatekawa, Sumida-ku, Tokyo",
+    "country": "Japan",
+    "verified": true,
+    "source_urls": [
+      "https://www.tokyoartsandspace.jp/static/file/open%20call/Residency/2027/Outline_ICR2027.pdf",
+      "https://www.tokyoartsandspace.jp/en/archive/application/2026/20260430-317.html",
+      "https://www.tokyoartsandspace.jp/en/application/index.html",
+      "https://www.tokyoartsandspace.jp/en/application/schedule.html",
+      "https://www.tokyoartsandspace.jp/en/location/residency.html",
+      "https://www.tokyoartsandspace.jp/en/residence/about.html"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "international_open": true,
+      "career_stage": null,
+      "collective_required": false,
+      "eligibility_notes": "From the 2027 Application Outline PDF: '(1) Resides outside of Japan (2) Has 5 years or more of experience in the fields of visual arts, design or architecture (3) Has sufficient ability to communicate in English (4) Independent and capable of working and living on his/her own (5) Creators working as a duo are also eligible (6) Students are ineligible (except for Ph.D. candidates)'. No nationality restriction stated, so an India-based artist meets the residence rule. FAQ Q21: 'Participation as a collective is not accepted. Applying as an individual or a duo artist is acceptable.' A duo must have done at least one project together. Anyone who has done this programme before cannot reapply (FAQ Q2). Two letters of recommendation from art or cultural institutions or professionals are required. career_stage set to null because TOKAS uses no stage label; the hard rule is 5+ years of experience, and it describes targets as 'distinguished and highly motivated creators'."
+    },
+    "funding": {
+      "has_stipend": true,
+      "stipend_detail": "PDF section 3: 'Living expenses (per diem): JPY 4,200 (consumption tax excluded) per day' plus 'Fee for work/project: JPY 300,000 (consumption tax excluded)'. 'Income tax (20.42%) will be deducted from the above amounts'. My own arithmetic, not a TOKAS figure: the per diem comes to about JPY 382,000 to 386,000 for one 3-month period before tax. A duo gets living expenses and the fee for one person only.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": true,
+      "materials_budget": "No separate materials budget is listed. The JPY 300,000 fee for work/project is the only production money stated.",
+      "application_fee": "None stated in the 2027 outline PDF or the FAQ",
+      "artist_pays": [
+        "Accommodation and travel elsewhere in Japan ('We will not provide any financial support for additional accommodation and travel expenses elsewhere in Japan')",
+        "Any family or partner costs (they cannot stay at the residency, FAQ Q20)",
+        "20.42% income tax, deducted from the amounts paid",
+        "Visa and insurance are NOT addressed on the official pages I checked (unconfirmed either way)"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "thematic_constraint": "None. Fields are 'visual arts (drawing, installation, painting, performance, photography, media art, sculpture, sound art, video, etc.), design, architecture'. 'Mixed media' is not named, but the list is open-ended and names installation and sculpture explicitly."
+    },
+    "deadline": "2026-06-16",
+    "deadline_notes": "CLOSED. The 2027 call ran from 19 May 2026 to 16 June 2026, 18:00 JST (PDF section 6). Final results are due on the TOKAS website by early October 2026. The Open Call page currently says 'Currently no open calls', and no 2028 call has been announced. The TOKAS schedule page lists this programme's open call as usually running 'May to June', but also says 'This schedule may be changed', so no 2027 date for the 2028 cycle is confirmed.",
+    "duration": "3 months: early May to end July 2027, early September to end November 2027, or early January to end March 2028. 6 creators in total, 2 per period (tentative).",
+    "notes": "Best money of the three, and installation and sculpture are explicitly in scope. Main blocker for an early-career artist: the hard requirement of 5 or more years of experience, plus two institutional recommendation letters. Facilities (PDF section 11 and the residency page): a single room of 25 sq m with kitchen and bath, plus two SHARED studios of 125 sq m and 48 sq m, a networking room and a library. No workshop, tools, woodshop, metal or ceramics equipment is listed. Condition 5 says 'Do not conduct any activities that would make big noise or vibration in TOKAS Residency', which limits fabricating glass vitrines or large work on site. The OPEN STUDIO is the only official presentation, and a comprehensive report is required. No commercial or profitable activity is allowed during the residency. The programme itself depends on the Tokyo Metropolitan Foundation for History and Culture board approving its 2027 annual plan by end of March 2027. Visa handling for Indian passport holders is not described. Confirm separately."
+  },
+  {
+    "name": "Kyoto Art Center Artist-in-Residence Program",
+    "location": "Kyoto Art Center, Kyoto",
+    "country": "Japan",
+    "verified": true,
+    "source_urls": [
+      "https://www.kac.or.jp/en/news/20250515/",
+      "https://www.kac.or.jp/en/news/20260615/",
+      "https://www.kac.or.jp/news/20260615/",
+      "https://www.kac.or.jp/en/open_call/",
+      "https://www.kac.or.jp/en/program/3066/",
+      "https://www.kac.or.jp/en/artist_in_studios/facility/",
+      "https://www.kac.or.jp/en/artist_in_studios/requirements/"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "international_open": true,
+      "career_stage": "emerging",
+      "collective_required": false,
+      "eligibility_notes": "AIR 2026 Visual Arts call: 'An emerging artist or researcher active in the field of visual arts who has a clear reason for staying in Kyoto for production, research, etc. Participants must be able to plan and implement exchange projects with the public during their participation period. Capable of communicating in English or Japanese.' The call is open 'for both individuals and groups'. Neither the English nor the Japanese pages state any nationality or residence restriction, and airfare is offered 'from residential area to Kansai International Airport'. india_eligible is therefore true because no restriction is stated, not because India is named. The 2026 call also says 'Literature and cross-genre applicants are eligible to apply every year', but that sentence does not appear in the 2027 call (English or Japanese)."
+    },
+    "funding": {
+      "has_stipend": false,
+      "stipend_detail": "NO living stipend or artist fee. Official text: 'Food, artist fees, and other living expenses will not be provided.' What is paid: a 'Subsidy of 200,000 yen (tax included) per production' (production and research subsidy), plus accommodation, studio and airfare. This is a production grant, not a stipend.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": true,
+      "materials_budget": "JPY 200,000 (tax included) per production, as a production and research subsidy. The artist must prepare their own production and research supplies.",
+      "application_fee": "None stated (checked the 2026 English call and the 2027 English and Japanese calls)",
+      "artist_pays": [
+        "Food and all other living expenses for up to 3 months",
+        "Artist fee (none paid)",
+        "Supplies for production and research",
+        "Visa and insurance are not confirmed on the official pages (unverified)"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "thematic_constraint": "No theme. Discipline alternates by year. Program page: 'Artists are selected through an open call process held in alternating years for the Visual Arts and Performing Arts categories.' AIR 2026 was Visual Arts and AIR 2027 is Performing Arts only. The visual arts call does not list media, so sculpture, installation and mixed media are read as falling under 'visual arts'. They are not named."
+    },
+    "deadline": "2025-08-31",
+    "deadline_notes": "No call open to a visual artist right now; the date above is the last visual-arts deadline. AIR 2026 Visual Arts ran 30 June to 31 August 2025, 23:59 JST, and is marked CLOSED. The current cycle, AIR 2027, is Performing Arts only. It ran 30 June to 31 July 2026, 18:00 JST, and is marked 'Application Closed', with results due late November 2026. No AIR 2028 Visual Arts call is listed. Going by the alternation sentence alone, the next visual arts call would be AIR 2028, probably in summer 2027 (KAC says the application period is 'typically scheduled for the summer'). That is an inference; no date is published.",
+    "duration": "Up to 3 months. 2026 Visual Arts: any 3 months between 1 April 2026 and 31 March 2027. 2027 Performing Arts: 1 May to 31 August 2027, or 1 November 2027 to 29 February 2028. The 2027 call selects 'one artist or artist group'; the 2026 call does not state a number.",
+    "notes": "The emerging-artist focus suits an early-career applicant, but it FAILS the stipend requirement: the artist self-funds food and living costs. Studios (facility page): 10 studios of 36 to 88 sq m. Studios 1 and 2 have concrete floors, a 'Large ventilation system, sink, large gas stove', and shoes are allowed; the others have wooden or linoleum floors. Which studio a resident gets is not stated. No woodshop, metal, ceramics or kiln is listed. Studio rules: use may be restricted if 'noise, foul odor, etc.' disturbs others, 'equipment, etc., must be prepared and borne by the user', and vehicle loading must be arranged with the office. Residents must run public exchange projects and submit a report. Visa handling is not described. And no call is currently open in his discipline."
+  },
+  {
+    "name": "L-AIR Artist in Residence & Support Program (Himeji)",
+    "location": "77 Hanadacho Takagi, Himeji-shi, Hyogo 671-0256 (Takagi leather district, Himeji)",
+    "country": "Japan",
+    "verified": true,
+    "source_urls": [
+      "https://l-air.or.jp/journal/2026/08/916/",
+      "https://l-air.or.jp/journal/2026/08/914/",
+      "https://l-air.or.jp/",
+      "https://l-air.or.jp/journal/2025/08/679/"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "eligibility_notes": "2027 call (English): 'Individual artists, designers, or creators, or artist duos currently engaged in creative practice. All disciplines are welcome.' 'There are no restrictions regarding age, nationality, or cultural background.' 'Applicants must be able to communicate in either Japanese or English.' The Japanese version matches: 年齢、国籍、バックグラウンドは問わない. No experience minimum or career-stage label is stated, and the Japanese page says no prior leather experience is needed. Solo applicants are fine; groups larger than a duo are not addressed."
+    },
+    "funding": {
+      "has_stipend": true,
+      "stipend_detail": "2027 call: 'International artists: Up to JPY 150,000 per month' (Japanese artists up to JPY 250,000). Japanese original: 海外アーティスト：1ヶ月/150,000円を上限. Official caveat: the grant is 'not a living allowance. It is intended solely to support artistic production.' and 'Living expenses are not provided during the residency.' An older L-AIR apply page (2024 dates) quoted 'up to 250,000 yen/1,500 USD per month'; the 2027 call supersedes that, and international artists now get the lower cap.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": true,
+      "materials_budget": "Leather and other production materials are provided free (2027 call: 'leather/production materials'). The monthly grant is production-only.",
+      "application_fee": "None stated in the 2027 English or Japanese call. Apply by email to info@l-air.or.jp, subject 'L-AIR Artist Apply'.",
+      "artist_pays": [
+        "All living expenses, food included ('Living expenses are not provided during the residency')",
+        "Health, accident and any other insurance ('Artists are responsible for obtaining their own health insurance, accident insurance...')",
+        "Any specialised tools beyond the standard leather equipment",
+        "Travel beyond one round trip. 'The organizer will reimburse one round-trip journey', by 'the most reasonable and economical route using public transportation', repaid after arrival against receipts.",
+        "Visa is not addressed in the call (unverified)"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "thematic_constraint": "HARD MATERIAL CONSTRAINT: 'Creation of works using leather as the primary material'. 'All works created using leather materials provided during the residency will be donated to L-AIR' (for its archive exhibition)."
+    },
+    "deadline": "2026-09-30",
+    "deadline_notes": "OPEN (2027 call posted 6 August 2026). 'Applications are accepted on a rolling basis. Applicants may apply for any season at any time.' Per-season deadlines: Season 1 (4 Jan to 28 Mar 2027) by 30 Sep 2026; Season 2 (1 Apr to 27 Jun 2027) by 30 Nov 2026; Season 3 (1 Jul to 26 Sep 2027) by 1 Mar 2027; Season 4 (1 Oct to 19 Dec 2027) by 31 May 2027. The nearest deadline (Season 1) is 20 days from today.",
+    "duration": "'As a general rule, it is for two to three months', within 4 seasons in 2027 (dates above). The 2026 cycle stated 1.5 to 3 months.",
+    "notes": "Open to him, currently accepting applications, and it pays a monthly grant, but the fit is conditional. His containment, vitrine, glass-box and hyperreal figurative work would have to be made mainly in LEATHER. Leather can suit surreal figurative work and scale distortion, but no glass or vitrine fabrication is described. Every piece made with L-AIR's leather is donated to L-AIR, so he keeps none of it. The grant is production-only, so living costs come out of his own pocket. Facilities: a converted leather factory with workshops 1 to 4, private bedrooms, an exhibition gallery and shared living areas. The studio has 'standard leatherworking equipment and machinery'; specialised tools must be brought, Wi-Fi is available, no computers are supplied, and artists clean their own space. An older, outdated apply page listed glass, ceramics and woodworking among priority fields, but the 2027 call does not repeat this. Obligations: open studio, final presentation or exhibition, at least one exchange programme, progress reports at 1 week, 1 month and 2 months, and cooperation with documentation and media. Visa handling is not described."
+  }
+]

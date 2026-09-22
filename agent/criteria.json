@@ -1,0 +1,297 @@
+{
+  "_about": "Client profile and screening rules for the residency filter. Change what the filter looks for here. Nothing in the Python needs touching.",
+  "client": {
+    "base_country": "India",
+    "passport": "Indian",
+    "career_stage": "emerging",
+    "applies_as": "solo",
+    "practice": "Mixed media, sculpture and installation, trained in typography.",
+    "style": "Dramatic, surrealist and figurative: containment and vitrines, the body breaking the picture plane, hyperrealism used for unease, scale distortion, a restrained palette with one loud accent, the senses as subject.",
+    "style_source": "../source/art_manager_conversation_export.json, section Artist's Visual Style Analysis",
+    "years_practising": null,
+    "_years_note": "Years of professional practice since graduating. Unknown for now. Fill in to settle residencies with an experience minimum, such as TOKAS at 5 years."
+  },
+  "hard_gates": {
+    "_about": "A residency failing any gate is disqualified outright. Set a gate to false to relax it. An UNKNOWN value never fails a gate, it sends the residency to the verify list instead.",
+    "require_stipend": true,
+    "require_india_eligible": true,
+    "exclude_digital_only": true,
+    "require_mixed_media_or_sculpture": true,
+    "exclude_collective_only": true,
+    "exclude_established_only": true,
+    "enforce_min_experience": true
+  },
+  "weights": {
+    "_about": "Points out of 100 for residencies that pass every gate.",
+    "funding_strength": 30,
+    "india_access": 20,
+    "country_practicality": 15,
+    "discipline_fit": 15,
+    "style_resonance": 10,
+    "emerging_fit": 10
+  },
+  "tiers": [
+    [
+      75,
+      "Strong fit"
+    ],
+    [
+      60,
+      "Good fit"
+    ],
+    [
+      45,
+      "Possible"
+    ],
+    [
+      0,
+      "Weak fit"
+    ]
+  ],
+  "style_keywords": {
+    "_about": "Matched against what the residency says about itself, never against research notes. Keywords match as word prefixes; a trailing $ means whole word only. A residency record can override this with style_fit (0 to 1) plus style_fit_reason.",
+    "positive": [
+      "sculpt",
+      "installation",
+      "mixed media",
+      "mixed-media",
+      "multidisciplin",
+      "interdisciplin",
+      "transdisciplin",
+      "materiality",
+      "material practice",
+      "material-based",
+      "surreal",
+      "uncanny",
+      "figurat",
+      "the body",
+      "embodi",
+      "perception",
+      "sensory",
+      "hyperreal",
+      "fabricat",
+      "ceramic",
+      "conceptual",
+      "experimental",
+      "visual art",
+      "contemporary art",
+      "fine art",
+      "typograph",
+      "letterform",
+      "fashion",
+      "all disciplines",
+      "any discipline",
+      "all media",
+      "any medium"
+    ],
+    "negative": [
+      "digital",
+      "new media",
+      "media art",
+      "ai$",
+      "artificial intelligence",
+      "robot",
+      "bio art",
+      "bioart",
+      "biotech",
+      "software",
+      "coding",
+      "socially engaged",
+      "social practice",
+      "community-based",
+      "community engagement",
+      "ecolog",
+      "climate",
+      "writer",
+      "literary",
+      "literature",
+      "curator",
+      "curatorial",
+      "choreograph",
+      "dance",
+      "music",
+      "composer",
+      "sound art",
+      "architecture"
+    ]
+  },
+  "facility_keywords": [
+    "workshop",
+    "woodshop",
+    "wood shop",
+    "metal shop",
+    "metalwork",
+    "welding",
+    "kiln",
+    "ceramics studio",
+    "foundry",
+    "fabrication",
+    "fab lab",
+    "technician",
+    "technical staff",
+    "production support",
+    "production budget"
+  ],
+  "country_practicality": {
+    "_about": "Starting heuristic for an Indian passport holder, 0 to 1. Weighs visa friction, travel from India, and cost of living against a typical stipend. Edit freely. Visa rules change often, so confirm with the embassy before applying.",
+    "_default": {
+      "score": 0.6,
+      "why": "Country not in the table. Check visa and cost manually."
+    },
+    "India": {
+      "score": 1.0,
+      "why": "Home country. No visa, lowest cost."
+    },
+    "Nepal": {
+      "score": 0.95,
+      "why": "No visa needed for Indian nationals, short travel."
+    },
+    "Bhutan": {
+      "score": 0.9,
+      "why": "Low entry friction for Indian nationals, short travel."
+    },
+    "Sri Lanka": {
+      "score": 0.9,
+      "why": "Short flight, low visa friction."
+    },
+    "Thailand": {
+      "score": 0.85,
+      "why": "Short flight from India, generally low visa friction."
+    },
+    "Singapore": {
+      "score": 0.85,
+      "why": "Short flight and routine visa process, but high cost of living."
+    },
+    "United Arab Emirates": {
+      "score": 0.85,
+      "why": "Short flight, routine visa process.",
+      "aliases": [
+        "UAE"
+      ]
+    },
+    "Indonesia": {
+      "score": 0.8,
+      "why": "Reasonable flight, generally manageable entry."
+    },
+    "Japan": {
+      "score": 0.8,
+      "why": "Visa needed but routine with an invitation letter. Direct flights from India. High cost of living, so check the stipend covers it."
+    },
+    "South Korea": {
+      "score": 0.75,
+      "why": "Visa needed, generally manageable with an invitation.",
+      "aliases": [
+        "Korea",
+        "Republic of Korea"
+      ]
+    },
+    "Taiwan": {
+      "score": 0.75,
+      "why": "Visa needed, generally manageable with an invitation."
+    },
+    "United Kingdom": {
+      "score": 0.75,
+      "why": "Visa needed and relatively costly. Well-trodden route from India with many direct flights. London is expensive.",
+      "aliases": [
+        "UK",
+        "England",
+        "Scotland",
+        "Wales",
+        "Great Britain",
+        "Britain"
+      ]
+    },
+    "France": {
+      "score": 0.7,
+      "why": "Schengen visa needed. Manageable with an invitation letter, but appointment waits can be long in peak season."
+    },
+    "Italy": {
+      "score": 0.7,
+      "why": "Schengen visa needed. Manageable with an invitation letter, but appointment waits can be long in peak season."
+    },
+    "Spain": {
+      "score": 0.7,
+      "why": "Schengen visa needed. Manageable with an invitation letter, but appointment waits can be long in peak season."
+    },
+    "Germany": {
+      "score": 0.7,
+      "why": "Schengen visa needed. Manageable with an invitation letter, but appointment waits can be long in peak season."
+    },
+    "Netherlands": {
+      "score": 0.7,
+      "why": "Schengen visa needed. Manageable with an invitation letter, but appointment waits can be long in peak season."
+    },
+    "Portugal": {
+      "score": 0.7,
+      "why": "Schengen visa needed. Manageable with an invitation letter, but appointment waits can be long in peak season."
+    },
+    "Belgium": {
+      "score": 0.7,
+      "why": "Schengen visa needed. Manageable with an invitation letter, but appointment waits can be long in peak season."
+    },
+    "Austria": {
+      "score": 0.7,
+      "why": "Schengen visa needed. Manageable with an invitation letter, but appointment waits can be long in peak season."
+    },
+    "Switzerland": {
+      "score": 0.65,
+      "why": "Schengen visa needed, and very high cost of living against most stipends."
+    },
+    "Finland": {
+      "score": 0.7,
+      "why": "Schengen visa needed. Manageable with an invitation letter."
+    },
+    "Sweden": {
+      "score": 0.7,
+      "why": "Schengen visa needed. Manageable with an invitation letter."
+    },
+    "Norway": {
+      "score": 0.65,
+      "why": "Schengen visa needed, and high cost of living."
+    },
+    "Denmark": {
+      "score": 0.7,
+      "why": "Schengen visa needed. Manageable with an invitation letter."
+    },
+    "Greece": {
+      "score": 0.7,
+      "why": "Schengen visa needed. Manageable with an invitation letter."
+    },
+    "Poland": {
+      "score": 0.7,
+      "why": "Schengen visa needed. Manageable with an invitation letter, lower cost of living."
+    },
+    "Ireland": {
+      "score": 0.65,
+      "why": "Separate Irish visa needed, not covered by a Schengen or UK visa."
+    },
+    "Australia": {
+      "score": 0.6,
+      "why": "Visa needed, long and costly flight."
+    },
+    "Canada": {
+      "score": 0.55,
+      "why": "Visa needed. Processing times for Indian applicants have often been long, so start early."
+    },
+    "United States": {
+      "score": 0.4,
+      "why": "Visa needed. Interview waits in India have often been very long, and paid residencies can raise visa-category questions.",
+      "aliases": [
+        "USA",
+        "US",
+        "United States of America",
+        "America"
+      ]
+    },
+    "Multiple": {
+      "score": 0.6,
+      "why": "Depends on the host country.",
+      "aliases": [
+        "Various",
+        "European Union",
+        "EU",
+        "Multiple European countries"
+      ]
+    }
+  }
+}

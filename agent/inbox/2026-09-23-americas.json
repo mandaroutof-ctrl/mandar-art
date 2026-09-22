@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Est-Nord-Est Artist Residency 2027-2028",
+    "location": "Saint-Jean-Port-Joli, Quebec",
+    "country": "Canada",
+    "verified": true,
+    "source_urls": [
+      "https://estnordest.org/en/artist-residency/artist-residency-regular/",
+      "https://estnordest.org/en/news/programming/2026-2027-calls-for-applications/"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official wording: 'Professional visual artists, whether established or emerging, from Quebec, Canada, and other countries.' Summer 2027 session is curated and prioritises artists of African descent; apply for spring, fall or winter. No student exclusion or years minimum stated."
+    },
+    "funding": {
+      "has_stipend": true,
+      "living_stipend": true,
+      "production_grant": false,
+      "stipend_detail": "Official wording: 'Residency honorarium of CAD $2,080' for the eight-week residency. 'Materials, travel fees and other living charges are at the residents' expense.' Optional paid workshop: $300 honorarium if selected.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None. Materials at the artist's expense.",
+      "application_fee": "No application fee mentioned on the official page (not confirmed as zero).",
+      "artist_pays": [
+        "international travel",
+        "materials",
+        "food and living costs",
+        "visa"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Eight-week research, exploration and experimentation residency for visual artists and authors in contemporary art. Studio-workshop with furnished accommodation, access to specialized equipment (wood, metal, ceramics), documentation centre, technical, artistic and logistical support. Interdisciplinary practices welcome."
+    },
+    "deadline": "2026-11-08",
+    "deadline_notes": "Official: 'Deadline: November 8, 2026 at 11:59 p.m.' for the 2027-2028 cycle. Periods: Spring Apr 19 to Jun 11 2027, Summer Jul 5 to Aug 27 2027 (curated), Fall Sep 27 to Nov 19 2027, Winter Jan 24 to Mar 18 2028.",
+    "duration": "8 weeks",
+    "money_summary": "CAD 2,080 honorarium for 8 weeks plus housing and studio-workshop; artist pays travel, materials and food",
+    "style_fit": 0.7,
+    "style_fit_reason": "Research and experimentation centre for contemporary visual art with wood, metal and ceramics workshops and technical support, in a village known for wood sculpture. Suits material, sculptural work. No thematic steer.",
+    "cautions": [
+      "Honorarium is CAD 2,080 for 8 weeks, which will not cover a flight from India plus food; budget the gap.",
+      "Visa: nothing on the page about visa letters or support. Canadian visitor visa processing for Indian applicants can be slow; apply early.",
+      "Summer 2027 session is curated for artists of African descent; choose another season.",
+      "Application fee not stated; assume none but confirm."
+    ],
+    "notes": "Strongest Americas candidate found this sweep: open now, real honorarium, workshop facilities matched to sculpture. Bilingual centre (French and English); language requirement not stated."
+  },
+  {
+    "name": "Alaska AIR 2027-28 (Bunnell Street Arts Center Artist in Residence)",
+    "location": "Homer, Alaska",
+    "country": "United States",
+    "verified": true,
+    "source_urls": [
+      "https://opportunities.wearecreativewest.org/opportunity/17982/CAFE",
+      "https://artistcommunities.org/directory/open-calls/2027-28-alaska-air-bunnell-street-arts-center-artist-residence",
+      "https://www.bunnellarts.org/artist-in-residence/"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Call wording: 'Open to International, US, and Alaska artists.' ACA listing: 'Any stage of career.' No visa wording on the call."
+    },
+    "funding": {
+      "has_stipend": true,
+      "living_stipend": true,
+      "production_grant": false,
+      "stipend_detail": "Call wording: '$2000 stipend for 1 month residency (pro-rated if shorter)', 'Round trip travel to Homer (up to $1000 value)', '$250 materials stipend', 'Private bedroom with private bath in a shared apartment'.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": true,
+      "visa_support": null,
+      "materials_budget": "USD 250 materials stipend",
+      "application_fee": "$25 application fee. (Needs-based waivers are available)",
+      "artist_pays": [
+        "food",
+        "any travel above USD 1,000",
+        "visa"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "Community engagement component required, on themes such as accessibility, inclusion or sustainability.",
+      "programme_focus": "One-month residencies, October through May, in a community arts centre. Visual arts, literary arts, performing arts, social and civic practice, ephemeral art, moving image, movement and dance, music. Shared studios with printmaking, textile and fiber workspaces and a gallery."
+    },
+    "deadline": "2026-10-15",
+    "deadline_notes": "Call wording: 'Applications are accepted September 1 to October 15' for residencies in the 2027-28 season (fall, winter, spring, one month each, October through May).",
+    "duration": "About 1 month (2 weeks to 1 month)",
+    "money_summary": "USD 2,000 stipend for a month plus travel up to USD 1,000, USD 250 materials and private lodging; USD 25 fee",
+    "style_fit": 0.5,
+    "style_fit_reason": "Broad multi-discipline community arts centre; facilities lean to printmaking and textiles rather than sculpture fabrication. Money and openness are the draw, not the studio.",
+    "cautions": [
+      "Obligations: an introductory artist talk and a community engagement component (workshop, outreach or event).",
+      "Travel cap of USD 1,000 will not cover India to Homer, Alaska; expect to top up.",
+      "The organisation's own site (bunnellarts.org) did not respond during this sweep; facts come from its official CaFE / Creative West application listing and its ACA listing. No visa language anywhere."
+    ],
+    "notes": "Winter in Homer is dark and cold; residencies run October to May. Duration is short for the visa effort involved."
+  },
+  {
+    "name": "Volland Foundation 2027 Residency Program",
+    "location": "Alma, Kansas (Volland, Flint Hills)",
+    "country": "United States",
+    "verified": true,
+    "source_urls": [
+      "https://www.vollandfoundation.org/2027-application",
+      "https://www.vollandfoundation.org/about",
+      "https://artistcommunities.org/directory/open-calls/2027-volland-residencies"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official wording: applicants 'in all stages of their career (emerging, mid-level, professional) and all areas of the globe: local, national and international.' Official: 'Valid driver's license required; car needed for duration.'"
+    },
+    "funding": {
+      "has_stipend": true,
+      "living_stipend": true,
+      "production_grant": false,
+      "stipend_detail": "Official: $500 stipend for two-week residents; $1,000 for four-week residents. Housing and studio space provided. Residents pay transportation and vehicle costs, art materials and shipping, and meals (residents cook their own).",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None",
+      "application_fee": "$25 application fee",
+      "artist_pays": [
+        "travel",
+        "car hire and fuel",
+        "food",
+        "materials and shipping",
+        "visa"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Two to four week self-directed residencies in a restored general store and campus in the Kansas Flint Hills. Artists, writers, poets, musicians, designers and scientists; disciplines listed include sculpture, painting, book arts, photography, music and writing. Some public interaction encouraged."
+    },
+    "deadline": "2026-11-02",
+    "deadline_notes": "Official: 'Applications close on November 2nd, 2026.' Sessions of 2 to 4 weeks from spring to fall 2027.",
+    "duration": "2 to 4 weeks",
+    "money_summary": "USD 500 (2 weeks) or USD 1,000 (4 weeks) stipend plus free housing and studio; artist pays travel, car, food and materials; USD 25 fee",
+    "style_fit": 0.45,
+    "style_fit_reason": "Open-discipline rural retreat with no fabrication facilities described. Fine for drawing, planning and small-scale work, weak for large sculpture or installation.",
+    "cautions": [
+      "A car for the full stay and a valid driver's licence are required; an Indian licence plus international permit and a US rental would be the artist's cost and problem.",
+      "Stipend is small against a flight from India.",
+      "No visa language on the site."
+    ],
+    "notes": "Remote location; nearest city Manhattan or Topeka, Kansas."
+  },
+  {
+    "name": "Artist in Residence at The Factory (Factory on Willow) 2027",
+    "location": "Manchester, New Hampshire",
+    "country": "United States",
+    "verified": true,
+    "source_urls": [
+      "https://www.factoryonwillow.com/air",
+      "https://artistcommunities.org/directory/open-calls/2027-artist-residency-open-call-factory",
+      "https://artistcommunities.org/directory/residencies/artist-residence-factory"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "emerging",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Confirmed on the official site (read 2026-09-23). Official: 'A 12-week non-profit program designed to bring artists from around the world to Manchester, NH.' 'The applications are reviewed by an art committee whose efforts ensure that a broad range of artistic disciplines, styles, and national origins are represented.' Career stage is set by a self-assessment table: a 'HOBBY ARTIST' is told 'You're not a good fit for The Factories AIR program just yet', an 'AMATEUR ARTIST' 'may be a good Fit', an 'EMERGING ARTIST' is 'an ideal Fit', and an 'ADVANCED EMERGING ARTIST' 'may be too advanced in your career for what this program can offer'. No nationality bar and no years minimum. Visas and work authorisation are not mentioned anywhere on the official page."
+    },
+    "funding": {
+      "has_stipend": true,
+      "living_stipend": true,
+      "production_grant": false,
+      "stipend_detail": "Official: 'Selected applicants are provided a studio apartment with baseic household amenities, heat, hot water, electricity & internet provided. Additionally each artist is granted a $350 travel stipend and a $1600 stipend that covers food and art supplies.' The $1,600 is for the residency, not per month: the page warns 'Works that go beyond the scope of the AIR stipends will depend on self funding or acquiring community partnerships/sponsors.'",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": true,
+      "visa_support": null,
+      "materials_budget": "Included within the USD 1,600 food and art supplies stipend",
+      "application_fee": "None. Official wording: 'There is no applicant fee and the deadline is rolling, but we encourage you to apply as our spots fill up quickly'.",
+      "artist_pays": [
+        "travel above USD 350",
+        "any production beyond the stipends",
+        "visa"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Official: 'A 12-week non-profit program designed to bring artists from around the world to Manchester, NH. Our program fosters an environment that allows creative freedom to explore, define, and polish your working portfolio.' Live/work studio apartment in a converted mill campus, with the option to 'expand their creative workspace area into our lower level commercial lot'. Runs three times a year: 'Session 1: March - May | Session 2: June - August | Session 3: September - November'. Each residency ends in an artist opening celebration in the onsite event space, set up 'to feature your installations and presentations to the local community'. Manchester Maker Space and the Currier Museum are named local partners."
+    },
+    "deadline": "rolling",
+    "deadline_notes": "CORRECTED on the official site. Official wording: 'There is no applicant fee and the deadline is rolling, but we encourage you to apply as our spots fill up quickly.' The official page shows '2026 Residencies Status: Application Closed' and '2027 Residencies Apply Today' with a Google Form link. The ACA listing's 30 November 2026 deadline is not repeated anywhere on the organisation's own site; treat November 30, 2026 as the ACA-stated cut-off for the 2027 round and apply well before it, since places 'fill up quickly'.",
+    "duration": "Up to 3 months; the programme describes itself as a 12-week program, in sessions March-May, June-August and September-November",
+    "money_summary": "USD 1,600 stipend for food and art supplies plus USD 350 travel, free live/work studio apartment with utilities; no application fee",
+    "style_fit": 0.5,
+    "style_fit_reason": "Open to all disciplines with a live/work studio, an expandable lower-level commercial lot for bigger work and a maker space nearby, and the closing show is explicitly set up for installations. Adequate for mixed media and installation, but there is no on-site fabrication shop or technician and no stated curatorial leaning.",
+    "cautions": [
+      "Official: 'The program requires for each artist to donate once piece created during their residency to be part of the Factory on Willow's permanent collection.' The donated work is displayed across the campus.",
+      "Obligation: 'Each residency concludes with an artist opening celebration' acting as a solo or duo exhibition; artists are also expected to pursue local connections themselves.",
+      "USD 350 travel will not cover a flight from India; the USD 1,600 has to stretch across food and materials for up to 12 weeks.",
+      "The official page says the deadline is rolling and spots fill quickly, so the ACA date is a backstop, not a safe target.",
+      "Visa: nothing on the official site about visas, invitation letters or work authorisation."
+    ],
+    "notes": "Verified on the organisation's own site on 2026-09-23 after WebFetch failed twice; Brightdata's scraper got through (Firecrawl was out of credits). Application is a Google Form linked from the official page. Career-stage self-assessment puts the client squarely in the 'ideal Fit' band. Past residents listed include sculpture work."
+  },
+  {
+    "name": "Monson Arts Residency, Spring 2027",
+    "location": "Monson, Maine",
+    "country": "United States",
+    "verified": true,
+    "source_urls": [
+      "https://monsonarts.org/residencies/",
+      "https://artistcommunities.org/directory/open-calls/spring-2027-open-call"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official: 'Applications for a residency at Monson Arts are open to anyone at any stage of their career.' ACA listing: 'Open to artists based anywhere in the world.' Official page says nothing about international applicants or visas."
+    },
+    "funding": {
+      "has_stipend": true,
+      "living_stipend": true,
+      "production_grant": false,
+      "stipend_detail": "Official: residents 'receive a private studio, private bedroom in shared housing, all meals, and $500 stipend ($250 for 2-week programs)'. No travel support (ACA lists travel stipend $0).",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None stated",
+      "application_fee": "$25 (per ACA listing; not shown on the official residencies page)",
+      "artist_pays": [
+        "travel",
+        "materials",
+        "visa"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Two to four week residencies for visual arts, writing and related fields (audio, video, photography, woodworking, movement, playwriting). Spacious, light-filled visual arts studios, private bedroom, all meals, in a small town in the Maine Highlands."
+    },
+    "deadline": "2027-01-15",
+    "deadline_notes": "Official: 'Our next application period will be open Dec 1st – Jan 15th for residency sessions taking place in the Spring of 2027.' Portal is not live until December 1, 2026. Sessions: Mar 29 to Apr 22, Apr 26 to May 20, May 24 to Jun 3 (2 weeks) 2027.",
+    "duration": "2 to 4 weeks",
+    "money_summary": "USD 500 stipend (USD 250 for 2 weeks) plus private studio, room and all meals; artist pays travel; USD 25 fee",
+    "style_fit": 0.5,
+    "style_fit_reason": "General visual arts and writing residency with large studios and full board, no fabrication shop described. Comfortable for material work at modest scale.",
+    "cautions": [
+      "Application portal opens only on December 1, 2026; the January 15 deadline is confirmed but the form is not yet live.",
+      "Stipend is small; no travel money.",
+      "No visa language on the site."
+    ],
+    "notes": "All-meals model keeps living costs near zero once there. Remote; reaching Monson from Bangor or Portland airports needs ground transport."
+  },
+  {
+    "name": "Surel's Place Artist-in-Residence Program (July to November 2027)",
+    "location": "Garden City (Boise), Idaho",
+    "country": "United States",
+    "verified": true,
+    "source_urls": [
+      "https://surelsplace.org/application/",
+      "https://surelsplace.org/month-long-residencies/",
+      "https://artistcommunities.org/directory/open-calls/surels-place-artist-residency-program-july-december"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official: 'All residents must be at least 25 years old'; non-smoking required. ACA listing: 'Open to artists based anywhere in the world', 'Any stage of career'. Official pages do not mention nationality or visas. Playwrights and screenwriters not reviewed this cycle."
+    },
+    "funding": {
+      "has_stipend": true,
+      "living_stipend": true,
+      "production_grant": false,
+      "stipend_detail": "Official: 'modest living stipend of $100 per week', '$300 travel stipend', 'free rent', 'free utilities', 'free wi-fi'. Bicycles provided.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None",
+      "application_fee": "$0 (per ACA listing; official application page mentions no fee)",
+      "artist_pays": [
+        "travel above USD 300",
+        "food",
+        "materials",
+        "visa"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Month-long residency in a one-bedroom live-work home with a spacious studio in the Surel Mitchell Live-Work-Create District. Visual, literary, multimedia and performance artists. Residents give a public workshop and a show or talk; optional paid school outreach."
+    },
+    "deadline": "2027-03-01",
+    "deadline_notes": "Official: 'March 1' deadline for residencies 'July-November of the same year', so March 1, 2027 for July to November 2027. Late applications are held for the next round.",
+    "duration": "About 1 month",
+    "money_summary": "USD 100 per week living stipend plus USD 300 travel and free housing with studio; no fee; artist donates one work and pays 35 percent commission on sales",
+    "style_fit": 0.4,
+    "style_fit_reason": "Domestic home-studio setting with no fabrication facilities; fine for small mixed-media work, not for large installation. No evidence of a surrealist or figurative leaning.",
+    "cautions": [
+      "Official: 'Visual Artists must donate one piece of art to Surel's Place for future fundraising efforts.'",
+      "Official: 35 percent commission on all sales from the residency, 45 percent on ticketed events, 15 percent on merchandise.",
+      "Must be 25 or older.",
+      "Obligations: at least one public workshop plus a show or lecture."
+    ],
+    "notes": "Funding is thin (about USD 400 for the month) but housing is free and there is no fee. Deadline is five months away."
+  },
+  {
+    "name": "Vermont Studio Center Residency (2027 sessions)",
+    "location": "Johnson, Vermont",
+    "country": "United States",
+    "verified": true,
+    "source_urls": [
+      "https://vermontstudiocenter.org/apply",
+      "https://vermontstudiocenter.org/fees",
+      "https://vermontstudiocenter.org/fellowships",
+      "https://vermontstudiocenter.org/application-faq",
+      "https://artistcommunities.org/directory/open-calls/vermont-studio-center-open-call"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Confirmed on the official site (read 2026-09-23). Official apply page: 'A Vermont Studio Center residency provides artists and writers from around the world with the time and space to deepen their creative practice.' No nationality or career-stage bar is stated. Official application FAQ: 'VSC welcomes collaboration and accepts collaborative pairs (no more than two people)', so solo applications are the norm. 'If you consider yourself a visual artist who uses text or words, then you should fill out a Visual Artist application', which is the right route for a typography-trained artist. Visas are not mentioned anywhere on the official pages."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "ANSWERED: a VSC fellowship is a fee reduction, not a stipend, except for a named handful that are not open to this client. Official fees page: 'Through the generosity of individual donors and foundation partners, Vermont Studio Center is able to ensure a full or partial fellowship for every attendee. All fellowships are awarded through a competitive process. VSC awards full fellowships to 35% of residents and partial fellowships to all accepted applicants. The fee asked of partial fellowship recipients varies by duration of session: $2,700 for two weeks / $3,825 for three weeks / $4,950 for four weeks. A 10% discount on these fees is available to residents who elect to share a bathroom with one other resident, subject to availability.' A full fellowship therefore means paying nothing rather than being paid. Official fellowships page: 'There are no eligibility requirements for a VSC Fellowship, as recipients are selected solely on the merit of their work' - and the VSC Fellowship itself carries no cash. SOME named fellowships do add cash on top, but every one of them is restricted: 'HEDDA STERNE FELLOWSHIP Supports a female-identifying visual artist for a two-week residency. This Fellowship includes a $1,000 stipend.'; 'LATIN AMERICAN AND CARIBBEAN ARTIST FELLOWSHIP ... includes a $1,000 stipend.'; 'HARPO FOUNDATION NATIVE AMERICAN FELLOWSHIP Supports exceptional US-based Native American visual artists ... This award includes a $500 travel stipend.'; 'QUEENS COLLEGE CUNY FELLOWSHIP ... By invitation only.' The one stipend-bearing visual-arts fellowship with no stated nationality, gender or institutional bar is: 'TROUT LILY FELLOWSHIP Supports a visual artist with financial need attending a three-week residency. This fellowship includes a $1000 stipend.' There is no published application route or eligibility detail for Trout Lily beyond that line. Recorded as has_stipend false because no stipend is available by default and none is guaranteed.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None stated",
+      "application_fee": "Not stated on any official VSC page. The ACA listing says '$25 US Dollar (USD)', and VSC's own Civil Society Institute Fellowship text refers to a '$25 application reimbursement', which corroborates a USD 25 fee without stating it directly.",
+      "artist_pays": [
+        "USD 2,700 (2 weeks), USD 3,825 (3 weeks) or USD 4,950 (4 weeks) unless a full fellowship is awarded",
+        "travel",
+        "materials",
+        "visa"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Two, three and four week residencies for visual artists and writers with private studio, private room and all meals, plus 'resident presentations, open studios, and an acclaimed Visiting Artists & Writers program'. Campus shops and studios cover sculpture, printmaking, painting and woodworking. Applications are 'juried together in a pool by a rotating jury of practicing artists and writers'."
+    },
+    "deadline": "2026-09-30",
+    "deadline_notes": "Confirmed on the official apply page: 'Vermont Studio Center is NOW accepting applications through September 30, 2026 (11:59pm EST)'. 'This Open Call will fill residencies from July 2027 to December 2027.' The following cycle is official too: 'Our next application cycle is: February 15 through March 31.' Notification: 'For our August/September application, VSC will notify you by January 1.'",
+    "duration": "2 to 4 weeks",
+    "money_summary": "Nothing is paid. A full fellowship (35 percent of residents) waives a fee of USD 2,700 to USD 4,950; everyone else pays part of it, plus travel and materials",
+    "style_fit": 0.55,
+    "style_fit_reason": "Large, well-equipped visual arts campus with dedicated sculpture and printmaking studios, all disciplines. Facilities suit material work; no thematic steer either way.",
+    "cautions": [
+      "Confirmed: this is not a funded residency. A fellowship reduces or waives the residency fee, it does not pay the artist. Partial fellowship still leaves USD 2,700 to USD 4,950 to pay, before flights from India.",
+      "Only a 35 percent chance of a full fellowship among accepted residents, and acceptance itself is competitive.",
+      "The few VSC fellowships that do carry cash are restricted by gender, region or invitation. The only unrestricted one is the Trout Lily Fellowship, 'a visual artist with financial need', USD 1,000 stipend, three weeks, with no published application route.",
+      "Deadline is 30 September 2026, seven days away, and this open call fills residencies for July to December 2027.",
+      "Application fee is not published on the official site; budget for the USD 25 the ACA listing states.",
+      "Visa: nothing anywhere on the official site about visas or invitation letters."
+    ],
+    "notes": "Verified on the organisation's own pages on 2026-09-23 via Brightdata after WebFetch failed (Firecrawl out of credits). The stipend question the manager asked is answered: fellowships are fee relief, not income, so the previous scout's call was right. Worth applying only if the client can absorb a four-figure fee at partial-fellowship odds, or is willing to gamble on the 35 percent full-fellowship rate. Open question, unpublished: how a resident is considered for the Trout Lily Fellowship and whether non-US artists are eligible for it. Ask info@vermontstudiocenter.org, the address given in the site footer."
+  },
+  {
+    "name": "Lighthouse Works Fellowship 2027",
+    "location": "Fishers Island, New York",
+    "country": "United States",
+    "verified": true,
+    "source_urls": [
+      "https://lighthouseworks.us/fellowship",
+      "https://lighthouseworks.us/fellowship/faq",
+      "https://artistcommunities.org/directory/residencies/lighthouse-works-fellowship"
+    ],
+    "eligibility": {
+      "india_eligible": false,
+      "india_specific": false,
+      "international_open": false,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "SETTLED on the organisation's own site. Official F.A.Q., question 'Are international artists allowed to apply?': 'Lighthouse Works primarily considers applications from US-based artists. International artists with a demonstrated history of living and working in the United States are also encouraged to apply.' An India-based artist with no history of living and working in the US is therefore outside the stated pool, so india_eligible is false. Other official wording: 'Artists at any stage of their career are encouraged to apply'; 'You can! We only ask that you are not currently enrolled in a BFA or MFA program'; 'Fellows must be at least 21 years of age. There is no maximum age limit.'"
+    },
+    "funding": {
+      "has_stipend": true,
+      "living_stipend": true,
+      "production_grant": false,
+      "stipend_detail": "Official F.A.Q.: 'The Lighthouse Works fellowship program is cost-free. Each fellow is awarded a $1,750 stipend toward travel, supplies, or whatever else each Fellow feels they need to help them come to Fishers Island for six weeks. Room and board and a workspace are provided free of charge.' Fellowship page: fellowships 'provide fellows with housing, food, studio space, and $1,750 in financial support'. The $1,750 is unrestricted cash, not a separate travel grant.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None stated",
+      "application_fee": "USD 25. Official F.A.Q.: 'The application fee is $25. Ten of these dollars go to Slideroom for providing the online service. The other $15 goes toward providing W.A.G.E.-standard honoraria for the distinguished panelists who review our applications.' Waivers: 'We do offer a limited number of application fee waivers for those who need them (which are available on a first-come, first-served basis). Please complete your application form and contact hello@lighthouseworks.us before you submit it, and we will waive the fee.'",
+      "artist_pays": [
+        "travel",
+        "materials",
+        "visa"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Six-week fellowships year-round on a small island for 'cultural producers working in the vanguard of their creative fields': visual artists, writers, choreographers, composers. Private studios near the ocean, wood and metal fabrication shop, kiln. 'Artistic excellence is the primary criterion for acceptance.'"
+    },
+    "deadline": "2026-10-01",
+    "deadline_notes": "Official: 'The 2027 Fellowship Application Portal is open between September 1, 2026 and October 1, 2026.'",
+    "duration": "6 weeks",
+    "money_summary": "USD 1,750 unrestricted stipend plus free housing, meals and a private studio for 6 weeks; USD 25 fee; but the programme states it primarily considers US-based artists",
+    "style_fit": 0.6,
+    "style_fit_reason": "Selection on artistic excellence, private studios with wood and metal fabrication and a kiln: good match for sculptural, material work. No evidence on surrealist leaning.",
+    "cautions": [
+      "ELIGIBILITY BLOCKER, now confirmed on the official F.A.Q.: 'Lighthouse Works primarily considers applications from US-based artists. International artists with a demonstrated history of living and working in the United States are also encouraged to apply.' The client has no stated US living-and-working history, so this is very likely a dead end.",
+      "Deadline October 1, 2026, about a week away.",
+      "Fellows must be at least 21 and must not be currently enrolled in a BFA or MFA programme.",
+      "No travel funding beyond the $1,750, which is meant to cover travel and supplies together. Flights from India would eat most of it.",
+      "Visa: the site says nothing about visas or sponsorship."
+    ],
+    "notes": "Resolved the ACA conflict: the ACA listing's 'US-based only' is broadly right and the organisation's own F.A.Q. confirms the preference in its own words. The official page is silent on nationality but the F.A.Q. on the same site is not, so this no longer needs an email. If the manager still wants to test it, the only open question is: does 'a demonstrated history of living and working in the United States' include past US exhibitions and residencies, or does it mean actual US residence? Ask hello@lighthouseworks.us (the F.A.Q. gives that address for fee waivers and general queries). About 25 fellows chosen a year. Island reached by ferry from New London, Connecticut. 2027 sessions: Mar 9-Apr 20, May 4-Jun 15, Jun 29-Aug 10, Aug 24-Oct 5, Oct 19-Nov 30."
+  }
+]

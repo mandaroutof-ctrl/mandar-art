@@ -1,0 +1,293 @@
+[
+  {
+    "name": "Volland Foundation 2027 Residency Program",
+    "location": "Volland, Wabaunsee County, Kansas (8 miles outside Alma)",
+    "duration": "Seven 2027 sessions, 2 openings each. Spring: 23 March to 8 April 2027; 20 April to 6 May 2027; 11 May to 8 June 2027; 15 June to 13 July 2027. Summer: 27 July to 12 August 2027; 7 September to 5 October 2027. Fall: 19 October to 16 November 2027. The site lists sessions only as dates and does not label their length; the stipend line distinguishes 'two/four week residents', so the shorter sessions read as 2 weeks and the longer as 4 weeks. Session lengths are inferred, not stated.",
+    "deadline": "2026-11-02",
+    "theme": "",
+    "provides": {
+      "grant": "",
+      "stipend": "\"$500/$1000 stipend for two/four week residents, respectively\"",
+      "housing": "\"Housing and studio space\" listed under Volland Provides. Residents live and work on or near the Volland campus; in 2027 the Foundation is \"realizing its masterplan to house all artists and studios on the Volland campus\" with ongoing construction.",
+      "airfare": "Not provided. Under Residents Provide: \"Transportation and associated costs\" and \"A vehicle for the duration of their residency\". \"Because of the remote location, it is necessary for all participants to have a car during their residency, plus a valid driver's license. If this presents a hardship, please contact us for optional solutions.\"",
+      "accommodation": "Provided free as part of \"Housing and studio space\". Meals are not included: \"Residents are responsible for their own meals.\" Volland provides \"Occasional group meals\".",
+      "workspace": "\"Housing and studio space\" is provided. The page does not say whether the studio is private or shared. UNCONFIRMED: private vs shared.",
+      "artist_fee": "None stated. \"The Volland Foundation does not require residents to complete or show work during their residency.\"",
+      "materials": "Not provided. Under Residents Provide: \"Art materials and shipping costs\"."
+    },
+    "application_requirements": {
+      "bio": "UNCONFIRMED",
+      "website": "UNCONFIRMED",
+      "portfolio": "UNCONFIRMED",
+      "artwork_details": "UNCONFIRMED",
+      "image_count": "UNCONFIRMED",
+      "image_video_format": "UNCONFIRMED",
+      "submission_method": "Google Form linked from the 2027 Application page, plus a separate $25 application fee paid through the Volland Store (Square) checkout. \"Your application will not be considered complete until the $25 application fee is paid.\" The fee is also listed under Residents Provide as \"A $25 residency application fee\".",
+      "questions": [],
+      "other": [
+        "$25 application fee, paid separately at https://the-volland-store.square.site/product/volland-residency-application-fee/418",
+        "\"Spouses interested in their own residency should apply separately.\"",
+        "\"A collaborative team may apply for a residency.\"",
+        "Open to all career stages and all countries: \"Volland seeks applicants in all stages of their career (emerging, mid-level, professional) and all areas of the globe: local, national and international.\"",
+        "Resident Handbook (2026 edition) published at https://irp.cdn-website.com/461f658c/files/uploaded/Volland+Residency+Handbook+for+2026.pdf"
+      ]
+    },
+    "contact_email": "ryan@vollandfoundation.org",
+    "application_url": "https://docs.google.com/forms/d/e/1FAIpQLScsCDQOnAJylYFHfUzTWiXE-ZZcuvnyG3evreKjOZimExEryw/viewform",
+    "residency_url": "https://www.vollandfoundation.org/2027-application",
+    "unconfirmed": [
+      "Every application_requirements field except the submission method. The linked Google Form returns HTTP 401 and a Google sign-in wall to WebFetch, to a direct curl with a browser user agent, and to r.jina.ai. The form appears to be restricted to signed-in Google accounts, so its questions, image count, file formats and size limits could not be read. Checked: https://docs.google.com/forms/d/e/1FAIpQLScsCDQOnAJylYFHfUzTWiXE-ZZcuvnyG3evreKjOZimExEryw/viewform",
+      "Whether the studio is private or shared. Checked https://www.vollandfoundation.org/about and https://www.vollandfoundation.org/2027-application",
+      "Exact length in weeks of each 2027 session. Checked https://www.vollandfoundation.org/2027-application",
+      "Visa support for international residents. Not mentioned on either page checked."
+    ]
+  },
+  {
+    "name": "Est-Nord-Est Artist Residency 2027-2028",
+    "location": "Saint-Jean-Port-Joli, Québec, Canada",
+    "duration": "8 weeks per residency, four sessions, four artists per season. Spring: 19 April to 11 June 2027. Summer: 5 July to 27 August 2027 (curated residency). Fall: 27 September to 19 November 2027. Winter: 24 January to 18 March 2028.",
+    "deadline": "2026-11-08",
+    "theme": "No theme for the regular Spring, Fall and Winter sessions. The Summer 2027 session only is a curated residency by Cécilia Bracmort titled \"Corps céleste, corps terrestre (Celestial Body, Terrestrial Body) centered on the concept of osmosis, viewed as a process of gradual transformation through which beings, materials, and environments mutually influence one another.\" Its eligibility note reads: \"Priority is given to artists of African descent, while welcoming anyone whose practice resonates with the themes explored.\"",
+    "provides": {
+      "grant": "",
+      "stipend": "\"Residency honorarium of CAD $2,080\" for the eight weeks. Optional extra: \"To propose a workshop for a youth or community organization in the region (an additional honorarium of $300 is offered to artists whose workshop proposal is selected)\".",
+      "housing": "\"Access to an individual studio-workshop to be used for work and lodging\". Lodging and workspace are the same individual space. Each studio is furnished with one double bed and two single beds.",
+      "airfare": "Not provided. \"Materials, travel fees and other living charges are at the residents' expense.\"",
+      "accommodation": "Included in the individual studio-workshop. An accompanying adult may stay the whole residency at no extra cost but must share the same studio.",
+      "workspace": "Private. \"Access to an individual studio-workshop\", one per artist, plus shared \"Access to specialized equipment (wood, metal, ceramics)\" and \"Access to a documentation centre (books, magazines)\".",
+      "artist_fee": "The CAD $2,080 is described as a \"Residency honorarium\", not tied to a work. No separate fee for work produced. The $300 workshop honorarium is the only additional payment named.",
+      "materials": "Not provided. \"Materials, travel fees and other living charges are at the residents' expense.\" Technical, artistic and logistical support is provided, as is access to wood, metal and ceramics equipment."
+    },
+    "application_requirements": {
+      "bio": "Not requested as a separate bio. A CV is required: \"A curriculum vitae (maximum two pages, PDF format)\".",
+      "website": "Not requested on the programme page. UNCONFIRMED whether the online form asks for one.",
+      "portfolio": "\"A portfolio of 10 to 15 images (JPG format) in a single PDF document accompanied by a description list of the images.\"",
+      "artwork_details": "\"accompanied by a description list of the images\". The page does not specify which fields the description list must contain.",
+      "image_count": "10 to 15 images",
+      "image_video_format": "Images: JPG, assembled into a single PDF document. No file size limit stated. Video: \"If video works are used, provide a link (Vimeo, YouTube) accompanied by the password, if applicable. Make sure that the videos will be accessible.\" No duration limit stated.",
+      "submission_method": "Online only, via the Zone Festival form at https://form.zonefestival.com/?k=estnordest_p1ls . \"The application must be submitted online. No application sent by mail, incomplete or received after the deadline will be accepted.\" Deadline \"November 8, 2026 at 11:59. p.m.\" No application fee is mentioned anywhere on the call page.",
+      "questions": [
+        "\"A text including an artist's statement and your research and experimentation intentions, including any specific needs in terms of technical resources, if applicable (maximum one page, PDF format)\""
+      ],
+      "other": [
+        "Open to \"professional visual artists, whether established or emerging, from Québec, Canada, and other countries\".",
+        "Selection criteria, quoted: \"Consistency with the center's mandate, which focuses on experimentation and research rather than production and project completion\"; \"The potential impact of the residency and its specific features (time, technical workshops, events, community, etc.) on the resident's career\"; \"The rigor and clarity of the proposal\"; \"Openness to participating in the center's community life\".",
+        "Obligations: present approach and research interests at a public event at the start, and present research and experiments at a public event at the end.",
+        "\"A virtual mentoring session can be offered, upon request, to help you prepare your application for this call for submissions. To request this service, please write to info@estnordest.org before November 1st, 2026.\"",
+        "Non-written application formats accepted on request: \"If you wish to submit your application in a format other than written (audio, video, etc.), please contact us at info@estnordest.org or by phone at 418-598-6363.\"",
+        "Online Q&A with the General and Artistic Director on Thursday 1 October 2026, 2 PM in English (Eastern), https://us02web.zoom.us/j/89626291720",
+        "If applying for Fall 2027 with children, that is the only session that hosts residents with children."
+      ]
+    },
+    "contact_email": "info@estnordest.org",
+    "application_url": "https://form.zonefestival.com/?k=estnordest_p1ls",
+    "residency_url": "https://estnordest.org/en/artist-residency/artist-residency-regular/",
+    "unconfirmed": [
+      "Whether the online form asks for a website or social links, and any written questions beyond the artist statement text. The Zone Festival form was not opened. Checked https://estnordest.org/en/artist-residency/artist-residency-regular/",
+      "File size limits for the portfolio PDF and CV. Not stated on the call page or in the FAQ PDF at https://estnordest.org/wp-content/uploads/2024/08/FAQ_Appels_EN.pdf",
+      "Visa support for non-Canadian residents. Not mentioned on the call page or the FAQ PDF."
+    ]
+  },
+  {
+    "name": "Künstler:innenhaus Lauenburg Stipendium Bildende Kunst 2027",
+    "location": "Lauenburg/Elbe, Schleswig-Holstein, Germany (Elbstraße 52/54, 21481 Lauenburg/Elbe)",
+    "duration": "\"Der Aufenthaltszeitraum für die Stipendiat:innen im Künstlerhaus Lauenburg beträgt 4 Monate von Mitte Mai bis Mitte September.\" Mid-May to mid-September 2027, 4 months. Exact start and end dates are not published. For the separate national Arbeitsstipendium mit Kind the period is the same 4 months but \"Es besteht jedoch keine Anwesenheitspflicht\" (no residence requirement); that stipend is open only to applicants resident in Germany with children aged 0 to 15.",
+    "deadline": "2026-11-10",
+    "theme": "",
+    "provides": {
+      "grant": "\"Für die Abschlusspräsentationen stellt das Künstler:innenhaus einen Produktionskostenzuschuss zur Verfügung. Die genaue Höhe wird zu Beginn des Stipendium mitgeteilt.\" A production cost subsidy for the final presentation, amount announced at the start of the stipend, not published in advance.",
+      "stipend": "\"Im Rahmen der Förderung erhält jede/jeder Stipendiat:in für den Stipendienzeitraum einen monatlichen Zuschuss von 1000,- EUR netto\". EUR 1,000 net per month for 4 months.",
+      "housing": "\"Das Stipendium beinhaltet freie Wohnungs- und Ateliernutzung. Stromversorgung für Wohnung und Atelier, Internet sowie Telefonie im deutschen Festnetz sind ebenfalls kostenlos.\" Free use of apartment and studio, with electricity, internet and German landline telephone also free.",
+      "airfare": "Not mentioned anywhere in the call. UNCONFIRMED.",
+      "accommodation": "Free apartment in the Künstler:innenhaus. Guests: \"Besucher:innen und Familienmitglieder sind herzlich willkommen. Bitte beachten Sie aber, dass wir bei durchgängigen Aufenthalten ab der zweiten Woche einen Unkostenbeitrag von 50 € pro Monat erheben (ohne Bettwäsche und Handtücher).\"",
+      "workspace": "Private. Each resident gets their own studio: \"In den beiden oberen Stockwerken befinden sich großflächige Künstler:innenateliers und Wohnungen. Alle Ateliers sind vollständig eingerichtet und verfügen über ein eigenes Duschbad und eine Küche sowie über einen Telefon- und WLAN-Anschluss.\" Shared facilities: \"eine Druckpresse für Radierung und Hochdruck, ein Klavier, ein Keyboard sowie eine Stipendiat:innenbibliothek mit Computerarbeitsplatz\", and the Stadtgalerie exhibition rooms for final presentations.",
+      "artist_fee": "\"Für die Erst- und Abschlusspräsentation erhalten die Stipendiat:innen derzeit eine Aufwandsentschädigung von insgesamt 300 €.\" EUR 300 total expense allowance for the first and final presentations. Applicants whose work is selected for the curated group exhibition of applicants' works also receive a fee: \"Alle Beteiligten erhalten ein Ausstellungshonorar.\" (amount not stated).",
+      "materials": "Not directly funded beyond the production cost subsidy. \"Zusätzliche Mittel für Materialausgaben und projektbezogene Publikationen können mit fachlicher Unterstützung des Künstler:innenhauses eingeworben werden, es besteht aber keine Erfolgsgarantie.\" Additional material funds may be applied for with the house's help, with no guarantee."
+    },
+    "application_requirements": {
+      "bio": "UNCONFIRMED",
+      "website": "UNCONFIRMED",
+      "portfolio": "UNCONFIRMED",
+      "artwork_details": "UNCONFIRMED",
+      "image_count": "UNCONFIRMED",
+      "image_video_format": "UNCONFIRMED",
+      "submission_method": "Online form on the Künstler:innenhaus website only. \"Die Online-Bewerbungsformulare werden zum 6. Oktober 2026 zur Verfügung gestellt. Wir akzeptieren nur Bewerbungen via Formular auf unserer Website.\" Forms go live 6 October 2026 on https://kuenstlerhaus-lauenburg.de/stipendium_start/ ; the application window is 10 October to 10 November 2026. A separate form area exists per discipline: \"Entnehmen Sie die Spezifikationen und Details bitte den Formularbereichen für Bildende Kunst, Literatur, Komposition und Arbeitsstipendium mit Kind.\"",
+      "questions": [],
+      "other": [
+        "Application fee EUR 10.00, non-refundable, paid at the time of submitting the application by PayPal or bank transfer: \"Das Künstler:innenhaus Lauenburg erhebt eine Bewerbungsgebühr von 10,00 €. Bitte überweisen Sie die Bewerbungsgebühr bei Einreichung der Bewerbung per PayPal oder an folgenden Empfänger: Künstlerhaus Lauenburg e.V., Raiffeisenbank Lauenburg, IBAN DE12 2306 3129 0000 2818 67, BIC GENODEF1RLB\". The fee is a hard gate: \"Ausgeschlossen sind ebenfalls Bewerbungen ohne Überweisung der Bearbeitungsgebühr in Höhe von 10,00 €.\"",
+        "Open internationally with no age or residence limit for the three international Residenzstipendien: \"Auf die 3 Residenzstipendien können sich Künstler:innen und Künstler ohne Einschränkung des Alters oder des Wohnsitzes bewerben.\"",
+        "Exclusions: \"Von der Bewerbung ausgeschlossen sind Künstler:innen, Autor:innen und Komponist:innen, die zum Antrittszeitpunkt des Stipendiums noch studieren (Erststudium), parallel ein anderes Residenzstipendium erhalten oder in den vergangenen drei Jahren bereits ein Stipendium des Landes Schleswig-Holstein erhalten haben.\"",
+        "Applications accepted from individuals, duos or groups (FAQ): \"Bewerbungen sind als Einzelperson, Duo oder Gruppe möglich.\" The stipend amount does not change for a group.",
+        "The form ends with a tick box on the applicants' group exhibition: \"Am Ende des Bewerbungsformulars muss angekreuzt werden, ob eine Teilnahme an der Gruppenausstellung ggf. erwünscht ist oder nicht.\"",
+        "Presence expectation: \"Wir gehen davon aus, dass bei einem Aufenthaltsstipendium der weit überwiegende Teil des Stipendiums in Lauenburg verbracht wird, d.h. mindestens 50 %.\"",
+        "Obligations: a shared opening presentation (one-day format), a final solo presentation and a talk format, plus a mandatory A4 report for the State of Schleswig-Holstein: \"Ein DIN A4-Bericht über das Stipendium im Künstler:innenhaus Lauenburg für das Land Schleswig-Holstein ist jedoch verpflichtend.\"",
+        "Donating a work is optional, not required: \"Wir freuen uns über eine künstlerische Werkgabe für die Sammlung Künstler:innenhaus Stadtgalerie Lauenburg. Dies ist aber eine freiwillige Entscheidung.\" The FAQ confirms: \"Seit 2023 ist dies eine freiwillige Gabe.\"",
+        "Exclusivity is assumed: \"Die Exklusivität der Ausstellungen und Produktionen im Künstler:innenhaus wird vorausgesetzt.\"",
+        "Jury decision at the start of the stipend year, announced on the website; no individual notifications: \"Wir informieren alle Bewerbenden per Rundmail über die Ergebnisse.\""
+      ]
+    },
+    "contact_email": "info@kuenstlerhaus-lauenburg.de",
+    "application_url": "https://kuenstlerhaus-lauenburg.de/stipendium_start/",
+    "residency_url": "https://kuenstlerhaus-lauenburg.de/stipendium_start/",
+    "unconfirmed": [
+      "All document requirements: image count, file formats, file size limits, video rules, whether a CV, bio, website or portfolio PDF is required, and the written questions. The German call page states the forms and their per-discipline specifications are only published on 6 October 2026, so none of this exists publicly yet. Checked https://kuenstlerhaus-lauenburg.de/stipendium_start/ , https://kuenstlerhaus-lauenburg.de/faq-ausschreibung-de/ and https://kuenstlerhaus-lauenburg.de/bildende-kunst-de/ .",
+      "Travel or airfare support. Not mentioned on the call page or the FAQ.",
+      "Visa support for an Indian passport holder. Not mentioned anywhere on the site pages checked.",
+      "Exact start and end dates within mid-May to mid-September 2027. Checked https://kuenstlerhaus-lauenburg.de/stipendium_start/",
+      "Amount of the Produktionskostenzuschuss and of the Ausstellungshonorar for the applicants' group exhibition. Both are stated as not fixed in advance."
+    ]
+  },
+  {
+    "name": "SIXI AiR (Sixi Museum) International Artist-in-Residence Project 2027",
+    "location": "Nanjing, China (Sixi Museum)",
+    "duration": "Two 2027 cycles: \"For both 2027 Spring (March - May) and 2027 Autumn (September - November)\". Exact length is not published. \"The specific dates of the residency will be finalized based on the selected artists' preferences and the schedule of Sixi Residency Project.\" The programme hosts two artists concurrently.",
+    "deadline": "2026-11-15",
+    "theme": "Two themes, of which an application must address one. (01) \"Flux and Imprints: Contemporary Echoes of Migration History\" — \"This theme focuses on cross-regional mobility, cultural reconstruction, and memory. We welcome research and artistic projects that explore topics such as the family histories of overseas Chinese, the legacy of colonialism in Asia, and identity formation within global geopolitical frameworks. Artists are encouraged to examine the tension between historical archives, oral histories, personal memories, and grand narratives, redefining these historical imprints within a contemporary context.\" (02) \"Folds of Text: Cross-Media Intertextuality and Intervention\" — \"This theme conceptualizes 'text' as a fluid, dynamic medium extending far beyond literal signs. We invite interdisciplinary explorations that span literature, linguistics, music/sound, and the visual arts. By deconstructing, rearranging, or translating varied medium languages, artists are expected to break traditional boundaries, uncovering hidden narrative possibilities and sensory experiences within the 'folds of text'.\"",
+    "provides": {
+      "grant": "No cash grant figure is published. The open call states \"Sixi AiR Project runs on a non-profit basis, and will cover fees of\" a listed set of costs, and elsewhere \"financial support for production based on the specific characteristics of each project\". No amount is given.",
+      "stipend": "No living stipend is listed. The Funding and Support slide lists visa, flights, insurance, accommodation, personnel and technical assistance, and a material allowance, and names no personal or living stipend. UNCONFIRMED whether any living allowance exists.",
+      "housing": "\"Accommodation (one private apartment or one private loft studio)\" is covered.",
+      "airfare": "\"Travel expenses (Round-trip flights)\" are covered. \"Visa application\" fees and \"Insurance for the duration of the stay\" are also covered.",
+      "accommodation": "Covered, and the applicant states a preference in the proposal: either a private apartment in the city centre or a private loft studio in an outlying area.",
+      "workspace": "Private. The accommodation itself is \"one private apartment or one private loft studio\"; the proposal must state \"preference for apartment or studio space\". Plus \"Residency personnel assistance, technical assistance\".",
+      "artist_fee": "None stated. On the contrary, \"The artist is expected to donate a selection of the artworks created during the residency to Sixi Museum.\"",
+      "materials": "\"Material allowance\" is covered; no amount is published. The residency proposal must set out \"potential demands of materials and equipment\"."
+    },
+    "application_requirements": {
+      "bio": "Not a separate bio. \"CV with profile photo. The authenticity and integrity of personal information must be guaranteed.\"",
+      "website": "Not requested.",
+      "portfolio": "\"Artist Portfolio. Should include artistic experiences, representative works and projects, professional characteristics, etc.\"",
+      "artwork_details": "Not specified beyond \"representative works and projects\". No image list or caption format is required.",
+      "image_count": "Not specified. The open call sets no number of images.",
+      "image_video_format": "No image or video format, count or size limit is given. The only format rule is the packaging rule: \"Please package all application documentations into one PDF or ZIP file\".",
+      "submission_method": "Email. \"Please package all application documentations into one PDF or ZIP file and send it to info@siximuseum.com, and indicate 'Residency Application' in your email subject line.\" Documents must be \"in English (and in Chinese if possible)\". \"Please note that application materials that do not meet the specified requirements will not be reviewed.\" Deadline 15 November 2026 (GMT+8 / Beijing Time). No application fee is mentioned.",
+      "questions": [
+        "\"Residency Proposal. Should include motivation of application, envisions of the residency, preliminary draft of the residency plan, the overall concept, potential demands of materials and equipment, wished residency period, preference for apartment or studio space, etc.\""
+      ],
+      "other": [
+        "\"Applicants must be at least 18 years old at the time of applying, fully capable of completing the entire residency program; there are no restrictions on nationality.\"",
+        "\"Sufficient Chinese Mandarin or English language skills in speaking and writing for research and communication.\" Working languages are Mandarin and English.",
+        "\"The application addresses one of the two themes listed above; the applicant demonstrates a compelling rationale for the residency, a concrete residency plan, and the capability to execute the project.\"",
+        "\"Artists from all disciplines are welcome to apply.\"",
+        "\"International artists should allow sufficient time for visa processing at the time of application, usually at least 2-3 months in advance.\"",
+        "\"Upon receipt of an application, documents will be assessed by Sixi AiR Committee. A video interview may be conducted if necessary. Applicants will receive a final response no later than mid-February 2027.\"",
+        "Obligations: \"During the residency period, residents should participate in events including artist talk, workshop and open studio. At the end of each residency, Sixi AiR Project expects for tangible and presentable outcome and residents have the opportunity to have an exhibition at the end. The artist is expected to donate a selection of the artworks created during the residency to Sixi Museum.\"",
+        "\"For questions, please contact info@siximuseum.com, and indicate 'Residency Inquiry' in your email subject line.\"",
+        "All of the above was read from the nine open-call slide images on the residency page, not from page text. Image base URL: https://static-assets.artlogic.net/.../feature_panels/65/sixi-air-event-digital-2027-open-call-xhs-ig-p2..p9_071126.jpg"
+      ]
+    },
+    "contact_email": "info@siximuseum.com",
+    "application_url": "mailto:info@siximuseum.com",
+    "residency_url": "https://siximuseum.com/en/residency/",
+    "unconfirmed": [
+      "Whether any living stipend or artist fee exists, and the size of the material allowance and production support. The Funding and Support slide lists categories with no figures. Checked all nine open-call slides on https://siximuseum.com/en/residency/",
+      "Exact residency length in weeks or months, and exact start and end dates. The call states these are set later with the selected artist.",
+      "Image count, image and video file formats and size limits. The open call sets none; only the one PDF or ZIP packaging rule.",
+      "Whether the donated work is a fixed number of pieces or at the artist's discretion. The slide says only \"a selection of the artworks\"."
+    ]
+  },
+  {
+    "name": "Monson Arts Residency, Spring 2027",
+    "location": "Monson, Maine, USA",
+    "duration": "Three Spring 2027 sessions: 29 March to 22 April 2027, 4 weeks (with an Abbott Watts photography resident); 26 April to 20 May 2027, 4 weeks; 24 May to 3 June 2027, 2 weeks (with an Abbott Watts photography resident). Each cohort is 5 artists and 5 writers.",
+    "deadline": "2027-01-15",
+    "theme": "",
+    "provides": {
+      "grant": "",
+      "stipend": "\"$500 stipend ($250 for 2-week programs)\", described in the FAQ as \"a $500 (4-week) or $250 (2 week) dollar stipend to be used as you need\".",
+      "housing": "\"private bedroom in shared housing\". \"Residents live in newly renovated historic homes throughout town, within walking distance to studios... These are mostly 3 bedroom structures that are fully furnished... Houses all have shared kitchens, bathrooms, and common areas with laundry machines, telephone, and other amenities.\" Wifi via fibre in all buildings. \"There is a policy of no overnight guests.\"",
+      "airfare": "Not provided. FAQ, \"Do you offer travel reimbursement?\": \"No. We provide housing, all meals, and a $500 (4-week) or $250 (2 week) dollar stipend to be used as you need. We are unable to offer additional financial suppport.\"",
+      "accommodation": "Private bedroom in shared housing, plus \"all meals\".",
+      "workspace": "Private. \"They receive a private studio, private bedroom in shared housing, all meals, and $500 stipend.\" \"Our visual arts studios are spacious and light-filled with large work tables and sinks. Shelving and portable storage carts are available as needed. Access is available to woodshop and metal shop facilities in nearby buildings for any fabrication needs.\"",
+      "artist_fee": "None stated.",
+      "materials": "Not provided. No materials budget is mentioned. Woodshop and metal shop access is provided."
+    },
+    "application_requirements": {
+      "bio": "Not requested. \"C.V. or Resume (limited to 6000 characters)\".",
+      "website": "Not requested on the published requirements.",
+      "portfolio": "\"Up to 5 images / 5 minutes of media OR 5 pages of writing examples (2000 Words)\".",
+      "artwork_details": "Not specified on the published requirements.",
+      "image_count": "Up to 5 images. For three-dimensional work the FAQ allows grouping: \"If you have sculpture or installation work, you may upload 5 PDF packages showing multiple angles of one piece in each one, 3-5 images.\"",
+      "image_video_format": "\"The best way to upload images is in JPEG format. This gives the best presentation on Slideroom. You may also upload PDFs as sepearate files or as a package of 5 pages... Please do not upload a PDF proposal that exceeds 5 pages, it will not be reviewed.\" Time-based media: \"Please keep the total amount of time based media to 5 minutes. If you have multiple projects or sound pieces, please choose samples of the project. The total amount should be 5 minutes.\" No file size limit is published.",
+      "submission_method": "SlideRoom, at https://monsonarts.slideroom.com/ . The Spring 2027 open call runs 1 December 2026 to 15 January 2027. \"All applications are due on the 15th at 11:59pm Eastern Standard Time.\" There is an application fee paid inside SlideRoom; the amount is not published on the Monson Arts site. Waiver: \"Please contact info@monsonarts.org at least 5 days before the due date if the application fee poses a difficulty.\"",
+      "questions": [
+        "\"A letter of intent for your time at the residency (3000 Characters)\" — described in the FAQ as: \"This is an opportunity to tell us a little about what your work is like and how you will use your time. You can describe a specific project if you have one, or you can speak more generally about your work and how spending time in residence at Monson could effect your work. These may be up to 3000 characters (500 words).\""
+      ],
+      "other": [
+        "\"Two reference names\" are required. No reference letters are requested.",
+        "\"Applications for a residency at Monson Arts are open to anyone at any stage of their career, working in visual arts, writing, and related fields (i.e. audio, video, photography, woodworking, movement, screen and playwrights).\"",
+        "Category choice guidance: \"For those working in time and sound based media: apply to the Writing category if quiet contemplation would be best for your project or the Visual Arts category if you need room and the opportunity to make and play sounds out loud.\"",
+        "Collaborations apply on one application: \"Yes. If you have a collaborator, you should apply under one application so you are considered together... If accepted, you would each receive the stipend and a private studio as each resident does.\"",
+        "No companions, no pets, no deferral of an accepted session.",
+        "Requirements are published now, but the SlideRoom form for Spring 2027 does not open until 1 December 2026: \"Our next application period will be open Dec 1st – Jan 15th for residency sessions taking place in the Spring of 2027.\""
+      ]
+    },
+    "contact_email": "info@monsonarts.org",
+    "application_url": "https://monsonarts.slideroom.com/",
+    "residency_url": "https://monsonarts.org/residencies/",
+    "unconfirmed": [
+      "The application fee amount. Monson Arts confirms a fee exists and can be waived, but gives no figure. Checked https://monsonarts.org/residencies/faq/ , https://monsonarts.org/residencies/ and https://monsonarts.slideroom.com/ (SlideRoom returns a browser-upgrade page to scrapers and requires login).",
+      "The exact written prompts inside the SlideRoom form beyond the letter of intent. The Spring 2027 form does not open until 1 December 2026.",
+      "File size limits for images and media. Not published.",
+      "Whether a website or artist statement field exists in the form. Not published.",
+      "Visa support or eligibility notes for non-US applicants. The FAQ does not address international applicants or visas."
+    ]
+  },
+  {
+    "name": "Surel's Place Artist-in-Residence Program (July to November 2027)",
+    "location": "Garden City, Idaho, USA (212 E. 33rd Street, Garden City, ID 83714)",
+    "duration": "\"one month residencies (more time may be possible, but must be justified within the application).\" The 1 March deadline covers \"residences that occur during July-November of the same year, beginning four months after the deadline\", so July to November 2027. Note the application page states for playwrights and screenwriters \"the March 1st deadline in 2027 for residencies taking place between July and December 2027\", a December end date that contradicts the November end date on the residency page. Applicants tick every month they are available.",
+    "deadline": "2027-03-01",
+    "theme": "",
+    "provides": {
+      "grant": "",
+      "stipend": "\"modest living stipend of $100 per week\", plus \"$300 travel stipend\". Partner School artists get more: \"Partner Artists receive an additional stipend, and there is a budget for outreach materials\" (amount not stated).",
+      "housing": "\"free rent\", \"free utilities\", \"free wi-fi\". Residents live in Surel Mitchell's former home: \"our residents enjoy the use of a private home filled with personal art and antiques\".",
+      "airfare": "\"$300 travel stipend\". No further travel support.",
+      "accommodation": "The private home, rent and utilities free. Meals are not mentioned. \"Though partners are welcome to join artists, we cannot accommodate children or pets. No more than two adults can live at Surel's Place during a residency. There may also be a surcharge to cover additional utility costs.\"",
+      "workspace": "Private. The resident has sole use of the home and studio: \"Maintaining residence at the home and studio (no studio-use only residencies).\" Limitation: \"because of the property's limitations and proximity to neighbors, this is not a place that can accommodate loud or terribly messy processes, such as welding or blacksmithing.\"",
+      "artist_fee": "None. The reverse applies: \"Visual Artists must donate one piece of art to Surel's Place for future fundraising efforts,\" and \"The Surel's Place commission on all sales emanating from your residency is 35% of the retail price. For ticketed events that are offsite or require contracted services, the commission is 45% and will be calculated after administrative expenses... if you are an artist such as a writer who is selling books, a musician who is selling CDs, or an artist who is selling work that qualifies as merchandise or is tangential to their medium, the requested commission for Surel's Place is 15%.\"",
+      "materials": "Not provided, except \"there is a budget for outreach materials\" for Partner School artists."
+    },
+    "application_requirements": {
+      "bio": "Required in the online form: \"Please offer a short professional biographical statement of no more than 250 words. Please do not reiterate your CV in paragraph form. Rather, submit a paragraph that more resembles an artist's statement with some information about how you've arrived at the present as an artist.\"",
+      "website": "A \"Website\" field and a \"Social Media Platforms You Use\" field are in the online form's Personal Information step. Neither is marked required.",
+      "portfolio": "Emailed separately. Visual artists: \"Electronic images of 4-6 pieces of work\" plus \"Image List Document (title, size, medium, year)\". Also required by email: \"Cover Letter (an introduction of yourself that also speaks to why you'd like to be at Surel's Place, specifically)\", \"Proposal, including Workshop Outline\", \"Resume/Curriculum Vitae\".",
+      "artwork_details": "\"Image List Document (title, size, medium, year)\".",
+      "image_count": "4 to 6 pieces of work (visual artists).",
+      "image_video_format": "No image file format or size limit is given for visual artists. Only literary samples have a format rule: \"Electronic samples of your work in PDF format. Your name and page number in top right corner.\" No video rules are published for visual artists.",
+      "submission_method": "Two parts, both due by the deadline. (1) The online form at https://surelsplace.org/application/ , a six-step form that must be completed in one sitting: \"The online portion of the application, below, must be completed at one time. Do not submit the form until it is complete, or you'll need to begin again.\" (2) All supporting materials emailed to info@surelsplace.org: \"In addition to the online application, all relevant accompanying materials must be submitted to info@surelsplace.org by deadline midnight (MST).\" No application fee is mentioned.",
+      "questions": [
+        "\"Briefly describe the art you make.\" (with the hint \"For example: painting, fiber art, poetry, screenwriting, choreography\")",
+        "\"Will you have a professional affiliation with another local organization during your residency?\" (Yes/No; if yes, \"Please submit a typed description of the collaboration (on a separate page with your other application materials to info@surelsplace.org.)\")",
+        "\"Have you participated in other Artist-in-Residence programs?\" (Yes/No; if yes, \"Please include the name and contact person for at least one program\")",
+        "\"Biography (Required). Please offer a short professional biographical statement of no more than 250 words.\"",
+        "\"Proposal (Required). Summarize your proposal here in 100 words or less including brief information about your workshop. (Submit full proposal separately with your other application materials to info@surelsplace.org.)\"",
+        "\"Are you interested in participating in our Partner School Program?\" (Yes!/No thanks.)",
+        "\"Please indicate what grade level you would most like to work with\" (K-3, 4-6, 6-9, 9-12) and \"Please tell us about any previous experience you have working with that age group.\"",
+        "\"Availability. Please check ALL months for which you are available within the application period\"",
+        "\"How long have you been a non-smoker?\"",
+        "\"How did you hear about Surel's Place? Please be specific; your feedback will help us make outreach decisions.\""
+      ],
+      "other": [
+        "Age: \"All residents must be at least 25 years old.\" Confirmed on both the form and the residency page (\"All Applicants must be: 25 Years or Older\").",
+        "Non-smoking is a hard condition: \"The non-smoking requirement is non-negotiable. Any evidence of smoking on the property will be grounds for early termination of the residency.\"",
+        "Four references required, each with name, relationship, email and phone: \"Please list your TWO most recent landlords. If you are a home owner, you may instead use neighbors... Please also include TWO professional references of people who can speak to the quality of your work.\"",
+        "Emergency contact and birthdate are required fields.",
+        "Obligations: \"A focused use of the residency to achieve a stated goal with no other employment/work occurring simultaneously.\" \"Visual Artists will interact with the public at Surel's Place for a show of and/or lecture about their residency work.\" \"All artists must offer at least one public workshop. (2-3 hours, minimal lecturing)\"",
+        "Scheduling affects acceptance: \"if you choose only one month, or if you choose only popular summer months, your application status could be affected.\"",
+        "Selection note relevant to concept-led work: \"Work that is predominantly conceptual, that must be explained in order to attract a viewer, may not be met with as much enthusiasm by our jurists.\""
+      ]
+    },
+    "contact_email": "info@surelsplace.org",
+    "application_url": "https://surelsplace.org/application/",
+    "residency_url": "https://surelsplace.org/month-long-residencies/",
+    "unconfirmed": [
+      "Image file formats, resolution and size limits for visual artists' 4-6 images. Not published. Checked https://surelsplace.org/month-long-residencies/ and https://surelsplace.org/application/",
+      "Whether video or time-based work is accepted from visual artists and in what format. The page only says applicants of other mediums should \"contact us to discuss sample requirements for your particular medium\".",
+      "Whether the July-November or July-December end date is correct for the 2027 cycle. The two official pages disagree.",
+      "The additional Partner School stipend amount and the outreach materials budget. Neither is published.",
+      "Visa support for non-US applicants. Not mentioned on any Surel's Place page checked."
+    ]
+  }
+]

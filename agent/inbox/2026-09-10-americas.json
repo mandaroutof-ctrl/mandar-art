@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Studio Museum in Harlem Artist-in-Residence Program",
+    "location": "Harlem, New York City",
+    "country": "United States",
+    "verified": true,
+    "source_urls": ["https://www.studiomuseum.org/residency", "https://www.studiomuseum.org/residency/residency-application", "https://www.studiomuseum.org/press/studio-museum-in-harlem-announces-2026-artist-in-residence-cohort"],
+    "eligibility": {"india_eligible": false, "international_open": true, "career_stage": "emerging", "collective_required": false, "eligibility_notes": "Official FAQ: designed to serve emerging artists of African and/or Afro-Latinx descent working locally, nationally or internationally. International applicants are accepted, so the barrier is descent, not nationality. Individuals only. The museum cannot provide visas or sponsor international applicants."},
+    "funding": {"has_stipend": true, "living_stipend": true, "production_grant": null, "stipend_detail": "USD 50,000 per artist, paid biweekly over the year (official FAQ, 2026-27 cycle).", "accommodation": false, "studio": true, "travel_covered": null, "materials_budget": null, "application_fee": "Free", "artist_pays": ["11 months of New York housing", "own US visa"]},
+    "discipline": {"mixed_media_ok": true, "sculpture_installation_ok": true, "digital_only": false, "thematic_constraint": "No theme. Artists across all mediums encouraged."},
+    "deadline": null,
+    "deadline_notes": "Closed. The 2026-27 call opened 13 Apr 2026. A deadline of 18 May 2026 appears only in unverified search summaries. Next cycle not announced.",
+    "duration": "11 months (2026-27: 2 Nov 2026 to 3 Oct 2027)",
+    "money_summary": "USD 50,000 over 11 months, no housing, no visa sponsorship",
+    "notes": "Artistically open, 3 artists per cycle. Blocked by the descent focus, and even if eligible there is no housing or visa sponsorship.",
+    "curation_note": "Condensed 2026-09-10 from the Americas research agent output."
+  },
+  {
+    "name": "Banff Centre Early Career Banff Artist in Residence (BAiR Early Career)",
+    "location": "Banff, Alberta",
+    "country": "Canada",
+    "verified": true,
+    "source_urls": ["https://www.banffcentre.ca/programs/visual-arts/early-career-banff-artist-residence-2026", "https://akimbo.ca/listings/call-for-applications-early-career-banff-artist-in-residence-2026/", "https://www.banffcentre.ca/participant-resources/international-visitors", "https://www.banffcentre.ca/visual-arts"],
+    "eligibility": {"india_eligible": true, "international_open": true, "career_stage": "early-career", "collective_required": false, "eligibility_notes": "Post-secondary visual arts training or equivalent, averaging up to five years of professional practice. Individuals or duos. International applicants welcome. Participants handle their own Canadian visitor visa."},
+    "funding": {"has_stipend": false, "living_stipend": false, "production_grant": false, "stipend_detail": "None. 2026 edition fee CAD 8,831.75, standard scholarship CAD 6,235.00, participant pays CAD 2,596.75.", "accommodation": true, "studio": true, "travel_covered": null, "materials_budget": null, "application_fee": "CAD 65", "artist_pays": ["CAD 65 application fee", "CAD 2,596.75 programme fee after scholarship", "travel to Banff", "Canadian visitor visa"]},
+    "discipline": {"mixed_media_ok": true, "sculpture_installation_ok": true, "digital_only": false, "thematic_constraint": "None. Self-directed with mentorship."},
+    "deadline": "2025-08-27",
+    "deadline_notes": "Past cycle only (2026 edition, via Akimbo). No 2027 Early Career edition listed as of 2026-09-10.",
+    "duration": "5 weeks",
+    "money_summary": "No stipend. Artist pays about CAD 2,662 after scholarship and fee",
+    "notes": "Good artistic fit with a 24/7 studio and mentorship, but fails the stipend requirement. Other open Banff visual arts programmes use the same fee-paying model.",
+    "curation_note": "Condensed 2026-09-10 from the Americas research agent output."
+  },
+  {
+    "name": "25AV Residency Programme (2026-2027)",
+    "location": "Athens, Brno, Brussels, Milan, Munich",
+    "country": "Multiple",
+    "verified": true,
+    "source_urls": ["https://www.onassis.org/open-calls-past/open-call-25av-residency-program-20262027", "https://www.imal.org/en/news/25-av-residency-results", "https://on-the-move.org/news/25av-residency-programme-media-art-sound-performance-and-audiovisual-experimentation-greece", "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/crea/guidance/list-3rd-country-participation_crea_en.pdf"],
+    "eligibility": {"india_eligible": false, "international_open": false, "career_stage": "early-career", "collective_required": true, "eligibility_notes": "Duo or group of up to 4 artists based in at least 2 Creative Europe eligible countries. India is not a Creative Europe country. Within 10 years of professional practice."},
+    "funding": {"has_stipend": true, "living_stipend": true, "production_grant": true, "stipend_detail": "Artist fees up to EUR 2,500 per artist plus daily subsistence support.", "accommodation": true, "studio": null, "travel_covered": true, "materials_budget": null, "application_fee": null, "artist_pays": []},
+    "discipline": {"mixed_media_ok": null, "sculpture_installation_ok": null, "digital_only": false, "thematic_constraint": "Collaborative audiovisual and performance work that must be stageable: media art, sound, experimental music, performance, new media."},
+    "deadline": "2025-10-30",
+    "deadline_notes": "Closed. Selection announced 3 Mar 2026. No newer call found.",
+    "duration": "7 to 14 days per host plus an April 2027 festival",
+    "money_summary": "Up to EUR 2,500 artist fees plus subsistence",
+    "notes": "Poor fit on every count: team of 2 to 4 in Creative Europe countries, stageable audiovisual output, and closed.",
+    "curation_note": "Condensed 2026-09-10 from the Americas research agent output."
+  }
+]

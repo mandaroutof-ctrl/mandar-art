@@ -1,0 +1,228 @@
+[
+  {
+    "name": "The Inlaks Residency at Skowhegan (2027)",
+    "location": "Madison, Maine (Skowhegan School of Painting and Sculpture); call run by Inlaks Shivdasani Foundation, India",
+    "country": "United States",
+    "verified": true,
+    "source_urls": [
+      "https://inlaksfoundation.org/opportunities/overseas-residencies/the-inlaks-residency-at-skowhegan-united-states/",
+      "https://skowheganart.org/school/",
+      "https://inlaksfoundation.org/opportunities/"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": true,
+      "international_open": false,
+      "career_stage": "emerging",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Inlaks wording: 'The applicant must be an Indian passport holding citizen and resident in India at the time of application.' 'The applicant must be 35 years or younger in the year of application.' 'The applicant should not have received any prior grant from the Inlaks Shivdasani Foundation for any other overseas project.' Skowhegan's own page states the same age and residence cap for the fee waiver: 'Indian artists younger than 35 who are living in India', and 'Proof of nationality, residency and age will be required to waive the fee.' Client's age is not in criteria.json and must be checked."
+    },
+    "funding": {
+      "has_stipend": true,
+      "living_stipend": true,
+      "production_grant": true,
+      "stipend_detail": "Inlaks wording: 'Accommodation at Skowhegan, including housing and all meals'; 'return ticket for the artist up to 1200 USD and a materials stipend for 1000 USD'. Private studio and access to fabrication shops included. No cash living allowance beyond housing and meals.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": true,
+      "visa_support": false,
+      "materials_budget": "USD 1000 materials stipend",
+      "application_fee": "USD 25, rising to USD 50 in the last two days, and waived on this route. Skowhegan's own School page/FAQ: 'You will be required to pay a fee when you submit your application. This fee is $25, and increases to $50 for the final two days of the application period.' and 'Yes, there is an application fee, and it cannot be waived.* ... *We have an agreement with Inklas Foundation in which we can waive the application fee for Indian artists younger than 35 who are living in India. Before submitting your application, please send us an email at help@skowheganart.org. ... Proof of nationality, residency and age will be required to waive the fee.' Inlaks wording: 'All Indian applicants who meet the Inlaks eligibility criteria should contact Skowhegan before submitting their applications, and Skowhegan will be able to waive the application fee accordingly.' Net cost to this applicant: USD 0 if the waiver is arranged by email before submitting. Skowhegan also notes 'The application fee is nonrefundable under all circumstances.'",
+      "artist_pays": [
+        "US visa costs: Skowhegan wording, 'We are unable to assist with the application for a Visa or cover the associated expenses, but we can provide a letter of invitation upon request.'",
+        "airfare above USD 1200",
+        "Tuition of USD 6,000 in principle, subject to Skowhegan's need-blind scholarship practice"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Nine-week intensive summer programme in painting and sculpture with private studio, fabrication shops, fresco barn, weekly lectures, workshops, reading groups and theoretical seminars."
+    },
+    "deadline": "2026-10-16",
+    "deadline_notes": "Inlaks page: 'October 16th, 11:59pm (ET - Eastern Time)'. Skowhegan's own site confirms 'Applications will be accepted from September 1 through October 16, 2026' for the 2027 programme. Residency runs 5 June 2027 to 7 August 2027.",
+    "duration": "9 weeks, 5 June to 7 August 2027",
+    "money_summary": "Housing, all meals and studio at Skowhegan, return airfare up to USD 1200, USD 1000 materials stipend; USD 25 application fee waived for Indian applicants under 35 who email Skowhegan first",
+    "style_fit": 0.8,
+    "style_fit_reason": "Skowhegan is explicitly a painting and sculpture school with fabrication shops and a fresco barn; it suits material, figurative, sculptural work. Not a themed call.",
+    "cautions": [
+      "Outside this run's region (USA). Recorded because the call is India-specific and open now.",
+      "Age cap: 35 or younger in the year of application, on both the Inlaks and Skowhegan wording. Client's age unconfirmed.",
+      "The fee waiver is not automatic. Skowhegan: 'Before submitting your application, please send us an email at help@skowheganart.org.' Proof of nationality, residency and age is required, so allow time before 16 October.",
+      "No visa help. Skowhegan: 'We are unable to assist with the application for a Visa or cover the associated expenses, but we can provide a letter of invitation upon request... The majority of our international participants come to Skowhegan on a tourist visa.' US interview waits in India can be long.",
+      "Tuition is USD 6,000 per person. Skowhegan is need-blind and says 'no accepted artists will be turned away for lack of funding', but the tuition conversation is separate from the Inlaks grant and should be settled in writing.",
+      "Rejected if the artist has held any prior Inlaks overseas grant."
+    ],
+    "notes": "Fee, visa and tuition facts now read on Skowhegan's own School page (skowheganart.org/school/), reached through a text-render proxy because the site sits behind a CAPTCHA wall for direct fetches; the wording quoted is Skowhegan's own. Skowhegan's own dates match Inlaks: '2027 Program will run from June 5-August 7, 2027. The 2027 Call for Applications is open from September 1, 2026 through October 16, 2026 (11:59PM ET).' Inlaks contact: gladys@inlaksfoundation.org; Skowhegan fee-waiver contact: help@skowheganart.org. Not on the sheet skip list."
+  },
+  {
+    "name": "Farm Studio International Artist Residency",
+    "location": "Andore village, near Jodhpur, Rajasthan",
+    "country": "India",
+    "verified": true,
+    "source_urls": [
+      "https://farmstudioindia.org/art-residency/",
+      "https://resartis.org/open-call/farm-studio-india-international-artist-residency/"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official wording: 'Artists of all disciplines creating in any media are welcome to apply.' Open to emerging and established artists; researchers, curators and critics may also apply."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "None. Pay-to-stay. Artist pays a residency fee that covers accommodation, vegetarian meals, studio space and an exhibition opportunity.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "",
+      "application_fee": "No application fee stated. Residency fee: official page says only 'acknowledgment of residency fee'; Res Artis listing states 'US $850' (an earlier listing said US $800). Amount not shown on the official page.",
+      "artist_pays": [
+        "residency fee (approx USD 850 per session per Res Artis)",
+        "travel",
+        "visa",
+        "personal materials",
+        "insurance",
+        "extra food and entertainment"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Rural retreat-style residency for artists of all disciplines and any media, including sculpture, ceramics, mixed-media and installation; private hut or room, studio spaces, basic tools, work tables."
+    },
+    "deadline": "rolling",
+    "deadline_notes": "Official page: 'Applications are accepted on an ongoing basis.' Res Artis lists 31 October 2026 as the deadline for the October to December 2027 sessions (3rd to 28th of each month). 2026 sessions in October, November and December were also listed on Res Artis.",
+    "duration": "About 4 weeks (3rd to 28th of the month)",
+    "money_summary": "Artist pays about USD 850 per session; nothing is paid to the artist",
+    "style_fit": null,
+    "style_fit_reason": "",
+    "cautions": [
+      "Pay-to-stay. No stipend or grant of any kind.",
+      "Fee amount is only visible on Res Artis, not on the official page."
+    ],
+    "notes": "Recorded as an unfunded India-based option since the manager asked for unfunded calls to be logged accurately. Fails the stipend gate."
+  },
+  {
+    "name": "Kala Yatra International Artist Residency (KaYa)",
+    "location": "Lalitpur / Kathmandu valley",
+    "country": "Nepal",
+    "verified": true,
+    "source_urls": [
+      "https://kalayatra.org/apply-air",
+      "https://resartis.org/open-call/kala-yatra-international-artist-residency-nepal-2025-2026/"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Open to visual artists, writers, performers, curators, filmmakers, architects and others. Reduced fee for SAARC citizens resident in SAARC countries, which includes India."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "None. Self-funded. Official wording: '€ 200 (two weeks / 14 Days)', '€ 400 (a month/ 30 Days)', '€ 300 ( a month/ 30 Days - for SAARC Artist)'. Optional airport pickup € 25.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "",
+      "application_fee": "No application fee stated. Residency fee EUR 300 per month for SAARC artists (EUR 400 otherwise, EUR 200 for two weeks).",
+      "artist_pays": [
+        "residency fee",
+        "travel",
+        "food (self-catering)",
+        "materials"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Artist-run collective offering self-funded residencies with private bedroom, shared living and work areas, exhibition and presentation opportunities, and introductions to Kathmandu galleries and studios."
+    },
+    "deadline": "rolling",
+    "deadline_notes": "Official page: 'While there is no specific deadline, we recommend giving yourself sufficient time'; apply 'at least three months in advance to secure your preferred time period.' Res Artis shows 31 December 2026 for the current listing.",
+    "duration": "2 weeks minimum, 1 month or longer by availability",
+    "money_summary": "Artist pays EUR 300 per month (SAARC rate); nothing is paid to the artist",
+    "style_fit": null,
+    "style_fit_reason": "",
+    "cautions": [
+      "Pay-to-stay. No stipend or grant.",
+      "Shared work areas rather than a dedicated sculpture workshop; check suitability for large or messy material work."
+    ],
+    "notes": "The official page could only be read via a proxy render; direct fetch failed twice. No visa needed for Indian nationals in Nepal. Fails the stipend gate."
+  },
+  {
+    "name": "NIROX Foundation Residency",
+    "location": "NIROX Sculpture Park, Cradle of Humankind, near Johannesburg",
+    "country": "South Africa",
+    "verified": true,
+    "source_urls": [
+      "https://www.niroxarts.com/residency"
+    ],
+    "eligibility": {
+      "india_eligible": null,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "No eligibility criteria of any kind are published. The page's only application wording is 'There is no call for applicants nor a fixed application process. If you are interested, contact us at info@niroxarts.com, and we will begin a conversation.' Applicants are asked for a CV, artist's statement, portfolio, biography and 'a short text on why you are interested'. Nationality is never mentioned, so india_eligible stays null. Past residents are international, which is an inference and not a stated rule."
+    },
+    "funding": {
+      "has_stipend": null,
+      "living_stipend": null,
+      "production_grant": null,
+      "stipend_detail": "Not stated. Page says residencies are 'fully serviced with meals' with a house and studio, wifi and 'assistance with sourcing materials, building and making', but says nothing about who pays or any stipend.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": null,
+      "visa_support": null,
+      "materials_budget": "",
+      "application_fee": "Not published. NIROX's residency page states no fee and no 'no fee' line either; its only wording on applying is 'There is no call for applicants nor a fixed application process. If you are interested, contact us at info@niroxarts.com, and we will begin a conversation.' No currency figure exists to record.",
+      "artist_pays": []
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Sculpture park residency with a large double-volume studio and hands-on help with building and making; residents come from many disciplines."
+    },
+    "deadline": "rolling",
+    "deadline_notes": "No deadline. Enquiry-based year round.",
+    "duration": "Varies; current residents show one to four weeks",
+    "money_summary": "Unknown. Housing, meals and studio provided on site; whether the artist pays, or receives anything, is not stated",
+    "style_fit": 0.7,
+    "style_fit_reason": "A sculpture park with a large studio and practical fabrication help suits material and sculptural work; no themed constraint.",
+    "cautions": [
+      "Money flow unconfirmed: could be funded, could be pay-to-stay. Ask before pitching.",
+      "Official wording: 'Residents are required to leave an artwork or other suitable record for the NIROX Foundation Archives.'",
+      "The funded route for Indians is the Inlaks Residency at NIROX, but its 2026 cycle is closed (residency 1 October to 12 November 2026; shortlist notified late July 2026). Watch Inlaks for the 2027 call.",
+      "South African visa required for Indian passport holders; nothing on the page about visa support."
+    ],
+    "notes": "Not an open call. Re-checked on 2026-09-23 on the organisation's own page only, both by direct fetch and by a text-render proxy of the same URL: NIROX publishes no application fee, no stipend or bursary, and no eligibility or nationality rule anywhere on that page. These three fields stay null by design, not by omission. Open questions to put to NIROX, in this order, whenever the manager next writes to them: (1) Does the residency pay the artist anything, or does the artist pay NIROX, and what is the amount and currency? (2) Is there any application or administration fee? (3) Are artists on an Indian passport eligible, and does NIROX issue an invitation letter for the South African visa? No email has been sent. The funded route for an Indian artist remains the Inlaks Residency at NIROX, whose 2026 cycle is closed."
+  }
+]

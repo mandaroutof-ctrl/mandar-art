@@ -1,0 +1,179 @@
+[
+  {
+    "name": "Artist in Residence at The Factory (Factory on Willow) 2027",
+    "location": "252 Willow St, Manchester, NH 03103",
+    "duration": "12 weeks. \"A 12-week non-profit program\"; \"support emerging artists with a place to live for up to 3 months\". Runs three times a year: \"Session 1: March - May | Session 2: June - August | Session 3: September - November\". The page shows \"2026 Residencies Status: Application Closed\" and \"2027 Residencies\" open with an Apply Today link.",
+    "deadline": "rolling",
+    "theme": "",
+    "provides": {
+      "grant": "",
+      "stipend": "USD 1,600. \"each artist is granted a $350 travel stipend and a $1600 stipend that covers food and art supplies.\" The site frames it as \"We curate stipends for supplies, food & travel.\"",
+      "housing": "\"Selected applicants are provided a studio apartment with basic household amenities like coffee pots, cookware, and utensils. The program also covers all, heat, hot water, electricity & internet provided to the artist unit.\"",
+      "airfare": "No airfare as such. A USD 350 travel stipend: \"each artist is granted a $350 travel stipend\". International flights from India are not covered.",
+      "accommodation": "Live/work studio apartment on site, individual to the artist. Artists are paired, and a past resident describes \"our apartments were on the same floor\".",
+      "workspace": "Private. The live/work studio apartment is the workspace. \"Artist also have the option to expand their creative workspace area into our lower level commercial lot.\" The onsite event space is used for the closing exhibition.",
+      "artist_fee": "None stated. No fee is paid for the work itself.",
+      "materials": "No separate materials budget. Art supplies come out of the USD 1,600 stipend, which \"covers food and art supplies\". \"Works that go beyond the scope of the AIR stipends will depend on self funding or acquiring community partnerships/sponsors.\""
+    },
+    "application_requirements": {
+      "bio": "Artist statement required. \"We ask that your application include your CV / artist statement, portfolio and a project proposal\". No word limit stated.",
+      "website": "Not stated on the programme page. The application form itself is sign-in locked, so this is unconfirmed.",
+      "portfolio": "Required. \"We ask that your application include your CV / artist statement, portfolio and a project proposal with a general idea of what you would like to develop during your residency.\" Guidance on the page: \"(Tip: submit a portfolio with a consistent body of work and theme.)\", \"(Tip: Show fewer, stronger pieces.)\", \"(Tip: Document Professionally - Crisp photos, clean crops, and simple backgrounds help judges focus on the art, not distractions.)\", \"(Tip: Does your body of work tell a unique or interesting story?)\"",
+      "artwork_details": "Not specified on any public page. Unconfirmed.",
+      "image_count": "Not specified on any public page. The only guidance is the tip \"Show fewer, stronger pieces.\" Unconfirmed.",
+      "image_video_format": "Not specified on any public page. Unconfirmed.",
+      "submission_method": "Online form. The /air page links \"Apply Today\" and \"Submit Your Application\" to a Google Form at https://docs.google.com/forms/d/1eILZFfJc_0O1YwdNE4xgtGZbsI-OL8h_nUp2GjgXaYg/edit . Note that the published link is an owner /edit URL, which requires Google sign-in and returns a sign-in wall to the public, so the form could not be opened. The /air-application page linked from the fit-assessment section renders no form content.",
+      "questions": [],
+      "other": [
+        "\"There is no applicant fee and the deadline is rolling, but we encourage you to apply as our spots fill up quickly\"",
+        "\"The applications are reviewed by an art committee whose efforts ensure that a broad range of artistic disciplines, styles, and national origins are represented.\" No review dates are published.",
+        "Self-assessment ladder on the page: Hobby Artist \"You're not a good fit for The Factories AIR program just yet.\"; Amateur Artist \"You may be a good Fit!\"; Emerging Artist \"You're an ideal Fit!\"; Advanced Emerging Artist \"You may be too advanced in your career for what this program can offer. Consider applying and talk with our team.\"",
+        "\"Giving Back: The program requires for each artist to donate once piece created during their residency to be part of the Factory on Willow's permanent collection. Works are displayed through the campas.\" The donation condition is CONFIRMED on the official page.",
+        "\"Exhibitions: Each program concludes with a capstone celebration to feature the progress of each artists creative practice during their time at the residency.\" The Opening \"acts as a solo or duo exhibition\"; artists may also host artist talks, community dinners, workshops, studio visits.",
+        "\"Time to step out of your comfort zone: The program will create some introductions to the local artist communities but it is also necessity of each artist to this pursue avenues of growth themselves.\"",
+        "Writing guidance: \"(Tip: Write clearly and simply - your statement doesn't need fancy art-world jargon. Tell us what drives you in plain language.)\""
+      ]
+    },
+    "contact_email": "dave@orbitgroup.com",
+    "application_url": "https://docs.google.com/forms/d/1eILZFfJc_0O1YwdNE4xgtGZbsI-OL8h_nUp2GjgXaYg/edit",
+    "residency_url": "https://www.factoryonwillow.com/air",
+    "unconfirmed": [
+      "Exact written application questions: the Google Form linked from https://www.factoryonwillow.com/air is an owner /edit URL and returns a Google sign-in wall to the public. https://www.factoryonwillow.com/air-application renders no form content. Questions could not be read.",
+      "Number of portfolio images required or allowed: not stated at https://www.factoryonwillow.com/air or /air-application.",
+      "Image and video file formats, file size limits and video length rules: not stated at https://www.factoryonwillow.com/air or /air-application.",
+      "Whether a website link or references are required fields: not stated at https://www.factoryonwillow.com/air.",
+      "Word or length limits for the artist statement and project proposal: not stated at https://www.factoryonwillow.com/air.",
+      "Review or selection dates for the rolling call: none published at https://www.factoryonwillow.com/air, only that an art committee reviews and that spots fill quickly.",
+      "Exact 2027 session dates beyond the month ranges March-May, June-August, September-November: not published at https://www.factoryonwillow.com/air.",
+      "Visa support for an Indian passport holder: nothing said about visas anywhere on https://www.factoryonwillow.com/air, /faqs or /contact.",
+      "Note on access: https://www.factoryonwillow.com/air fails under WebFetch. It was read successfully via Brightdata scrape_as_markdown."
+    ],
+    "source_urls": [
+      "https://www.factoryonwillow.com/air",
+      "https://www.factoryonwillow.com/air-application",
+      "https://www.factoryonwillow.com/contact",
+      "https://www.factoryonwillow.com/faqs"
+    ],
+    "notes": "The /faqs page is tenant and apartment FAQs, not residency FAQs, so it carries no application detail. Contact page lists the AIR Program Director as David Hady, dave@orbitgroup.com. The programme describes itself as fostering \"innovation & experimentation for amateur and newly emerging artists\" and past residents include a sculptor (image file AiR_Evan Morse_Sculpture)."
+  },
+  {
+    "name": "Swatch Art Peace Hotel Artist Residency",
+    "location": "23 East Nanjing Road (Bund 19), Shanghai 200002, China",
+    "duration": "Three to six months. \"Choose availability knowing that a minimum of 3 months and a maximum of 6 months are obligatory.\" Apartments and workshops \"are assigned according to need and availability for a period ranging from three to six months.\"",
+    "deadline": "rolling",
+    "theme": "",
+    "provides": {
+      "grant": "None.",
+      "stipend": "None. \"Please note that there is no stipend. Artists-in-residence should be able to provide for their personal and professional needs for the duration of their stay.\"",
+      "housing": "\"Artists-in-residence are provided with individual accommodation and working space in modern, furnished apartments and workshops located on the second and third floors of the Swatch Art Peace Hotel in Shanghai.\" Cleaned twice a week by housekeeping. Daily Asian and European breakfast in the third floor community kitchen. Shared community kitchen with numbered cupboard and fridge space, lounge and coffee corner, library, laundry, high speed wireless internet, a Mac, PC and printer/copier. Meals and drinks other than breakfast are not provided.",
+      "airfare": "\"The artists' round trip flight or train ticket from their place of residence to Shanghai and back will be organized and paid by Swatch Group. Pick-up service in Shanghai on day of arrival and departure will also be provided... Flight tickets are economy class.\" Excess luggage charges are not covered, and no flight or travel costs other than the initial round trip.",
+      "accommodation": "Individual furnished apartment in the hotel, second and third floors.",
+      "workspace": "Private. Each artist gets individual \"working space in modern, furnished apartments and workshops\" assigned according to need and availability. The community kitchen, lounge, library and laundry are shared.",
+      "artist_fee": "None. No fee is paid for the work.",
+      "materials": "Not provided. Listed under what is not provided: \"Material or tools for artists-in-residence's work.\" The team will help source materials: \"The Swatch Art Peace Hotel team will assist artists-in-residence in finding the material required for their work.\" A list of forbidden materials applies: \"you are not allowed to work with any dangerous or inflamable materials as listed in the PDF document below.\""
+    },
+    "application_requirements": {
+      "bio": "Not specified publicly. The application form sits behind account registration and login, so its exact fields could not be read.",
+      "website": "Not specified publicly. Behind login.",
+      "portfolio": "File uploads are part of the application: \"Upload only relevant and most representative files.\" No count or format is published.",
+      "artwork_details": "Not specified publicly. Behind login.",
+      "image_count": "Not specified publicly. The only public guidance is \"Upload only relevant and most representative files.\"",
+      "image_video_format": "Not specified publicly. Behind login.",
+      "submission_method": "Online only, through an account on the residency website. \"Register an account on our website\", then \"Login and prepare your application\", then \"Submit and pay a fee of 30 Swiss francs\". From the applicant conditions: \"Only online applications made using the application forms on the Swatch Art Peace Hotel website will be considered. No exceptions will be made. The application forms must be completed in English.\"",
+      "questions": [
+        "\"Convince the jury with your individual and personal motivation, explaining what makes you different from other candidates and providing details on your planned work in Shanghai.\"",
+        "\"Present your project in as much detail as possible, explaining its relationship to Shanghai.\"",
+        "\"Choose availability knowing that a minimum of 3 months and a maximum of 6 months are obligatory.\""
+      ],
+      "other": [
+        "\"Only online applications written in English can be accepted.\"",
+        "\"There is no application deadline.\"",
+        "\"Present yourself consistently throughout the whole application.\"",
+        "\"For group applications, each member has to apply individually. Group size is limited to 2 persons.\"",
+        "\"Should you be invited, the Swatch Art Peace Hotel team will contact you to organize your stay.\"",
+        "Fee: \"Submit and pay a fee of 30 Swiss francs which will be entirely donated to Medecins Sans Frontieres (Doctors Without Borders)\". The conditions PDF calls it a motivation fee: \"A motivation fee of thirty (30) Swiss francs is to be paid upon application. This fee is non-refundable, whatever the outcome of the application.\" Group members each pay separately.",
+        "Review timing, the nearest thing to a selection round: \"Your application will be reviewed by an international committee. Please allow minimum 12 weeks for the process.\" The conditions PDF repeats \"The selection committee needs about twelve weeks to review the artist applications.\" No fixed jury dates are published; review appears to be continuous rather than on set rounds.",
+        "\"The decision made by the Swatch Art Peace Hotel jury regarding each application is final. No explanation will be provided in the case of a negative response to a candidate's application.\"",
+        "Age: applicants must be \"at least 21 years of age at the time of application\", no upper limit.",
+        "\"Applications must be made in person\" and cannot be submitted by galleries, curators or third parties.",
+        "Reapplication: former residents cannot reapply; a declined applicant may reapply after one year, and applications are limited to three per person.",
+        "Applicants must accept the full terms and conditions set, including the conditions for artists-in-residence, house rules, etiquette and the list of forbidden materials."
+      ]
+    },
+    "contact_email": null,
+    "application_url": "https://www.swatch-art-peace-hotel.com/en/apply",
+    "residency_url": "https://www.swatch-art-peace-hotel.com/en/artist-residency",
+    "unconfirmed": [
+      "Exact application form fields, required documents, CV or bio requirements and any further written questions: the form requires account registration and login at https://www.swatch-art-peace-hotel.com/en/apply and could not be opened.",
+      "Number of images or files allowed, accepted file formats, maximum file sizes and video length rules: not published at https://www.swatch-art-peace-hotel.com/en/apply or in the applicants conditions PDF.",
+      "Contact email for applicant queries: none published at https://www.swatch-art-peace-hotel.com/en/apply, /en/artist-residency, /en/what-you-get or /en/terms-conditions. Only a postal address and social channels are given. https://www.swatch-art-peace-hotel.com/en/faq returns a 404.",
+      "Fixed jury or selection round dates: none published. Only the minimum 12 week review window at https://www.swatch-art-peace-hotel.com/en/apply.",
+      "Visa specifics for an Indian passport holder: the site commits to invitation letters and up to CHF 300 towards a Chinese business visa, but says nothing about any particular nationality."
+    ],
+    "source_urls": [
+      "https://www.swatch-art-peace-hotel.com/en/apply",
+      "https://www.swatch-art-peace-hotel.com/en/what-you-get",
+      "https://www.swatch-art-peace-hotel.com/en/artist-residency",
+      "https://www.swatch-art-peace-hotel.com/en/terms-conditions",
+      "https://www.swatch-art-peace-hotel.com/sites/default/files/files/module/file-box/swatch_art_peace_hotel_applicants_conditions_0.pdf"
+    ],
+    "notes": "Visa support is concrete: \"Swatch Group will assist artists when applying for a Chinese business visa by undertaking to provide the necessary invitation letters and paying up to three hundred (300) Swiss francs towards covering the cost of the visa application.\" Swatch also supports visa renewal during the stay and will provide invitation and completion letters. Note the closing obligation on the residency page: \"At the end of their stay, all participants are asked to leave an artistic 'trace' of their choice.\" Artists must present a credit card to guarantee hotel services and settle accounts monthly. Removal, transport and storage of artwork and material at the end of the stay is at the artist's cost."
+  },
+  {
+    "name": "Farm Studio International Artist Residency",
+    "location": "Rural Rajasthan, near Andore Village, India",
+    "duration": "About one month per session. \"The length of one residency session is approximately one month.\" 2027 sessions: \"October 3-28, 2027\", \"November 3-28, 2027\", \"December 3-28, 2027\". The application form asks the applicant to choose one: \"3rd October 2027 - 28th October 2027\", \"3rd November 2027 - 28th November 2027\", \"3rd December 2027 - 28th December 2027\".",
+    "deadline": "rolling",
+    "theme": "",
+    "provides": {
+      "grant": "None. \"As an independent residency, Farm Studio is currently unable to provide any funding or stipends for travel to the residency program.\"",
+      "stipend": "None. The artist pays. There is no stipend of any kind, and artists are told to seek their own funding: \"Artists are encouraged to apply for funding from their own cultural agencies.\"",
+      "housing": "Included in the fee the artist pays. \"Private hut or private room with bed and bedding, table, stool/chair, open landscape, electricity, and shared (private) bathrooms.\" Also included: electricity, internet, first aid kit, daily maintenance and cleaning of the premises.",
+      "airfare": "The artist pays. Travel costs, plane fares, visa and insurance are all listed under \"Artist responsible for\".",
+      "accommodation": "Included in the fee. Individual hut or individual room, shared bathroom facilities. Vegetarian breakfast, lunch and dinner plus chai on request are included.",
+      "workspace": "Private studio space is included in the fee. \"Farm Studio residency provides three types of working spaces... at the Farm Studio indoor studios, the outdoor desert and farm environments, and in Andore Village.\" Work tables and basic tools included. Studios are smoke-free.",
+      "artist_fee": "None. No money flows to the artist at any point.",
+      "materials": "Not provided, the artist pays. \"Farm Studio does not supply art materials to any artists.\" \"Each artist must bring their own art supplies.\" Ceramicists pay separately for clay and for kiln and firing facility: \"Kiln and firing assistant/facility (additional small rental charge)\". Basic tools are included."
+    },
+    "application_requirements": {
+      "bio": "No separate bio field on the form. A CV is required instead.",
+      "website": "Required. The form has \"Website link/URL*\" as a required field, and \"Social Media Link\" as an optional field.",
+      "portfolio": "Artwork samples uploaded as individual files: \"Upload Samples of Your Artwork 1*\", \"2*\", \"3*\" are required, \"4\" and \"5\" are optional. A CV upload is required: \"Please upload your CV (file size max 2 MB)*\". A portrait photo upload is offered: \"Please upload a portrait photo/head shot (file size max 2 MB)\", not marked required.",
+      "artwork_details": "No captions, dimensions, media or date fields appear on the form. The form asks only for \"Art discipline*\" and \"Current Employment:\".",
+      "image_count": "Three artwork samples required, five maximum. Slots 1 to 3 are marked required, slots 4 and 5 are optional.",
+      "image_video_format": "No format list and no size limit is stated for the artwork sample uploads. The only stated size limits are 2 MB maximum for the CV and 2 MB maximum for the portrait photo.",
+      "submission_method": "Online JotForm titled \"APPLICATION 2027\" at https://form.jotform.com/farmstudioindia/ApplicationForm , linked from the residency page. No application fee is charged at submission. \"Applicants will be notified by email. A non-refundable deposit will be required to hold the applicant's spot.\"",
+      "questions": [
+        "\"Project Proposal (250 words max)\"",
+        "\"What is motivating you to come to rural Rajasthan, India? (150 words max)\"",
+        "\"Where did you hear about Farm Studio?\"",
+        "\"Art discipline\"",
+        "\"Current Employment:\"",
+        "\"Residency Attending Timing (choose 1 best option)\""
+      ],
+      "other": [
+        "Form identity fields, all required unless noted: \"Full Name*\", \"Address*\" including country, \"Phone Number*\", \"Email*\", \"Date of Birth*\", \"Gender*\" (Male / Female / Etc.), \"Website link/URL*\", \"Social Media Link\" (optional).",
+        "Selection criteria: \"Applications are accepted on an ongoing basis, artists will be selected subject to motivation, work sample, and availability.\" And: \"We will review submissions and make decisions based on the quality of the proposal, support materials submitted, and the artist's willingness to interact positively with the community at large. All artists will be informed by email shortly after this review or according to the date posted on the website.\"",
+        "\"Farm Studio residency accepts and encourages artists to apply for collaborative projects, but each person must fill out an application form. Residency fees are per person.\"",
+        "Capacity: \"Farm Studio residency can currently house 3 - 6 resident artists per month.\"",
+        "Eligibility: \"Open to emerging and established artists.\" \"Farm Studio hosts an international artist residency that accepts applicants from India and from all over the world.\" Sculpture (any material), mixed-media / multi-media, interdisciplinary and installation are all named as welcome disciplines.",
+        "Visas: \"We do not provided visas. Artists must apply independently for a tourist visa to India.\" An invitation letter is included in the fee. Not a concern here, the artist is Indian and resident in India."
+      ]
+    },
+    "contact_email": "FARMINGARTSTUDIO@GMAIL.COM",
+    "application_url": "https://form.jotform.com/farmstudioindia/ApplicationForm",
+    "residency_url": "https://farmstudioindia.org/art-residency/",
+    "unconfirmed": [
+      "File formats and size limits for the artwork sample uploads: the JotForm at https://form.jotform.com/farmstudioindia/ApplicationForm states 2 MB limits only for the CV and portrait photo, nothing for the artwork samples. No video rules are stated anywhere.",
+      "Amount of the non-refundable deposit required to hold a place, and the payment schedule for the balance: not stated at https://farmstudioindia.org/art-residency/ or https://farmstudioindia.org/faq/.",
+      "Whether the USD 800 figure is per session or covers anything else, and whether it has changed for the 2027 cycle: the FAQ states it as a flat figure without a date stamp. Checked https://farmstudioindia.org/faq/ and https://farmstudioindia.org/art-residency/, the residency page itself lists fee inclusions but no number.",
+      "Any review or selection dates: none published, https://farmstudioindia.org/faq/ says only that the deadline \"is set according to the schedule each year\" and that artists are informed by email shortly after review."
+    ],
+    "source_urls": [
+      "https://farmstudioindia.org/art-residency/",
+      "https://farmstudioindia.org/faq/",
+      "https://form.jotform.com/farmstudioindia/ApplicationForm"
+    ],
+    "notes": "FEE CORRECTION. The fee is now confirmed from Farm Studio's own site, not from Res Artis. The FAQ at https://farmstudioindia.org/faq/ states: \"Accommodation, meals and studio access is included in the eight hundred USD residency fee.\" That is USD 800, not the USD 850 previously carried from the Res Artis listing. The residency page itself lists what the fee includes but prints no number, so the FAQ is the only place on the official site where the figure appears.\n\nFee INCLUDES, in Farm Studio's own words: \"Accommodation\", \"Meals; vegetarian breakfast, lunch, dinner provided by our cook\", \"Chai, anytime on request\", \"Studio spaces\", \"Electricity\", \"Internet\", \"First aid kit\", \"Basic tools\", \"Invitation letter\", \"Local sight-seeing\", \"Exhibition opportunity\", \"Artist talk / presentation\", \"24 hr staff on site\", \"Daily maintenance and cleaning of the premises\". The residency page adds \"Work tables\".\n\nFee does NOT include: \"Local transportation (bus, rickshaw, taxi, car, etc.)\", \"Personal art materials; paint, brushes, canvas, etc.\", \"Sand/mud/clay for ceramic artists/potters (available to purchase nearby)\", \"Kiln and firing assistant/facility (additional small rental charge)\", \"Art gallery rental\", \"Classes / workshops with local craftspeople\", \"Meals taken outside of the residency\", \"Coffee\", \"Alcohol\", \"Cigarettes\", \"Towel, personal toiletries\", \"Toilet paper\", \"Personal laundry service\", \"Entertainment costs outside of the residency\", \"Travel costs (plane fares, etc.)\", \"Insurance\", \"Visa\".\n\nWhy the fee exists, in their words: \"Farm Studio is an independent organization that relies on participant fees for the sustainability of our artist residency program.\"\n\nNote that \"Art gallery rental\" being excluded means the included \"Exhibition opportunity\" is the on-site one, not a gallery show."
+  }
+]

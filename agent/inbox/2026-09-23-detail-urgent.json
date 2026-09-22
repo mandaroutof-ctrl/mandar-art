@@ -1,0 +1,265 @@
+[
+  {
+    "name": "PACT Zollverein Residencies January to July 2027",
+    "location": "Essen (Bullmannaue 20a, D-45327 Essen)",
+    "duration": "A continuous block of 3 to 6 weeks chosen by the applicant inside the window January to July 2027. Form wording: \"Period of 3 - 6 weeks, arrival day Tuesday\". The applicant picks a preferred period (3, 4, 5 or 6 weeks) plus a month or months of availability, then a second alternative period.",
+    "deadline": "2026-09-28",
+    "theme": "",
+    "provides": {
+      "grant": "",
+      "stipend": "Weekly stipend. FAQ: \"wird ein wöchentliches Stipendium in Höhe von jeweils 400 EUR pro Person bezahlt\" (400 EUR per week per person, max 4 persons).",
+      "housing": "\"Unterbringung (max. 4 Personen, barrierefreie und familienfreundliche Unterbringung nach Absprache möglich)\" - accommodation provided for up to 4 people, barrier-free and family-friendly on arrangement.",
+      "airfare": "\"Reisekosten für die einmalige An- und Abreise (max. 4 Personen)\" - travel costs for one arrival and one departure. Footnote: \"Grundsätzlich bitten wir An- und Abreisen emissionsarm zu gestalten\" (low-emission travel requested).",
+      "accommodation": "Provided, see housing.",
+      "workspace": "\"Arbeitsstudio (zwischen 69 und 173 qm, eins davon ist barrierefrei)\" - a work studio of 69 to 173 sqm allocated to the residency project, one of them barrier-free. The studio is for the project, not shared with other residencies, but PACT does not use the words private or shared, so this is not confirmed in their own wording.",
+      "artist_fee": "None stated. The residency pays a stipend only; showing the work as an Open Studio or Showing at the end is explicitly optional and no fee for it is mentioned.",
+      "materials": "No materials budget. \"Bereitstellung technischen Equipments (nach Absprache und Verfügbarkeit)\" and \"technische Unterstützung (nach Absprache und Verfügbarkeit)\" - technical equipment and technical support by arrangement and subject to availability."
+    },
+    "application_requirements": {
+      "bio": "Short bio required for every participant: \"Short bio (required)\", max. 1.000 characters including spaces, continuous text. For a solo applicant this is one bio.",
+      "website": "\"Website\" field on the form, optional (not marked required).",
+      "portfolio": "No portfolio upload. Documentation is submitted as links only: \"Documentation and video links (required)\" with Link 1, Link 2 and an optional Link 3 video message, each with an optional access code field. Guidance: \"Please provide video recordings to recent or current works of yours, and/or any documentation of research connected to the project you are applying with. Please make sure that all links are accessible without login.\" FAQ adds: \"Leider können keine Anhänge hochgeladen werden, Video-/Audio-/Textdateien können aber über Verlinkung im Formular angegeben werden.\"",
+      "artwork_details": "No per-artwork caption fields. The project is described in the motivation statement and the two concept summaries. FAQ warns: \"Unvollständige Bewerbungen, wie z. B. Bewerbungen ohne ausreichende visuelle Darstellung des Projektvorhabens, können leider nicht berücksichtigt werden.\"",
+      "image_count": "No still images are collected. Two required links plus one optional video-message link, so a maximum of 3 links.",
+      "image_video_format": "No file uploads of any kind are possible. Everything is a web link that must open without a login; an access code can be supplied per link. The optional Link 3 video message is capped at 3 minutes: \"You have the possibility to present the project in a video message here (max. 3min) (optional)\".",
+      "submission_method": "Online form only, on Typeform, and it must be filled in in English. Site: \"Für die Residenzen von Januar bis Juli 2027 kann man sich ausschließlich über das unten stehende Online-Formular bewerben. Bitte füllen Sie das Formular in englischer Sprache aus.\" The form autosaves for 15 days in the same browser and device (not incognito). No material can be added after submission, by form or by email. Only one application per individual name.",
+      "questions": [
+        "Fields of work the residency project falls into (required) - choose from: Performing Arts / Inter- & transdisciplinary artistic practices / Film & Moving Image / Artistic practice engaging with digital technologies / Socially engaged arts",
+        "Motivation statement (required): Please specify your goals and describe how you would like to develop your project during a residency at PACT (max. 2.000 characters, including spaces)",
+        "Summary of project concept (short version) (required) (max. 1.000 characters, including spaces)",
+        "Summary of project concept (long version) (optional) (max. 2.500 characters, including spaces)",
+        "Technical needs and other needs (required): If applicable, please elaborate on your needs for technical assistance, space or any other needs. (max. 1.000 characters, including spaces)",
+        "Period in weeks (required) - 3, 4, 5, 6 weeks or Other, plus Availability (month or months, January to July 2027). Asked twice: once for the requested period and once for an alternative period.",
+        "Number of people (required) - max. 4 participants, including applicant",
+        "Per participant: Name (required), Project role (required), Short bio (required, max. 1.000 characters including spaces), Access Needs (optional)"
+      ],
+      "other": [
+        "Applicant block: First name (required), Name (required), Name of the collective / company (optional), Profession, Street / No. (required), Address supplement, Postcode (required), City (required), Country (required), Telephone / Mobile (required), E-Mail (required), Website.",
+        "No CV is asked for anywhere in the form. The short bio replaces it.",
+        "Student projects are excluded per the FAQ.",
+        "Around 1,000 applications arrive per cycle, twice a year. Jury result by email expected end of November 2026."
+      ]
+    },
+    "contact_email": "residenz@pact-zollverein.de",
+    "application_url": "https://pact-zollverein.typeform.com/to/sl7mjZO5",
+    "residency_url": "https://www.pact-zollverein.de/en/artists-centre/residencies",
+    "unconfirmed": [
+      "artist_fee: no fee for an end-of-residency showing is stated anywhere on the residency page or the FAQ, so recorded as none stated rather than confirmed zero.",
+      "workspace private or shared: the residency page gives studio sizes but never says private or shared in its own words.",
+      "materials budget: not mentioned on the residency page or the FAQ."
+    ]
+  },
+  {
+    "name": "Kulturkollektiv Goetheschule Lauscha Artist in Residence",
+    "location": "Lauscha, Thuringia (Kulturkollektiv Goetheschule e.V., Bahnhofsstrasse 29, 98724 Lauscha)",
+    "duration": "One month. Five fixed slots per year, given as months not exact dates: \"Mitte März bis Mitte April\", \"Mitte Mai bis Mitte Juni\", \"Mitte Juli bis Mitte August\", \"Mitte September bis Mitte Oktober\", \"Mitte November bis Mitte Dezember\" (mid-March to mid-April, mid-May to mid-June, mid-July to mid-August, mid-September to mid-October, mid-November to mid-December). Applying by 30 September 2026 is for the 2027 slots.",
+    "deadline": "2026-09-30",
+    "theme": "",
+    "provides": {
+      "grant": "",
+      "stipend": "\"1000€ Stipendium\" for the one-month stay. Caveat in their own words: \"Wir weisen darauf hin, dass das Arbeitsstipendium vorbehaltlich einer Förderung ausgezahlt wird\" (the work stipend is paid subject to funding being granted; they normally receive the funding decision by year end and stipend contracts are signed in the funding year).",
+      "housing": "\"kostenfreie Logis\" - free lodging in the artist residence flat.",
+      "airfare": "Not mentioned anywhere on the application page.",
+      "accommodation": "Free, see housing.",
+      "workspace": "\"freies Atelier im Haus\" - a free studio in the building. The page does not say whether the studio is private or shared; photos are captioned Atelier 1 and Atelier 2, and past residents describe \"den Ateliers der Goetheschule\" in the plural.",
+      "artist_fee": "None stated.",
+      "materials": "Not mentioned. No materials budget stated."
+    },
+    "application_requirements": {
+      "bio": "Not asked as a separate bio. A CV is required instead, as a free-text field labelled \"Lebenslauf\".",
+      "website": "No website field on the form.",
+      "portfolio": "No dedicated portfolio field. Supporting material goes in the file upload field labelled \"Referenzen\" (references).",
+      "artwork_details": "Not asked.",
+      "image_count": "The upload field allows up to 10 files: form help text reads \"Max File Size: 10MB\", \"Max Files: 10\", \"File Types: .jp(e)g .png .pdf .doc(x) .odt .txt\". No separate image count is specified.",
+      "image_video_format": "Accepted file types: .jpg, .jpeg, .png, .pdf, .doc, .docx, .odt, .txt. Maximum 10 MB per file, maximum 10 files. Video files are not an accepted type.",
+      "submission_method": "Either the online form at the bottom of the Bewerbung page, or email. Page: \"Für die Bewerbung bitte das Formular unten benutzen oder E-Mail an: residenz@kulturkollektiv-goetheschule.de\". The form fields, all required, are: Name, Adresse, E-Mail, Telefon, Ihr Vorhaben bei uns, Lebenslauf, Referenzen (file upload).",
+      "questions": [
+        "Ihr Vorhaben bei uns (your proposed project with us) - free text. This is the decisive one: \"Bewerber*innen, die kein Vorhaben eingereicht haben, können nicht berücksichtigt werden\" (applicants who have not submitted a project proposal cannot be considered).",
+        "Lebenslauf (CV) - free text field",
+        "Referenzen (references) - file upload"
+      ],
+      "other": [
+        "No word or character limits are stated for the free-text fields.",
+        "The application can be written in German; the page is German only and gives no language rule.",
+        "Open to all disciplines: \"Es können sich Glaskünstler*innen bewerben oder Künstler*innen anderer Disziplinen wie Zeichnung, Malerei, Skulptur, Installation, Grafik, Video, Ton, Fotografie, interdisziplinär, u.a. Es gibt keine Grenzen, was die Kunstrichtungen angeht.\" Glass artists are expressly encouraged because of Lauscha's glass history, but glass is not a requirement and is not a theme for the cycle.",
+        "Jury meets during October, selected artists informed in November.",
+        "A joint Finissage is organised at the end of the residency; exhibitions at the Glasmuseum Lauscha are possible by arrangement."
+      ]
+    },
+    "contact_email": "residenz@kulturkollektiv-goetheschule.de",
+    "application_url": "https://kulturkollektiv-goetheschule.de/bewerbung/",
+    "residency_url": "https://kulturkollektiv-goetheschule.de/bewerbung/",
+    "unconfirmed": [
+      "Exact residency start and end dates for 2027: the Bewerbung page gives only mid-month to mid-month windows.",
+      "Whether the applicant may state a preferred slot: the form has no slot-choice field, checked on the Bewerbung page.",
+      "airfare and travel costs: not mentioned on the Bewerbung page.",
+      "materials budget: not mentioned on the Bewerbung page.",
+      "workspace private or shared: not stated on the Bewerbung page.",
+      "Word or character limits for the Vorhaben and Lebenslauf fields: none given in the form definition on the Bewerbung page."
+    ]
+  },
+  {
+    "name": "Camargo Foundation Fellowship 2027-2028",
+    "location": "Cassis, France (1 avenue Maurice Jermini, 13260 Cassis)",
+    "duration": "Two sessions, 10 weeks each. Fall 2027: 8 September to 17 November 2027, 10 weeks. Spring 2028: 23 February to 4 May 2028, 10 weeks. 14 fellowships per year (7 artists, 7 scholars and thinkers).",
+    "deadline": "2026-10-01",
+    "theme": "",
+    "provides": {
+      "grant": "",
+      "stipend": "\"A stipend of EUR 350 per week is provided (EUR 3500 for the entire duration of the residency)\".",
+      "housing": "A furnished apartment on campus. \"The Camargo Foundation's campus includes twelve furnished apartments\". \"All apartments include a fully equipped kitchen for residents to prepare their own meals.\" Meals are not provided.",
+      "airfare": "\"funding for basic transportation to and from Cassis per Fellow. In the case of air travel, basic coach class booked in advance is covered.\" Shipping of artworks or materials is explicitly NOT covered.",
+      "accommodation": "Provided on campus, see housing.",
+      "workspace": "Campus has \"one artist's studio with a darkroom, and one composer's studio with a piano\". There is a single artist studio on the whole campus, so it is a shared resource across the artist fellows rather than a private studio per fellow, and the guidelines add \"The facilities are ideal for desk work\" and \"The Camargo Foundation does not have a dance studio\". The guidelines never use the word private.",
+      "artist_fee": "None. No fee is paid for work made; any publication, exhibit or performance resulting from the grant must credit the Camargo Foundation, and a copy of work done during the residency should be sent to the Foundation.",
+      "materials": "None: \"The Camargo Foundation does not provide art supplies or technical equipment.\""
+    },
+    "application_requirements": {
+      "bio": "No separate bio. A current CV, 3 pages maximum, is required.",
+      "website": "Not listed as a required item in the guidelines.",
+      "portfolio": "\"All applicants must submit work samples. If providing a work in progress, please also provide finished work. Visual artists may submit a portfolio (PDF)\". Filmmakers may submit up to 20 minutes of film across up to 3 links, Vimeo preferred; composers up to 3 links totalling no more than 20 minutes and/or a score as PDF; writers up to 20 pages.",
+      "artwork_details": "Not specified in the guidelines PDF.",
+      "image_count": "Not stated in the guidelines. \"Detailed information about the number of work samples that are required, their maximum length, the materials, and the file format(s), is available in the application form on Submittable.\" The exact image count is therefore only visible inside Submittable after creating an account.",
+      "image_video_format": "Guidelines specify PDF for a visual artist portfolio and weblinks for time-based work. Exact file size limits and accepted formats are held in the Submittable form, not the guidelines.",
+      "submission_method": "Online only via Submittable: \"We accept applications only via our online platform, Submittable: https://camargofoundation.submittable.com/submit\". The application form must be submitted in English; supporting materials (CV, work samples) may be in English or French. Only one application per eligible applicant; multiple submissions are disqualified. Deadline is Tuesday 1 October 2026 by 5:59pm EST / 23:59 CET.",
+      "questions": [
+        "A proposal summary (word limit: 100 words)",
+        "A proposal narrative that describes your intended focus during the residency, whether on (a) particular work(s) or a more open-ended area of inquiry, and conveys the relevance of your research for today (word limit: 1,200 words).",
+        "A rationale for wanting to work specifically in the framework of the Camargo Fellowship residency (as opposed to any other residency programs) and/or in the Aix-Marseille-Provence area, including but not limited to existing or potential connections with people, places, organizations, and environments (word limit: 300 words).",
+        "A rationale for why a residency is appropriate at this specific stage of your proposal and/or career (word limit: 300 words)."
+      ],
+      "other": [
+        "A current CV, 3 pages maximum.",
+        "Two references: \"Applicants are asked to list the names and contact information for two references. Candidates who reach the final stages of the selection process may be asked to provide letters from their references.\"",
+        "Artists must pick a subcategory on the form: Visual Artists / Choreographers, Theater Directors, and Performance Artists / Writers and Playwrights / Film, Video, and Digital Artists / Composers and Sound Artists / Multidisciplinary Artists.",
+        "Eligibility for artists: \"Applicants should have maintained a (professional) practice for at least the past 5 years\" and \"We are interested in artists who have a fully developed, mature artistic voice.\"",
+        "Every fellow must conceive and lead their own Residents' Session for the other fellows; attendance at others' sessions is mandatory.",
+        "Public Open Studios are hosted, though participation is qualified in the guidelines.",
+        "Visas: \"The Camargo Foundation will provide an invitation letter if required\" and non-EU citizens are told to contact the French Embassy or Consulate early.",
+        "An informational webinar was offered on Tuesday 1 September 2026 at 4:00PM CET, now past.",
+        "This is the last public open call: \"this year's open call will, until further notice, be the last one open to the public. Beginning in July 2027, the Camargo Foundation will implement a new selection process that will no longer be based on a public open call.\""
+      ]
+    },
+    "contact_email": "apply@camargofoundation.org",
+    "application_url": "https://camargofoundation.submittable.com/submit",
+    "residency_url": "https://camargofoundation.org/en/camargo-fellowship-2026-2027",
+    "unconfirmed": [
+      "image_count and image file size limits: the guidelines PDF (linked from the fellowship page) says these live only inside the Submittable form, which needs an account to view.",
+      "Video length limit for a visual artist rather than a filmmaker: only the filmmaker limit of 20 minutes across 3 links is stated in the guidelines.",
+      "Whether a website field exists on the Submittable form: not mentioned in the guidelines PDF.",
+      "Application fee: no fee is mentioned anywhere in the guidelines PDF, but no explicit fee-free statement was found either."
+    ]
+  },
+  {
+    "name": "Farnham Craft Town Artist in Residence 2027",
+    "location": "Farnham, Surrey, England. Based at the Farnham School of Furniture Making.",
+    "duration": "\"a residency, of 4-6 weeks, in Farnham, Surrey, UK during Spring 2027\". No exact start and end dates are published.",
+    "deadline": "2026-10-02",
+    "theme": "",
+    "provides": {
+      "grant": "",
+      "stipend": "\"Living costs\" are listed as covered. No amount is published on the opportunity page.",
+      "housing": "\"Free studio space and accommodation\".",
+      "airfare": "\"Fully covered travel costs\". Not itemised as airfare and no cap is given.",
+      "accommodation": "Free, see housing.",
+      "workspace": "\"Free studio space\" at the Farnham School of Furniture Making. The page does not say private or shared, and it describes a collaborative setting with the student body and local makers, which suggests shared workshop access, but that is not stated in their own words.",
+      "artist_fee": "Not stated as a separate fee. Note that the artist must hand over work: \"Each of our artists in residence will be asked to create a piece inspired by Farnham, which will form part of our local craft collection.\"",
+      "materials": "\"Contribution to materials\". No amount published."
+    },
+    "application_requirements": {
+      "bio": "Not asked as a bio. An Artist's Statement is required.",
+      "website": "\"If you have a website, please list your web address\" - a form field, not marked required. Also \"If you use Instagram, what is your user name?\"",
+      "portfolio": "No portfolio. Three images of work only.",
+      "artwork_details": "No caption or artwork-detail fields on the form.",
+      "image_count": "Three. \"Please upload your CV, Artist's Statement and three images of your work.\"",
+      "image_video_format": "No file formats, file size limits or video option are specified anywhere on the opportunity page or on the JotForm. The form uses a single generic Browse Files / drag-and-drop uploader for the CV, statement and three images together.",
+      "submission_method": "Online form on JotForm at https://form.jotform.com/252294767073364, linked from the opportunity page as \"Apply here\". Deadline \"17.00 GMT Friday 2nd October 2026\".",
+      "questions": [
+        "What is your area of craft e.g. furniture making, marquetry etc?",
+        "If you have a website, please list your web address",
+        "If you use Instagram, what is your user name?",
+        "What appeals to you about this Residency? Tell us a bit about what you would like to achieve and what you could offer to Farnham Craft Town?"
+      ],
+      "other": [
+        "Required identity fields: Name of Applicant (first and last), Email, Phone Number with country code, Address including country. Nationality / Citizenship is asked but not marked required.",
+        "Upload in one field: CV, Artist's Statement and 3 images of work.",
+        "No word or character limits are given for any written answer.",
+        "\"Priority this year will be given to artists working in wood and furniture making, and we particularly welcome applications from makers based in other World Craft Towns.\"",
+        "Named relevant specialisms: \"cabinet making, hand-cut joinery, marquetry & inlay, wood turning, wood carving, green woodworking, coopering, and work with sustainable or reclaimed timber. We welcome applications from makers working across all of these disciplines and many more.\"",
+        "Career stage is open: \"We are accepting proposals from creatives at all stages of their development and are particularly interested in people who want to experiment and innovate.\"",
+        "Shortlisted applicants do an initial online conversation with key Farnham organisations.",
+        "Funded by The Farnham South Street Trust, managed by Farnham Town Council."
+      ]
+    },
+    "contact_email": "hello@farnhamcrafttown.com",
+    "application_url": "https://form.jotform.com/252294767073364",
+    "residency_url": "https://farnhamcrafttown.com/farnham-craft-town-artist-in-residence-opportunity-2027/",
+    "unconfirmed": [
+      "Exact residency dates within Spring 2027: only \"4-6 weeks ... during Spring 2027\" appears on the opportunity page.",
+      "Stipend amount for living costs: not published on the opportunity page or the JotForm.",
+      "Materials contribution amount: not published on the opportunity page.",
+      "Travel cost cap: not published on the opportunity page.",
+      "Image file formats and size limits: the JotForm uploader states no restriction and the opportunity page gives none.",
+      "Whether the artist's donated piece is additional to or instead of a fee: not addressed on the opportunity page.",
+      "Visa support for a non-UK applicant: nothing on the opportunity page or the JotForm about visas or sponsorship.",
+      "workspace private or shared: not stated on the opportunity page."
+    ]
+  },
+  {
+    "name": "Braunschweig Projects Fellowship 2027/28 (HBK Braunschweig)",
+    "location": "Braunschweig, Lower Saxony (Braunschweig University of Art, HBK Braunschweig)",
+    "duration": "12 months, 1 April 2027 to 31 March 2028. Fellows can move into their accommodation from 15 April 2027. Residency requirement of at least 8 months during the lecture periods of the summer and winter semesters. Attendance at Welcome Weeks (19 to 30 April 2027) and at the joint final presentation (January/February 2028) is mandatory.",
+    "deadline": "2026-10-04",
+    "theme": "",
+    "provides": {
+      "grant": "\"There will be an allowance for project and travel costs.\" No amount is published. \"The realisation of the contributions for the final exhibition as a joint project will be key.\"",
+      "stipend": "\"Funding is provided in form of stipends in the amount of 1,600€ per month over a period of 12 months.\"",
+      "housing": "\"A studio apartment in Braunschweig, designed for one person, will be available rent-free for the duration of the fellowship. A contribution of 250 € per month towards incidental living costs must be paid by the fellows.\" So money flows back out at 250 EUR per month.",
+      "airfare": "Not covered as such. Only the combined \"allowance for project and travel costs\", amount unpublished.",
+      "accommodation": "Rent-free one-person studio apartment, minus the 250 EUR per month incidental costs contribution.",
+      "workspace": "The housing is described as a \"studio apartment ... designed for one person\", which is living space. The call does not state that a separate work studio or workshop is provided, and does not say private or shared.",
+      "artist_fee": "None stated. Fellows must present their project internally and take part in a joint final presentation, with no fee mentioned for either.",
+      "materials": "No separate materials budget. Covered only by the unspecified project and travel allowance."
+    },
+    "application_requirements": {
+      "bio": "No standalone bio. An artist statement of max. 350 words plus a short CV are required.",
+      "website": "Required inside the artistic profile: \"Name, website & social media handles\". The application form also has fields for \"Website & social media\".",
+      "portfolio": "\"Portfolio (10 – 15 works)\", inside the single artistic profile file.",
+      "artwork_details": "Not specified beyond \"Portfolio (10 – 15 works)\".",
+      "image_count": "10 to 15 works in the portfolio, all inside one file. No separate image count is given.",
+      "image_video_format": "The artistic profile is \"1 file, max. 15MB\", file named \"Surname, First name_Visual Arts\" or \"Surname, First name_Soundart\". The diploma is a \"PDF-file, max. 1 MB\", file named \"Surname, First name_Degree\". The application form is named \"Surname, First name_APF\". Video and audio are not uploaded: \"Links to 3 video-/ audiofiles (password-free access!)\". The file type for the artistic profile is not explicitly stated.",
+      "submission_method": "Email only. \"Please address your complete application, in German or English, to President Prof. Dr. Ana Dimke and send it to: application-bsprojects@hbk-bs.de. Subject: Braunschweig Projects: Soundart or Visual Arts. Deadline: 4. October 2026 (e-mail must be received by 11:59 pm)\". Hard warning: \"If the email does not meet the requirements listed above (complete documents, file types, file names, file sizes, email inbox), we regret that we will not be able to consider your application.\"",
+      "questions": [
+        "Artist statement (max. 350 words)",
+        "Brief description of proposed artistic project (max. 350 words)",
+        "Application for a scholarship in the field of: Soundart or Visual Arts (tick one; \"It is not possible to apply for both scholarships at the same time.\")",
+        "Date of your last art degree (a copy of the diploma must be enclosed separately)",
+        "I have applied for following other scholarships for 2027/2028",
+        "Website & social media",
+        "Links to 3 audio-/ video works (password free access!)",
+        "This is how I found out about the scholarship opportunity in Braunschweig: e-flux / Instagram / Word-of-mouth / HBK-Fellowship website / Others (please name)"
+      ],
+      "other": [
+        "Three attachments in total: (1) fully completed and signed application form, (2) artistic profile as 1 file max 15MB containing name, website and social media handles, artist statement, project description, portfolio of 10 to 15 works, short CV including prices, exhibitions, fellowships etc., and links to 3 video or audio files, (3) a copy of the diploma of the most recent university art degree or a certified translation into German.",
+        "Application form PDF: https://www.hbk-bs.de/fileadmin/Hochschule/Stipendienprogramme/Braunschweig_Projects/2027-2028/Application_FORM_BSP_2027-2028_New.pdf",
+        "Open call PDF: https://www.hbk-bs.de/fileadmin/Hochschule/Stipendienprogramme/Braunschweig_Projects/2027-2028/Open_Call_BSP_2027-28.pdf",
+        "The form asks for date of birth and a copy of ID unless it is already evident from the diploma, plus gender and nationality.",
+        "Signed declarations required: that statements are truthful, that the fellow will present the project internally and take part in a joint final presentation, that no third-party benefits or state subsidy will be received during the funding period, and a separate signed data protection consent.",
+        "Eligibility gate: \"A pre-requisite for a fellowship is a successfully completed art degree. The most recent studies must have been completed after 31 March 2016 and before 1 April 2023. Applicants must be able to show proof of extensive artistic practice and exhibition participation.\"",
+        "Exclusivity gate: \"A fellowship cannot be granted if the applicant is receiving regular benefits from third parties during the funding period (e.g. residence or salary payments or work scholarships) or a state subsidy.\"",
+        "7 fellowships: 5 in fine arts, 2 in sound art. Each fellow is assigned a mentor, a fine arts professor the fellow may choose.",
+        "A short final report of approximately 1 page is required at the end."
+      ]
+    },
+    "contact_email": "application-bsprojects@hbk-bs.de",
+    "application_url": "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/",
+    "residency_url": "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/",
+    "unconfirmed": [
+      "File type for the artistic profile: the open call PDF gives a size and a file-name rule but never names the format.",
+      "Amount of the project and travel allowance: stated to exist but not quantified in the open call PDF.",
+      "Whether a separate work studio or workshop is provided: the open call PDF mentions only a one-person studio apartment as accommodation.",
+      "Visa support for a non-EU fellow: nothing about visas in the open call PDF or the application form PDF.",
+      "General enquiries contact: Kerstin Dopatka-Durston, braunschweigprojects@hbk-bs.de, appears on the call-and-application web page but applications go to application-bsprojects@hbk-bs.de."
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "name": "ACCR Odyssée residency programme (Centres Culturels de Rencontre)",
+    "location": "Heritage sites across France; the applicant chooses 1 to 3 host centres",
+    "country": "France",
+    "verified": true,
+    "source_urls": ["https://www.accr-europe.org/fr/les-residences/appel-a-candidatures-2026-programme-de-residences-odyssee-nora", "https://www.accr-europe.org/en/residencies/residencies-programs/odyssee", "https://www.les-dominicains.com/les-residences/candidater-apply/programme-odyssee-nora-pour-la-residence-d-artistes-2026", "https://www.chateaudegoutelas.fr/en/residences-odyssee-nora-2026-accr/", "https://www.lepluspetitcirquedumonde.fr/spectacles-et-residences/pepiniere/odyssee-2026", "https://www.reseau-tras.eu/appel-a-candidatures-programme-de-residences-nora/"],
+    "eligibility": {"india_eligible": true, "international_open": true, "career_stage": null, "collective_required": false, "eligibility_notes": "For foreign artists, researchers and cultural professionals who do not live in France. The call gives attention to artists deprived of freedom of expression, refugees, people in conflict zones or facing discrimination, and projects on human rights or the environment, framed as may rather than must. The separate Nora strand is for recently arrived exiles in France."},
+    "funding": {"has_stipend": true, "living_stipend": true, "production_grant": null, "stipend_detail": "EUR 1,000 per month maintenance grant (2026 call), free board and lodging, travel reimbursed per route, visa fees may be covered.", "accommodation": true, "studio": null, "travel_covered": true, "visa_support": null, "materials_budget": "No production or materials budget stated", "application_fee": null, "residency_charges": null, "artist_pays": ["travel above the per-route reimbursement", "materials and production costs"]},
+    "discipline": {"mixed_media_ok": true, "sculpture_installation_ok": null, "digital_only": false, "thematic_constraint": "Project must fit the vocation of the chosen host heritage centre. Programme fields include visual arts, crafts, design and digital arts.", "facilities": "Host centres provide technical means whenever possible, varying by centre."},
+    "deadline": "2026-03-15",
+    "deadline_notes": "Closed. The 2026 call closed 15 March 2026 for residencies from autumn 2026 to summer 2027. No 2027/28 call published as of 2026-09-10.",
+    "duration": "1 to 6 months",
+    "money_summary": "EUR 1,000/month plus free board and lodging, travel reimbursed",
+    "style_fit": 0.55,
+    "style_fit_reason": "Heritage-site host centres with varying vocations. Visual arts and crafts are in scope, but whether a centre suits sculpture and vitrines depends on the centre chosen.",
+    "cautions": [
+      "Closed. The 2026 call closed 15 March 2026 and no 2027/28 call is published yet.",
+      "Apply to the Odyssée strand, not Nora, which is for exiles already in France.",
+      "Sculpture and installation are not named, so choose host centres whose vocation and workshops can take them.",
+      "The call gives attention to artists facing restricted freedom, conflict or discrimination, which may weigh in selection.",
+      "Visa fees may be covered, but this is not guaranteed."
+    ],
+    "notes": "Strongest funding match in the France and Spain group, and open to an India-based foreign artist. Several official pages were read through a text reader because the sites blocked direct fetching.",
+    "curation_note": "Condensed 2026-09-10 from the France and Spain research agent output."
+  },
+  {
+    "name": "Villa Belleville temporary studio residencies",
+    "location": "23 rue Ramponeau, 75020 Paris",
+    "country": "France",
+    "verified": true,
+    "source_urls": ["https://www.villabelleville.org/wp-content/uploads/2025/09/AAP-Atelier-Janvier2026.pdf", "https://www.villabelleville.org/les-appels-a-projet/", "https://www.villabelleville.org/le-lieu/", "https://www.villabelleville.org/wp-content/uploads/2026/03/AAP-Atelier-Juillet-2026.pdf", "https://cipac.net/annonces/appels/ateliers-temporaires-6-mois-ou-3-mois-06-09-2023"],
+    "eligibility": {"india_eligible": true, "international_open": true, "career_stage": "any", "collective_required": false, "eligibility_notes": "City of Paris cultural venue. The January 2026 call sets no nationality or residence condition and accepts English applications from international artists. Open to all artists with no age limit. Requires a diploma or an URSSAF registration attestation."},
+    "funding": {"has_stipend": false, "living_stipend": false, "production_grant": true, "stipend_detail": "No living stipend. Production grant of EUR 1,158 for 6 months or EUR 579 for 3 months (January 2026 call).", "accommodation": null, "studio": true, "travel_covered": null, "materials_budget": "Production grant EUR 1,158 (6 months) or EUR 579 (3 months)", "application_fee": null, "residency_charges": "EUR 7 per m2 per month, about EUR 140 to EUR 230 per month", "artist_pays": ["monthly studio charges of EUR 140 to EUR 230", "housing in Paris for 3 to 6 months"]},
+    "discipline": {"mixed_media_ok": true, "sculpture_installation_ok": true, "digital_only": false, "thematic_constraint": "No theme. All visual arts and crafts.", "facilities": "Shared screen printing, engraving, ceramics, wood and sculpture workshops, subject to availability."},
+    "deadline": "2026-04-20",
+    "deadline_notes": "No call open. The last visible call closed 20 April 2026, seen through search snippets of the official PDF, which has since been removed. Calls come twice a year and the next date is not published.",
+    "duration": "3 or 6 months",
+    "money_summary": "Small production grant, but the artist pays monthly studio charges and finds own housing",
+    "notes": "Good workshop fit, but the studio charges roughly cancel the grant and there is no housing.",
+    "curation_note": "Condensed 2026-09-10 from the France and Spain research agent output."
+  },
+  {
+    "name": "Medialab Matadero Situated Research Residencies 2027",
+    "location": "Matadero Madrid",
+    "country": "Spain",
+    "verified": true,
+    "source_urls": ["https://www.medialab-matadero.es/en/announcements/situated-research-2027", "https://www.mataderomadrid.org/sites/default/files/media/document/2026/07/Bases%20Convocatoria%20Proyectos%20Investigacio%CC%81n%20Situada%202027%20EN.pdf", "https://www.mataderomadrid.org/sites/default/files/media/document/2026/07/Bases%20Convocatoria%20Proyectos%20Investigacio%CC%81n%20Situada%202027.pdf", "https://www.mataderomadrid.org/en/calls/open-call-situated-reseach-residencies-2027"],
+    "eligibility": {"india_eligible": true, "international_open": true, "career_stage": "any", "collective_required": false, "eligibility_notes": "Spanish or EU nationals, or non-EU citizens who hold the administrative authorisation to reside or remain legally in Spain for the whole residency. Open to individuals, groups and non-profit entities. Aims at exchange between expert and emerging profiles."},
+    "funding": {"has_stipend": true, "living_stipend": null, "production_grant": true, "stipend_detail": "EUR 10,000 per project before tax withholding, 70% on signing and 30% after the final report. Must be dedicated to the project, including research, creation, production, documentation, travel, materials and equipment. One return trip covered for residents living outside Spain.", "accommodation": null, "studio": true, "travel_covered": true, "visa_support": false, "materials_budget": "No separate budget; materials come out of the EUR 10,000", "application_fee": null, "residency_charges": null, "artist_pays": ["housing and living costs in Madrid for 7 months", "Spanish legal stay authorisation or visa", "Spanish tax withholding on the payment", "travel beyond one return trip"]},
+    "discipline": {"mixed_media_ok": true, "sculpture_installation_ok": null, "digital_only": false, "thematic_constraint": "Research-led. Projects must address at least one LAB: Sentient Media, The Metabolic Sublime, Synthetic Minds, Strange Futures, The Mechanics of Truth, where art, design, science and technology meet, within the UN sustainable development goals.", "facilities": "Fablab, technical materials and an individual workspace."},
+    "deadline": "2026-09-27",
+    "deadline_notes": "Open. Deadline 27 September 2026 at 23:59 CEST per the official rules.",
+    "duration": "7 months, January to July 2027, in person in Madrid",
+    "money_summary": "EUR 10,000 project grant before tax plus one return flight, no housing",
+    "style_fit": 0.4,
+    "style_fit_reason": "Research-led art, science and technology programme. Containment and perception work could be framed under Sentient Media or Strange Futures, but this is an inquiry residency with public outputs rather than a making residency.",
+    "cautions": [
+      "Open now, closing 27 September 2026. The application must pitch a research inquiry tied to one of the five LAB themes.",
+      "He must secure his own legal authorisation to stay in Spain for 7 months, with no visa help. Stays over 90 days generally need a national visa, which takes time.",
+      "No housing. Seven months of Madrid living, materials and production all come out of the same EUR 10,000 after tax.",
+      "Research outputs are published under a CC BY-SA licence, and public activities are required."
+    ],
+    "notes": "The only open, paid option in the France and Spain group.",
+    "curation_note": "Condensed 2026-09-10 from the France and Spain research agent output."
+  }
+]

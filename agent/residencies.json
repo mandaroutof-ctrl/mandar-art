@@ -1,0 +1,2910 @@
+{
+  "meta": {
+    "about": "Residency database for the client screen. Schema is documented in README.md. Merge new research with: python3 residency_filter.py --add FILE",
+    "schema_version": 1
+  },
+  "residencies": [
+    {
+      "name": "Gasworks",
+      "aliases": [
+        "gasworks"
+      ],
+      "location": "London",
+      "country": "United Kingdom",
+      "verified": true,
+      "last_updated": "2026-09-10",
+      "source_urls": [],
+      "source_note": "From art_manager_conversation_export.json. Deadline belongs to a past cycle, re-verify.",
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": true,
+        "international_open": false,
+        "career_stage": "early-career",
+        "collective_required": false,
+        "eligibility_notes": "Early-career visual artists based in India, on an India-specific open call."
+      },
+      "funding": {
+        "has_stipend": true,
+        "stipend_detail": "£175/week plus up to £800 materials",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": true,
+        "visa_support": true,
+        "materials_budget": "up to £800",
+        "application_fee": null,
+        "artist_pays": [],
+        "living_stipend": true,
+        "production_grant": true
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "thematic_constraint": "",
+        "programme_focus": "Open to any visual art discipline."
+      },
+      "deadline": "2026-03-02",
+      "deadline_notes": "Past cycle date. Next India call not yet confirmed.",
+      "duration": "11 weeks",
+      "style_fit": 0.75,
+      "style_fit_reason": "Source export rates it a strong fit: open to any visual art discipline and suited to sculpture, mixed media and containment work.",
+      "notes": "Return economy flights from India, shared accommodation, prepaid London travel card.",
+      "money_summary": "£175/week stipend, up to £800 materials, flights and visa support"
+    },
+    {
+      "name": "Delfina Foundation",
+      "aliases": [
+        "delfina"
+      ],
+      "location": "London",
+      "country": "United Kingdom",
+      "verified": true,
+      "last_updated": "2026-09-10",
+      "source_urls": [],
+      "source_note": "From art_manager_conversation_export.json.",
+      "eligibility": {
+        "india_eligible": false,
+        "india_specific": false,
+        "international_open": false,
+        "career_stage": null,
+        "collective_required": null,
+        "eligibility_notes": "Current call restricted to Latin American, Caribbean and USA-based diaspora artists."
+      },
+      "funding": {
+        "has_stipend": true,
+        "stipend_detail": "Fully funded with a daily living allowance",
+        "accommodation": true,
+        "studio": null,
+        "travel_covered": true,
+        "materials_budget": null,
+        "application_fee": null,
+        "artist_pays": [],
+        "living_stipend": true,
+        "production_grant": null
+      },
+      "discipline": {
+        "mixed_media_ok": null,
+        "sculpture_installation_ok": null,
+        "digital_only": null,
+        "thematic_constraint": ""
+      },
+      "deadline": null,
+      "deadline_notes": "Current call: shortlisting 2026-05, final selection by 2026-06-01.",
+      "duration": "12 weeks",
+      "notes": "Watchlist. India-specific residencies ran historically through Charles Wallace India Trust and Inlaks Shivdasani Foundation.",
+      "money_summary": "Fully funded: travel, housing and a daily living allowance"
+    },
+    {
+      "name": "EMAP (European Media Art Platform)",
+      "aliases": [
+        "emap",
+        "european media art platform"
+      ],
+      "location": "Multiple European host organisations",
+      "country": "Multiple",
+      "verified": true,
+      "last_updated": "2026-09-10",
+      "source_urls": [],
+      "source_note": "From art_manager_conversation_export.json.",
+      "eligibility": {
+        "india_eligible": null,
+        "india_specific": false,
+        "international_open": null,
+        "career_stage": null,
+        "collective_required": true,
+        "eligibility_notes": "Duo, collective or collaborative project. Primarily EU residents or taxpayers, or eligible non-EU countries."
+      },
+      "funding": {
+        "has_stipend": true,
+        "stipend_detail": "€4,000 artist grant, €2,000 collaborator, €4,000 project budget",
+        "accommodation": true,
+        "studio": null,
+        "travel_covered": true,
+        "materials_budget": "€4,000 project budget",
+        "application_fee": null,
+        "artist_pays": [],
+        "living_stipend": true,
+        "production_grant": true
+      },
+      "discipline": {
+        "mixed_media_ok": null,
+        "sculpture_installation_ok": null,
+        "digital_only": true,
+        "thematic_constraint": "Digital, media, robotic, AI and bio art."
+      },
+      "deadline": "2026-03-13",
+      "duration": "2 months",
+      "style_fit": 0.2,
+      "style_fit_reason": "Media-art platform. A sculptural, material practice only fits if a digital angle is developed.",
+      "notes": "",
+      "money_summary": "€4,000 artist grant plus €4,000 project budget"
+    },
+    {
+      "name": "UNIDEE / Fondazione Pistoletto Cittadellarte",
+      "aliases": [
+        "unidee",
+        "cittadellarte",
+        "pistoletto"
+      ],
+      "location": "Biella",
+      "country": "Italy",
+      "verified": true,
+      "last_updated": "2026-09-10",
+      "source_urls": [],
+      "source_note": "From art_manager_conversation_export.json.",
+      "eligibility": {
+        "india_eligible": false,
+        "india_specific": false,
+        "international_open": false,
+        "career_stage": null,
+        "collective_required": false,
+        "eligibility_notes": "Current call: one Italian artist plus one international artist residing in Europe."
+      },
+      "funding": {
+        "has_stipend": true,
+        "stipend_detail": "€25/day per diem, €1,000 to €1,500 travel and research",
+        "accommodation": true,
+        "studio": null,
+        "travel_covered": true,
+        "materials_budget": null,
+        "application_fee": null,
+        "artist_pays": [],
+        "living_stipend": true,
+        "production_grant": true
+      },
+      "discipline": {
+        "mixed_media_ok": null,
+        "sculpture_installation_ok": null,
+        "digital_only": false,
+        "thematic_constraint": "Ecosystems as Living Communities: socially engaged and ecological practice."
+      },
+      "deadline": "2026-09-06",
+      "duration": "Up to 60 days",
+      "style_fit": 0.3,
+      "style_fit_reason": "Socially engaged, ecological focus is a stretch from containment and surrealism.",
+      "notes": "",
+      "money_summary": "€25/day per diem plus €1,000 to €1,500 travel and research"
+    },
+    {
+      "name": "Palazzo Monti",
+      "aliases": [
+        "palazzo monti"
+      ],
+      "location": "Brescia",
+      "country": "Italy",
+      "verified": true,
+      "last_updated": "2026-09-10",
+      "source_urls": [],
+      "source_note": "From art_manager_conversation_export.json.",
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": null,
+        "collective_required": false,
+        "eligibility_notes": "Open to international artists, anonymous selection."
+      },
+      "funding": {
+        "has_stipend": false,
+        "stipend_detail": "No stipend",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "materials_budget": "Basic production supplies",
+        "application_fee": "€25",
+        "artist_pays": [
+          "travel",
+          "food",
+          "artwork return shipping",
+          "production supplies"
+        ],
+        "living_stipend": false,
+        "production_grant": false
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "thematic_constraint": ""
+      },
+      "deadline": "2026-09-30",
+      "deadline_notes": "Rolling quarterly: 30 Sep, 30 Dec, 30 Mar, 30 Jun.",
+      "duration": "1 month",
+      "style_fit": 0.8,
+      "style_fit_reason": "Source export notes a strong materials and aesthetic fit: ceramic, iron, bronze, marble, wood.",
+      "notes": "",
+      "money_summary": "No stipend. Room, studio and basic supplies only, €25 fee"
+    },
+    {
+      "name": "Tokyo Arts and Space (TOKAS) International Creator Residency",
+      "location": "TOKAS Residency, 2-14-7 Tatekawa, Sumida-ku, Tokyo",
+      "country": "Japan",
+      "verified": true,
+      "source_urls": [
+        "https://www.tokyoartsandspace.jp/static/file/open%20call/Residency/2027/Outline_ICR2027.pdf",
+        "https://www.tokyoartsandspace.jp/en/archive/application/2026/20260430-317.html",
+        "https://www.tokyoartsandspace.jp/en/application/index.html",
+        "https://www.tokyoartsandspace.jp/en/application/schedule.html",
+        "https://www.tokyoartsandspace.jp/en/location/residency.html",
+        "https://www.tokyoartsandspace.jp/en/residence/about.html"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "international_open": true,
+        "career_stage": null,
+        "collective_required": false,
+        "eligibility_notes": "From the 2027 Application Outline PDF: '(1) Resides outside of Japan (2) Has 5 years or more of experience in the fields of visual arts, design or architecture (3) Has sufficient ability to communicate in English (4) Independent and capable of working and living on his/her own (5) Creators working as a duo are also eligible (6) Students are ineligible (except for Ph.D. candidates)'. No nationality restriction stated, so an India-based artist meets the residence rule. FAQ Q21: 'Participation as a collective is not accepted. Applying as an individual or a duo artist is acceptable.' A duo must have done at least one project together. Anyone who has done this programme before cannot reapply (FAQ Q2). Two letters of recommendation from art or cultural institutions or professionals are required. career_stage set to null because TOKAS uses no stage label; the hard rule is 5+ years of experience, and it describes targets as 'distinguished and highly motivated creators'.",
+        "min_years_experience": 5
+      },
+      "funding": {
+        "has_stipend": true,
+        "stipend_detail": "PDF section 3: 'Living expenses (per diem): JPY 4,200 (consumption tax excluded) per day' plus 'Fee for work/project: JPY 300,000 (consumption tax excluded)'. 'Income tax (20.42%) will be deducted from the above amounts'. My own arithmetic, not a TOKAS figure: the per diem comes to about JPY 382,000 to 386,000 for one 3-month period before tax. A duo gets living expenses and the fee for one person only.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": true,
+        "materials_budget": "No separate materials budget is listed. The JPY 300,000 fee for work/project is the only production money stated.",
+        "application_fee": "None stated in the 2027 outline PDF or the FAQ",
+        "artist_pays": [
+          "Accommodation and travel elsewhere in Japan ('We will not provide any financial support for additional accommodation and travel expenses elsewhere in Japan')",
+          "Any family or partner costs (they cannot stay at the residency, FAQ Q20)",
+          "20.42% income tax, deducted from the amounts paid",
+          "Visa and insurance are NOT addressed on the official pages I checked (unconfirmed either way)"
+        ],
+        "living_stipend": true,
+        "production_grant": true
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "thematic_constraint": "None. Fields are 'visual arts (drawing, installation, painting, performance, photography, media art, sculpture, sound art, video, etc.), design, architecture'. 'Mixed media' is not named, but the list is open-ended and names installation and sculpture explicitly."
+      },
+      "deadline": "2026-06-16",
+      "deadline_notes": "CLOSED. The 2027 call ran from 19 May 2026 to 16 June 2026, 18:00 JST (PDF section 6). Final results are due on the TOKAS website by early October 2026. The Open Call page currently says 'Currently no open calls', and no 2028 call has been announced. The TOKAS schedule page lists this programme's open call as usually running 'May to June', but also says 'This schedule may be changed', so no 2027 date for the 2028 cycle is confirmed.",
+      "duration": "3 months: early May to end July 2027, early September to end November 2027, or early January to end March 2028. 6 creators in total, 2 per period (tentative).",
+      "notes": "Best money of the three, and installation and sculpture are explicitly in scope. Main blocker for an early-career artist: the hard requirement of 5 or more years of experience, plus two institutional recommendation letters. Facilities (PDF section 11 and the residency page): a single room of 25 sq m with kitchen and bath, plus two SHARED studios of 125 sq m and 48 sq m, a networking room and a library. No workshop, tools, woodshop, metal or ceramics equipment is listed. Condition 5 says 'Do not conduct any activities that would make big noise or vibration in TOKAS Residency', which limits fabricating glass vitrines or large work on site. The OPEN STUDIO is the only official presentation, and a comprehensive report is required. No commercial or profitable activity is allowed during the residency. The programme itself depends on the Tokyo Metropolitan Foundation for History and Culture board approving its 2027 annual plan by end of March 2027. Visa handling for Indian passport holders is not described. Confirm separately.",
+      "money_summary": "JPY 4,200/day living plus JPY 300,000 project fee, before 20.42% tax",
+      "style_fit": 0.65,
+      "style_fit_reason": "Open-ended visual arts programme that names installation and sculpture, but shared studios and a no-noise rule limit fabricating vitrines or large work on site.",
+      "cautions": [
+        "Requires 5 or more years of practice and two recommendation letters from institutions or professionals.",
+        "Shared studios and a no-noise rule limit fabrication on site.",
+        "2027 call closed on 16 June 2026. No 2028 call is announced yet, and past calls ran May to June.",
+        "Income tax of 20.42% is deducted from the per diem and fee."
+      ],
+      "curation_note": "Curated 2026-09-10 from the Japan research agent output. Flags below were set from the agent's quoted official text.",
+      "last_updated": "2026-09-10",
+      "aliases": [
+        "tokas",
+        "tokyo arts and space"
+      ]
+    },
+    {
+      "name": "Kyoto Art Center Artist-in-Residence Program",
+      "location": "Kyoto Art Center, Kyoto",
+      "country": "Japan",
+      "verified": true,
+      "source_urls": [
+        "https://www.kac.or.jp/en/news/20250515/",
+        "https://www.kac.or.jp/en/news/20260615/",
+        "https://www.kac.or.jp/news/20260615/",
+        "https://www.kac.or.jp/en/open_call/",
+        "https://www.kac.or.jp/en/program/3066/",
+        "https://www.kac.or.jp/en/artist_in_studios/facility/",
+        "https://www.kac.or.jp/en/artist_in_studios/requirements/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "international_open": true,
+        "career_stage": "emerging",
+        "collective_required": false,
+        "eligibility_notes": "AIR 2026 Visual Arts call: 'An emerging artist or researcher active in the field of visual arts who has a clear reason for staying in Kyoto for production, research, etc. Participants must be able to plan and implement exchange projects with the public during their participation period. Capable of communicating in English or Japanese.' The call is open 'for both individuals and groups'. Neither the English nor the Japanese pages state any nationality or residence restriction, and airfare is offered 'from residential area to Kansai International Airport'. india_eligible is therefore true because no restriction is stated, not because India is named. The 2026 call also says 'Literature and cross-genre applicants are eligible to apply every year', but that sentence does not appear in the 2027 call (English or Japanese)."
+      },
+      "funding": {
+        "has_stipend": false,
+        "stipend_detail": "NO living stipend or artist fee. Official text: 'Food, artist fees, and other living expenses will not be provided.' What is paid: a 'Subsidy of 200,000 yen (tax included) per production' (production and research subsidy), plus accommodation, studio and airfare. This is a production grant, not a stipend.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": true,
+        "materials_budget": "JPY 200,000 (tax included) per production, as a production and research subsidy. The artist must prepare their own production and research supplies.",
+        "application_fee": "None stated (checked the 2026 English call and the 2027 English and Japanese calls)",
+        "artist_pays": [
+          "Food and all other living expenses for up to 3 months",
+          "Artist fee (none paid)",
+          "Supplies for production and research",
+          "Visa and insurance are not confirmed on the official pages (unverified)"
+        ],
+        "living_stipend": false,
+        "production_grant": true
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "thematic_constraint": "No theme. Discipline alternates by year. Program page: 'Artists are selected through an open call process held in alternating years for the Visual Arts and Performing Arts categories.' AIR 2026 was Visual Arts and AIR 2027 is Performing Arts only. The visual arts call does not list media, so sculpture, installation and mixed media are read as falling under 'visual arts'. They are not named."
+      },
+      "deadline": "2025-08-31",
+      "deadline_notes": "No call open to a visual artist right now; the date above is the last visual-arts deadline. AIR 2026 Visual Arts ran 30 June to 31 August 2025, 23:59 JST, and is marked CLOSED. The current cycle, AIR 2027, is Performing Arts only. It ran 30 June to 31 July 2026, 18:00 JST, and is marked 'Application Closed', with results due late November 2026. No AIR 2028 Visual Arts call is listed. Going by the alternation sentence alone, the next visual arts call would be AIR 2028, probably in summer 2027 (KAC says the application period is 'typically scheduled for the summer'). That is an inference; no date is published.",
+      "duration": "Up to 3 months. 2026 Visual Arts: any 3 months between 1 April 2026 and 31 March 2027. 2027 Performing Arts: 1 May to 31 August 2027, or 1 November 2027 to 29 February 2028. The 2027 call selects 'one artist or artist group'; the 2026 call does not state a number.",
+      "notes": "The emerging-artist focus suits an early-career applicant, but it FAILS the stipend requirement: the artist self-funds food and living costs. Studios (facility page): 10 studios of 36 to 88 sq m. Studios 1 and 2 have concrete floors, a 'Large ventilation system, sink, large gas stove', and shoes are allowed; the others have wooden or linoleum floors. Which studio a resident gets is not stated. No woodshop, metal, ceramics or kiln is listed. Studio rules: use may be restricted if 'noise, foul odor, etc.' disturbs others, 'equipment, etc., must be prepared and borne by the user', and vehicle loading must be arranged with the office. Residents must run public exchange projects and submit a report. Visa handling is not described. And no call is currently open in his discipline.",
+      "money_summary": "JPY 200,000 production subsidy plus housing, studio and airfare",
+      "style_fit": 0.6,
+      "style_fit_reason": "Emerging visual arts focus with no theme, but no fabrication workshop and a public exchange-project obligation.",
+      "cautions": [
+        "No living stipend or artist fee. Food and living costs for up to 3 months are self-funded.",
+        "Visual and performing arts calls alternate by year. AIR 2027 is performing arts only, so the next visual arts call is likely summer 2027 and is not announced.",
+        "Residents must run public exchange projects.",
+        "No fabrication workshop is listed."
+      ],
+      "curation_note": "Curated 2026-09-10 from the Japan research agent output. Flags below were set from the agent's quoted official text.",
+      "last_updated": "2026-09-10",
+      "aliases": [
+        "kyoto art center",
+        "kyoto art centre"
+      ]
+    },
+    {
+      "name": "L-AIR Artist in Residence & Support Program (Himeji)",
+      "location": "77 Hanadacho Takagi, Himeji-shi, Hyogo 671-0256 (Takagi leather district, Himeji)",
+      "country": "Japan",
+      "verified": true,
+      "source_urls": [
+        "https://l-air.or.jp/journal/2026/08/916/",
+        "https://l-air.or.jp/journal/2026/08/914/",
+        "https://l-air.or.jp/",
+        "https://l-air.or.jp/journal/2025/08/679/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "eligibility_notes": "2027 call (English): 'Individual artists, designers, or creators, or artist duos currently engaged in creative practice. All disciplines are welcome.' 'There are no restrictions regarding age, nationality, or cultural background.' 'Applicants must be able to communicate in either Japanese or English.' The Japanese version matches: 年齢、国籍、バックグラウンドは問わない. No experience minimum or career-stage label is stated, and the Japanese page says no prior leather experience is needed. Solo applicants are fine; groups larger than a duo are not addressed."
+      },
+      "funding": {
+        "has_stipend": true,
+        "stipend_detail": "2027 call: 'International artists: Up to JPY 150,000 per month' (Japanese artists up to JPY 250,000). Japanese original: 海外アーティスト：1ヶ月/150,000円を上限. Official caveat: the grant is 'not a living allowance. It is intended solely to support artistic production.' and 'Living expenses are not provided during the residency.' An older L-AIR apply page (2024 dates) quoted 'up to 250,000 yen/1,500 USD per month'; the 2027 call supersedes that, and international artists now get the lower cap.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": true,
+        "materials_budget": "Leather and other production materials are provided free (2027 call: 'leather/production materials'). The monthly grant is production-only.",
+        "application_fee": "None stated in the 2027 English or Japanese call. Apply by email to info@l-air.or.jp, subject 'L-AIR Artist Apply'.",
+        "artist_pays": [
+          "All living expenses, food included ('Living expenses are not provided during the residency')",
+          "Health, accident and any other insurance ('Artists are responsible for obtaining their own health insurance, accident insurance...')",
+          "Any specialised tools beyond the standard leather equipment",
+          "Travel beyond one round trip. 'The organizer will reimburse one round-trip journey', by 'the most reasonable and economical route using public transportation', repaid after arrival against receipts.",
+          "Visa is not addressed in the call (unverified)"
+        ],
+        "living_stipend": false,
+        "production_grant": true
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "thematic_constraint": "HARD MATERIAL CONSTRAINT: 'Creation of works using leather as the primary material'. 'All works created using leather materials provided during the residency will be donated to L-AIR' (for its archive exhibition).",
+        "required_material": "leather"
+      },
+      "deadline": "2026-09-30",
+      "deadline_notes": "OPEN (2027 call posted 6 August 2026). 'Applications are accepted on a rolling basis. Applicants may apply for any season at any time.' Per-season deadlines: Season 1 (4 Jan to 28 Mar 2027) by 30 Sep 2026; Season 2 (1 Apr to 27 Jun 2027) by 30 Nov 2026; Season 3 (1 Jul to 26 Sep 2027) by 1 Mar 2027; Season 4 (1 Oct to 19 Dec 2027) by 31 May 2027. The nearest deadline (Season 1) is 20 days from today.",
+      "duration": "'As a general rule, it is for two to three months', within 4 seasons in 2027 (dates above). The 2026 cycle stated 1.5 to 3 months.",
+      "notes": "Open to him, currently accepting applications, and it pays a monthly grant, but the fit is conditional. His containment, vitrine, glass-box and hyperreal figurative work would have to be made mainly in LEATHER. Leather can suit surreal figurative work and scale distortion, but no glass or vitrine fabrication is described. Every piece made with L-AIR's leather is donated to L-AIR, so he keeps none of it. The grant is production-only, so living costs come out of his own pocket. Facilities: a converted leather factory with workshops 1 to 4, private bedrooms, an exhibition gallery and shared living areas. The studio has 'standard leatherworking equipment and machinery'; specialised tools must be brought, Wi-Fi is available, no computers are supplied, and artists clean their own space. An older, outdated apply page listed glass, ceramics and woodworking among priority fields, but the 2027 call does not repeat this. Obligations: open studio, final presentation or exhibition, at least one exchange programme, progress reports at 1 week, 1 month and 2 months, and cooperation with documentation and media. Visa handling is not described.",
+      "money_summary": "Up to JPY 150,000/month production grant plus housing, studio, one return trip, free leather",
+      "style_fit": 0.35,
+      "style_fit_reason": "Leather must be the primary material, which pulls away from his glass, plaster and vitrine vocabulary, though leather can carry surreal figurative work.",
+      "cautions": [
+        "Leather must be the primary material.",
+        "Every work made with L-AIR leather is donated to L-AIR, so he keeps none of it.",
+        "The grant is for production only. Living costs and insurance are self-funded.",
+        "Season deadlines: 30 Sep 2026, 30 Nov 2026, 1 Mar 2027, 31 May 2027."
+      ],
+      "curation_note": "Curated 2026-09-10 from the Japan research agent output. Flags below were set from the agent's quoted official text.",
+      "last_updated": "2026-09-10",
+      "aliases": [
+        "himeji"
+      ]
+    },
+    {
+      "name": "Villa Lena",
+      "aliases": [
+        "villa lena"
+      ],
+      "country": "Italy",
+      "verified": false,
+      "eligibility": {},
+      "funding": {},
+      "discipline": {},
+      "deadline": null,
+      "notes": "On the client list, not yet researched."
+    },
+    {
+      "name": "Marea Art Project",
+      "aliases": [
+        "marea"
+      ],
+      "country": "Italy",
+      "verified": false,
+      "eligibility": {},
+      "funding": {},
+      "discipline": {},
+      "deadline": null,
+      "notes": "On the client list, not yet researched."
+    },
+    {
+      "name": "Arroscia Residency",
+      "aliases": [
+        "arroscia"
+      ],
+      "country": "Italy",
+      "verified": false,
+      "eligibility": {},
+      "funding": {},
+      "discipline": {},
+      "deadline": null,
+      "notes": "On the client list, not yet researched."
+    },
+    {
+      "name": "ACCR (Odyssee / Nora programmes)",
+      "aliases": [
+        "accr",
+        "odyssee",
+        "centres culturels de rencontre"
+      ],
+      "country": "France",
+      "verified": false,
+      "eligibility": {},
+      "funding": {},
+      "discipline": {},
+      "deadline": null,
+      "notes": "On the client list, not yet researched."
+    },
+    {
+      "name": "Villa Belleville",
+      "aliases": [
+        "villa belleville",
+        "belleville"
+      ],
+      "country": "France",
+      "verified": false,
+      "eligibility": {},
+      "funding": {},
+      "discipline": {},
+      "deadline": null,
+      "notes": "On the client list, not yet researched."
+    },
+    {
+      "name": "Medialab Matadero",
+      "aliases": [
+        "matadero",
+        "medialab"
+      ],
+      "country": "Spain",
+      "verified": false,
+      "eligibility": {},
+      "funding": {},
+      "discipline": {},
+      "deadline": null,
+      "notes": "On the client list, not yet researched."
+    },
+    {
+      "name": "Studio Museum in Harlem Artist-in-Residence Program",
+      "location": "Harlem, New York City",
+      "country": "United States",
+      "verified": true,
+      "source_urls": [
+        "https://www.studiomuseum.org/residency",
+        "https://www.studiomuseum.org/residency/residency-application",
+        "https://www.studiomuseum.org/press/studio-museum-in-harlem-announces-2026-artist-in-residence-cohort"
+      ],
+      "eligibility": {
+        "india_eligible": false,
+        "international_open": true,
+        "career_stage": "emerging",
+        "collective_required": false,
+        "eligibility_notes": "Official FAQ: designed to serve emerging artists of African and/or Afro-Latinx descent working locally, nationally or internationally. International applicants are accepted, so the barrier is descent, not nationality. Individuals only. The museum cannot provide visas or sponsor international applicants."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": null,
+        "stipend_detail": "USD 50,000 per artist, paid biweekly over the year (official FAQ, 2026-27 cycle).",
+        "accommodation": false,
+        "studio": true,
+        "travel_covered": null,
+        "materials_budget": null,
+        "application_fee": "Free",
+        "artist_pays": [
+          "11 months of New York housing",
+          "own US visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "thematic_constraint": "No theme. Artists across all mediums encouraged."
+      },
+      "deadline": null,
+      "deadline_notes": "Closed. The 2026-27 call opened 13 Apr 2026. A deadline of 18 May 2026 appears only in unverified search summaries. Next cycle not announced.",
+      "duration": "11 months (2026-27: 2 Nov 2026 to 3 Oct 2027)",
+      "money_summary": "USD 50,000 over 11 months, no housing, no visa sponsorship",
+      "notes": "Artistically open, 3 artists per cycle. Blocked by the descent focus, and even if eligible there is no housing or visa sponsorship.",
+      "curation_note": "Condensed 2026-09-10 from the Americas research agent output.",
+      "last_updated": "2026-09-10",
+      "aliases": [
+        "studio museum"
+      ]
+    },
+    {
+      "name": "Banff Centre Early Career Banff Artist in Residence (BAiR Early Career)",
+      "location": "Banff, Alberta",
+      "country": "Canada",
+      "verified": true,
+      "source_urls": [
+        "https://www.banffcentre.ca/programs/visual-arts/early-career-banff-artist-residence-2026",
+        "https://akimbo.ca/listings/call-for-applications-early-career-banff-artist-in-residence-2026/",
+        "https://www.banffcentre.ca/participant-resources/international-visitors",
+        "https://www.banffcentre.ca/visual-arts"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "international_open": true,
+        "career_stage": "early-career",
+        "collective_required": false,
+        "eligibility_notes": "Post-secondary visual arts training or equivalent, averaging up to five years of professional practice. Individuals or duos. International applicants welcome. Participants handle their own Canadian visitor visa."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "None. 2026 edition fee CAD 8,831.75, standard scholarship CAD 6,235.00, participant pays CAD 2,596.75.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": null,
+        "materials_budget": null,
+        "application_fee": "CAD 65",
+        "artist_pays": [
+          "CAD 65 application fee",
+          "CAD 2,596.75 programme fee after scholarship",
+          "travel to Banff",
+          "Canadian visitor visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "thematic_constraint": "None. Self-directed with mentorship."
+      },
+      "deadline": "2025-08-27",
+      "deadline_notes": "Past cycle only (2026 edition, via Akimbo). No 2027 Early Career edition listed as of 2026-09-10.",
+      "duration": "5 weeks",
+      "money_summary": "No stipend. Artist pays about CAD 2,662 after scholarship and fee",
+      "notes": "Good artistic fit with a 24/7 studio and mentorship, but fails the stipend requirement. Other open Banff visual arts programmes use the same fee-paying model.",
+      "curation_note": "Condensed 2026-09-10 from the Americas research agent output.",
+      "last_updated": "2026-09-10",
+      "aliases": [
+        "banff"
+      ]
+    },
+    {
+      "name": "25AV Residency Programme (2026-2027)",
+      "location": "Athens, Brno, Brussels, Milan, Munich",
+      "country": "Multiple",
+      "verified": true,
+      "source_urls": [
+        "https://www.onassis.org/open-calls-past/open-call-25av-residency-program-20262027",
+        "https://www.imal.org/en/news/25-av-residency-results",
+        "https://on-the-move.org/news/25av-residency-programme-media-art-sound-performance-and-audiovisual-experimentation-greece",
+        "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/crea/guidance/list-3rd-country-participation_crea_en.pdf"
+      ],
+      "eligibility": {
+        "india_eligible": false,
+        "international_open": false,
+        "career_stage": "early-career",
+        "collective_required": true,
+        "eligibility_notes": "Duo or group of up to 4 artists based in at least 2 Creative Europe eligible countries. India is not a Creative Europe country. Within 10 years of professional practice."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": true,
+        "stipend_detail": "Artist fees up to EUR 2,500 per artist plus daily subsistence support.",
+        "accommodation": true,
+        "studio": null,
+        "travel_covered": true,
+        "materials_budget": null,
+        "application_fee": null,
+        "artist_pays": []
+      },
+      "discipline": {
+        "mixed_media_ok": null,
+        "sculpture_installation_ok": null,
+        "digital_only": false,
+        "thematic_constraint": "Collaborative audiovisual and performance work that must be stageable: media art, sound, experimental music, performance, new media."
+      },
+      "deadline": "2025-10-30",
+      "deadline_notes": "Closed. Selection announced 3 Mar 2026. No newer call found.",
+      "duration": "7 to 14 days per host plus an April 2027 festival",
+      "money_summary": "Up to EUR 2,500 artist fees plus subsistence",
+      "notes": "Poor fit on every count: team of 2 to 4 in Creative Europe countries, stageable audiovisual output, and closed.",
+      "curation_note": "Condensed 2026-09-10 from the Americas research agent output.",
+      "last_updated": "2026-09-10",
+      "aliases": [
+        "25av"
+      ]
+    },
+    {
+      "name": "Braunschweig Projects Fellowship 2027/28 (HBK Braunschweig)",
+      "location": "Braunschweig",
+      "country": "Germany",
+      "verified": true,
+      "source_urls": [
+        "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/",
+        "https://on-the-move.org/news/hbk-braunschweig-braunschweig-projects-residency-programme-2027-28-germany"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "early-career",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official wording: 'A pre-requisite for a fellowship is a successfully completed art degree', with graduation 'after 1 April 2016 and before 1 April 2023', plus 'extensive artistic practice and exhibition participation'. No nationality restriction stated. Applications in German or English. Fellows may not hold other funding at the same time. Five visual arts and two sound art fellowships."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": true,
+        "stipend_detail": "'1,600 EUR per month over a period of 12 months'; 'A contribution of 250 EUR per month towards incidental living costs must be paid by the fellows'; plus 'an allowance for project and travel costs'.",
+        "accommodation": true,
+        "studio": null,
+        "travel_covered": true,
+        "visa_support": null,
+        "materials_budget": "Project and travel allowance, amount not stated",
+        "application_fee": "No application fee mentioned on the call page",
+        "artist_pays": [
+          "EUR 250 per month contribution towards incidental living costs",
+          "Health insurance not mentioned; assume artist's own"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Twelve-month fellowship for visual artists and sound artists at the HBK Braunschweig university of art, with mentorship from fine arts professors and presentation opportunities within the university."
+      },
+      "deadline": "2026-10-04",
+      "deadline_notes": "Official: '4. October 2026 (e-mail must be received by 11:59 pm)'. Fellowship runs from 1 April 2027, move-in 15 April 2027.",
+      "duration": "12 months from April 2027; at least 8 months on site during the HBK lecture period",
+      "money_summary": "EUR 1,600/month for 12 months plus a rent-free studio apartment and a project/travel allowance; fellow pays back EUR 250/month",
+      "style_fit": 0.6,
+      "style_fit_reason": "Open visual arts fellowship inside an art university with no thematic brief, so sculpture and installation are natural fits; whether a separate workshop studio is provided beyond the studio apartment is not stated on the call page.",
+      "cautions": [
+        "Graduation window is strict: art degree completed between 1 April 2016 and 1 April 2023.",
+        "Fellow pays EUR 250 per month back towards living costs.",
+        "Cannot hold other funding during the fellowship.",
+        "Studio provision beyond the studio apartment not confirmed on the page."
+      ],
+      "notes": "All facts from the HBK call page. Visa support not mentioned. Client's graduation year needed to confirm the window.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Kulturkollektiv Goetheschule Lauscha Artist in Residence",
+      "location": "Lauscha, Thuringia",
+      "country": "Germany",
+      "verified": true,
+      "source_urls": [
+        "https://kulturkollektiv-goetheschule.de/bewerbung/",
+        "https://artresidencyeurope.com/residency/kulturkollektiv-goetheschule-e-v-lauscha-germany"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official (German): glass artists may apply, or artists of other disciplines 'wie Zeichnung, Malerei, Skulptur, Installation, Grafik, Video, Ton, Fotografie'. No nationality or career-stage restriction stated. Project proposal mandatory; jury sits in October, notification in November."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": false,
+        "stipend_detail": "'1000€ Stipendium' for the one-month stay, plus 'kostenfreie Logis' (free lodging) and 'freies Atelier im Haus' (free studio).",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "Not stated",
+        "application_fee": "No fee mentioned on the application page",
+        "artist_pays": [
+          "Travel to and from Lauscha",
+          "Materials (not stated as covered)"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "Glass heritage of Lauscha is the house theme; glass artists are especially welcome but other disciplines are explicitly invited.",
+        "programme_focus": "One-month residencies in a former school in the glass-making town of Lauscha, with a flame-working glass studio and a flexible workshop; open to drawing, painting, sculpture, installation, graphics, video, sound and photography."
+      },
+      "deadline": "2026-09-30",
+      "deadline_notes": "Official page states the deadline as '30.September des Vorjahres' (30 September of the preceding year) for the following year's five residency slots; the year is not printed. Applied here as 30 September 2026 for 2027 stays.",
+      "duration": "4 weeks in one of five slots: mid-March to mid-April, mid-May to mid-June, mid-July to mid-August, mid-September to mid-October, mid-November to mid-December",
+      "money_summary": "EUR 1,000 stipend for one month plus free lodging and studio; travel at artist's cost",
+      "style_fit": 0.6,
+      "style_fit_reason": "Material-led house with a glass flame-working studio and a workshop; explicitly welcomes sculpture and installation; small-town setting with no stated exhibition programme.",
+      "cautions": [
+        "Deadline is one week away (30 September 2026).",
+        "Travel from India is not covered, which eats into a EUR 1,000 stipend.",
+        "Application page is in German only."
+      ],
+      "notes": "Visa support not mentioned. Confirm by email that the 30 September deadline applies to 2027 slots.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Künstler:innenhaus Lauenburg Stipendium Bildende Kunst 2027",
+      "location": "Lauenburg/Elbe, Schleswig-Holstein",
+      "country": "Germany",
+      "verified": true,
+      "source_urls": [
+        "https://kuenstlerhaus-lauenburg.de/stipendium_start/",
+        "https://www.kuenstlerhaus-lauenburg.de/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official (German): 'professionelle deutsche und internationale Künstler:innen' may apply, no age limit. Excluded: current students, anyone holding another residency at the same time, and anyone who received Schleswig-Holstein state funding in the past three years."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": false,
+        "stipend_detail": "'einen monatlichen Zuschuss von 1000,- EUR netto' for four months, with 'freie Wohnungs- und Ateliernutzung' including electricity, internet and telephone.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": null,
+        "visa_support": null,
+        "materials_budget": "Not stated",
+        "application_fee": "'eine Bewerbungsgebühr von 10,00 €' (EUR 10)",
+        "artist_pays": [
+          "EUR 10 application fee",
+          "Travel (not mentioned as covered)",
+          "Materials (not stated as covered)"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Four-month visual arts residency stipend in a historic Künstlerhaus on the Elbe; parallel stipends for literature and composition. Ends with a solo presentation."
+      },
+      "deadline": "2026-11-10",
+      "deadline_notes": "Official: 'Bewerbungszeitraum für 2027 ist vom 10. Oktober – 10. November 2026'. Online forms appear on the page only during that window.",
+      "duration": "4 months, mid-May to mid-September 2027",
+      "money_summary": "EUR 1,000 net per month for 4 months plus free flat and studio; EUR 10 application fee; travel not mentioned",
+      "style_fit": 0.5,
+      "style_fit_reason": "General visual arts residency with studio and a closing solo show; no workshop or fabrication facilities described, and no stated curatorial leaning.",
+      "cautions": [
+        "Residents must spend at least 50 percent of the period in Lauenburg.",
+        "A closing solo presentation and an A4 report are mandatory; donating a work is voluntary.",
+        "EUR 10 application fee (about INR 950), well under the cap."
+      ],
+      "notes": "Travel and visa support not mentioned on the page. Window opens 10 October 2026.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Camargo Foundation Fellowship 2027-2028",
+      "location": "Cassis",
+      "country": "France",
+      "verified": true,
+      "source_urls": [
+        "https://camargofoundation.org/en/camargo-fellowship-2026-2027",
+        "https://drive.google.com/file/d/1k45glDV62a74NAr8rS0pUdLj10kDL8EY/view?usp=sharing",
+        "https://camargofoundation.org/en/residencies/apply",
+        "https://camargofoundation.submittable.com/submit",
+        "https://on-the-move.org/news/camargo-foundation-fellowship-2027-2028-artists-scholars-and-thinkers-france"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "mid-career",
+        "collective_required": false,
+        "min_years_experience": 5,
+        "eligibility_notes": "Official guidelines PDF (GUIDELINES_27-28_Camargo Fellowship, linked from the foundation's own call page). Artists track: 'Applicants should have maintained a (professional) practice for at least the past 5 years. They should be the primary creators of new work or a new project. They should be able to demonstrate a track record of publications, public performances and exhibitions, credits, awards, and/or grants. We are interested in artists who have a fully developed, mature artistic voice.' Artists choose a subcategory; 'Visual Artists' and 'Multidisciplinary Artists' are both listed. No nationality restriction: the foundation selects 'from a large pool of applicants from around the world', and the visa section addresses 'Fellows who are not from European Union countries', so an Indian national is eligible. Teams of up to three may apply; solo applications are the norm. Former Fellows may not reapply until three years after their previous fellowship. Application form must be in English."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": false,
+        "stipend_detail": "Official guidelines: 'A stipend of EUR 350 per week is provided (EUR 3500 for the entire duration of the residency), as is funding for basic travel, basic coach class booked in advance is covered.' Furnished apartment on campus included.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": true,
+        "visa_support": true,
+        "materials_budget": "None. 'The Camargo Foundation does not provide art supplies or technical equipment.'",
+        "application_fee": "None. No application fee is mentioned anywhere in the foundation's own 2027-2028 guidelines, which is the complete call document, and applications are submitted through Submittable.",
+        "artist_pays": [
+          "Art supplies and technical equipment ('The Camargo Foundation does not provide art supplies or technical equipment')",
+          "Shipping of artworks or materials to and from the foundation",
+          "Car hire if archive research requires it ('may need to rent a car during their fellowship at their own expense')",
+          "Living costs beyond the EUR 350 per week stipend; apartments have kitchens and residents cook for themselves"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Ten-week research-based residential fellowship on the Mediterranean coast for artists, scholars and thinkers, 14 fellows a year (7 artists, 7 scholars and thinkers). Campus has twelve furnished apartments, a reference library, a music/conference room, an open-air theatre, one artist's studio with a darkroom and one composer's studio. Twice-yearly public open studios."
+      },
+      "deadline": "2026-10-01",
+      "deadline_notes": "Official guidelines: 'Applications must be submitted no later than Tuesday, October 1st, 2026, by 5:59pm EST (e.g., New York City) / 23:59 CET (e.g. Paris). Late and/or incomplete applications will not be reviewed.' The guidelines also state this open call 'will, until further notice, be the last one open to the public', with a new non-open-call selection process from July 2027.",
+      "duration": "10 weeks: 8 September to 17 November 2027, or 23 February to 4 May 2028",
+      "money_summary": "EUR 350/week (EUR 3,500 for 10 weeks) plus housing in Cassis and basic travel",
+      "style_fit": 0.4,
+      "style_fit_reason": "Research-led residency by the foundation's own description: 'the Camargo Fellowship is a research-based residency, focused on research rather than production', and 'The facilities are ideal for desk work.' One artist's studio with a darkroom exists, but no supplies or technical equipment are provided and shipping of produced work is not covered, so it suits a thinking or drawing phase far more than fabricated sculpture.",
+      "cautions": [
+        "Artists need at least five years of professional practice; the client's years are still not recorded, so this may be a hard disqualification.",
+        "Research-based by design: 'focused on research rather than production'. No art supplies or technical equipment provided, and shipping of artworks or materials is not covered.",
+        "The foundation looks for 'a fully developed, mature artistic voice' and a track record of exhibitions, awards or grants, which is a high bar for an emerging artist.",
+        "This is the final open public call; from July 2027 selection moves off an open call.",
+        "Fellows may not take gainful employment that would prevent focus on the project during the residency."
+      ],
+      "notes": "All facts now read from the foundation's own call page and its guidelines PDF. Visas: 'For non-European Union citizens, a visa may be required depending on nationality and length of stay... The Camargo Foundation will provide an invitation letter if required.' Open question: the guidelines name no application fee at all, so none is assumed, but the Submittable form itself was not opened to confirm a payment step.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "PACT Zollverein Residencies January to July 2027",
+      "location": "Essen",
+      "country": "Germany",
+      "verified": true,
+      "source_urls": [
+        "https://www.pact-zollverein.de/en/artists-centre/residencies"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official (German): open to 'Künstler*innen und Kulturschaffenden aus der ganzen Welt' in performing arts, 'Inter- & transdisziplinäre künstlerische Praktiken', film and moving image, digital technology-based practice and socially engaged arts. Solo artists or groups up to four people. Application form must be completed in English."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": null,
+        "stipend_detail": "'wöchentliches Stipendium für alle am Projekt beteiligten Künstler:innen (max. 4 Personen)'; amount not published on the page. Also 'Unterkunft' and 'Reisekosten für die einmalige An- und Abreise'.",
+        "accommodation": true,
+        "studio": null,
+        "travel_covered": true,
+        "visa_support": null,
+        "materials_budget": "Not stated",
+        "application_fee": "No application fee mentioned",
+        "artist_pays": [
+          "Materials (not stated as covered)"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "Practice must sit within performing arts, inter- or transdisciplinary work, film, digital technology-based or socially engaged art.",
+        "programme_focus": "Choreographic centre in a former colliery; process-oriented residencies of three to six weeks for performing arts and inter- and transdisciplinary practices, with a weekly stipend, housing and travel."
+      },
+      "deadline": "2026-09-28",
+      "deadline_notes": "Official: '28. September 2026 | 23:59 (CET)' for residencies January to July 2027; applications are reviewed twice a year via the online form.",
+      "duration": "3 to 6 weeks, continuous",
+      "money_summary": "Weekly stipend (amount not published) plus housing and one return trip for 3 to 6 weeks",
+      "style_fit": 0.35,
+      "style_fit_reason": "A performing-arts house; sculpture and installation only qualify if framed as transdisciplinary work, and the stated categories (digital, socially engaged, film) sit away from the client's material practice.",
+      "cautions": [
+        "Deadline is five days away (28 September 2026).",
+        "Stipend amount is not published; ask before relying on it.",
+        "Strongly performance-oriented context; a static sculptural project may read as off-brief."
+      ],
+      "notes": "Studio or working-space details not quoted on the page. Visa support not mentioned.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Casa de Velázquez / Académie de France à Madrid Artists in Residence 2027-2028",
+      "location": "Madrid",
+      "country": "Spain",
+      "verified": true,
+      "source_urls": [
+        "https://www.casadevelazquez.org/en/creation-artistique/call",
+        "https://www.casadevelazquez.org/creation-artistique/appels/artistes-en-residence"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "From the 2026-27 cycle page (French): nationality 'Aucune' (no condition); 'Être majeur.e'; 'Artistes diplômés et/ou disposant d'une œuvre significative'. Disciplines listed: drawing, engraving, sculpture, painting, architecture, musical composition, choreography, photography, cinema and video. Conditions for 2027-28 may change when the call opens."
+      },
+      "funding": {
+        "has_stipend": null,
+        "living_stipend": null,
+        "production_grant": null,
+        "stipend_detail": "Not stated on the pages read. The Académie de France à Madrid historically pays a monthly allowance to its members, but the amount was not visible and is left unconfirmed.",
+        "accommodation": null,
+        "studio": null,
+        "travel_covered": null,
+        "visa_support": null,
+        "materials_budget": "Not stated",
+        "application_fee": "Not stated",
+        "artist_pays": []
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Eleven-month academy residency for visual artists (sculpture, drawing, engraving, painting, photography, film and video) and composers, choreographers and architects, run by the Académie de France à Madrid with 25 to 30 artists hosted per year."
+      },
+      "deadline": "2026-11-27",
+      "deadline_notes": "Official calls page: 'L'appel pour la sélection des artistes en résidence de l'Académie de France à Madrid 2027-2028 sera ouvert du 19 octobre au 27 novembre 2026.' The call is announced but not yet open; the previous cycle closed 28 November 2025 at 13:00.",
+      "duration": "11 months from September 2027",
+      "money_summary": "Not confirmed: the official pages do not state the allowance or lodging terms; check when the call opens on 19 October 2026",
+      "style_fit": 0.5,
+      "style_fit_reason": "Academy model with studios for sculpture, drawing and painting and a long figurative tradition; no workshop or technician detail visible on the pages read.",
+      "cautions": [
+        "Call does not open until 19 October 2026; eligibility shown is from the 2026-27 cycle.",
+        "Eleven-month commitment in Madrid.",
+        "Stipend, housing and application fee unconfirmed."
+      ],
+      "notes": "Re-check the call page after 19 October 2026 for the 2027-28 conditions and the monthly allowance.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Studio Bubec Sculpture Residency",
+      "location": "Prague-Řeporyje",
+      "country": "Czech Republic",
+      "verified": true,
+      "source_urls": [
+        "https://www.bubec.cz/rezidence/",
+        "https://artresidencyeurope.com/residency/studio-bubec-sculpture-residency-czechia"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official page (Czech) sets no nationality or career-stage rule; selection by the studio's artistic council ('Umělecká rada studia'). Up to eight artists work at once. Application by e-mail to info@bubec.cz with CV, portfolio, project description and up to 10 work samples."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "Fee-based. The council decides on 'omezeného počtu plných nebo částečných stipendií' (a limited number of full or partial scholarships) that reduce the residency fee; funding may also come via the International Visegrad Fund or partner cultural centres.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "Not stated",
+        "application_fee": "None mentioned on the official page",
+        "artist_pays": [
+          "Residency fee: amount not on the official page; an aggregator lists EUR 1,200 per four weeks including a twin-room bed, single room plus EUR 300 (unconfirmed)",
+          "Travel",
+          "Materials"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Sculpture studio in a 1,200 m² hall with metal, wood and stone workshops and lifting equipment up to 3 tonnes, open 24/7; residencies of 2 to 12 weeks with consultations from established sculptors and a September group exhibition."
+      },
+      "deadline": "2026-09-30",
+      "deadline_notes": "Official: applications accepted annually from 10 August, 'Deadline je do 30.9., 14:00'; late submissions not considered. Year not printed, applies to the 2027 season.",
+      "duration": "2 to 12 weeks",
+      "money_summary": "Artist pays a residency fee (amount unconfirmed on the official page; about EUR 1,200 per four weeks per an aggregator); limited full or partial scholarships decided by the artistic council",
+      "style_fit": 0.75,
+      "style_fit_reason": "Purpose-built for large-scale sculpture and object work: heavy-lift hall, metal, wood and stone workshops, 75 m² per artist, and mentoring from sculptors.",
+      "cautions": [
+        "Money flows from the artist unless a scholarship is granted; scholarships are limited and not guaranteed.",
+        "Fee amount could not be confirmed on the official page.",
+        "Deadline is one week away (30 September 2026, 14:00)."
+      ],
+      "notes": "Ask info@bubec.cz for the current fee sheet and scholarship terms before applying.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Ivica Sveta Residency: Material Synthesis (October 2026)",
+      "location": "Samoš, near Belgrade",
+      "country": "Serbia",
+      "verified": true,
+      "source_urls": [
+        "https://www.igbk.de/components/com_rsform/uploads/ausschreibung/6a934cd5b1cf7-IvicaSveta_2026%20engl.pdf",
+        "https://www.callfor.org/ivica-sveta/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Call document: 'We don't require a project proposal. What matters is that applicants are practicing artists who can work independently.' No nationality restriction. Apply by Google form or e-mail with CV and portfolio."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "None. 'RESIDENCY FEE: €40 per day' covering accommodation, full studio use, technical support, workshops (plastics and moulding, plaster, welding) and local transport help. 'Materials for art production are to be covered by the participants themselves.'",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None; materials at artist's cost, with help buying them",
+        "application_fee": "'There is NO application fee.'",
+        "artist_pays": [
+          "EUR 40 per day residency fee",
+          "EUR 30 airport transfer",
+          "Materials",
+          "Travel to Serbia"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "Focus 'MATERIAL SYNTHESIS': experimenting with combinations of ceramics, wood and metal, and ceramics with XPS foam.",
+        "programme_focus": "Artist-run rural residency with a 30 m² ceramics studio (60-litre kiln, wheel), welding machine and woodworking tools; hosts are sculptors with fifteen years of stage and film prop-making experience; no deliverables required."
+      },
+      "deadline": "2026-09-30",
+      "deadline_notes": "Call document: 'DEADLINE: 30 September 2026'. Residency dates 10 to 25 October 2026; applicants choose their dates within that window.",
+      "duration": "Up to 15 days between 10 and 25 October 2026",
+      "money_summary": "Artist pays EUR 40/day plus travel and materials; no stipend, no application fee",
+      "style_fit": 0.7,
+      "style_fit_reason": "Object-making and material experimentation with ceramics, metal, wood and foam, run by sculptors from a film-props background, which suits fabricated, hyperreal objects; small scale and short.",
+      "cautions": [
+        "Unfunded: the artist pays roughly EUR 600 for 15 days plus flights.",
+        "Residency begins ten days after the deadline; entry rules for Indian passport holders to Serbia must be checked immediately.",
+        "The call document is hosted on the German artists' association site IGBK; the organiser's own presence is Instagram @ivicasveta and e-mail."
+      ],
+      "notes": "Second season of a new residency; no track record to assess beyond the hosts' CVs.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Arteles Creative Center: Way Beyond Thematic Residency 2027",
+      "location": "Haukijärvi, Hämeenkyrö",
+      "country": "Finland",
+      "verified": true,
+      "source_urls": [
+        "https://www.arteles.org/way_beyond_residency.html"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official: 'Emerging and professional artists, writers, designers and creatives from all fields of creativity', plus researchers in philosophy, psychology, physics and related fields. No nationality restriction."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "None. Entry fee '1950 € / person' (regular), 'financially supported' rate '1350 € / person' with limited availability, optional contributor rate 2610 €. A non-refundable registration fee of 120 € applies only if selected.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None",
+        "application_fee": "'There is no application fee'; 120 € registration fee if selected",
+        "artist_pays": [
+          "EUR 1,950 entry fee (or EUR 1,350 supported rate, limited)",
+          "EUR 120 registration fee on selection",
+          "Travel and food"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "Transdisciplinary exploration of consciousness, the nature of the mind and the unknown.",
+        "programme_focus": "One-month thematic residency in rural Finland with studios, library, sauna, meditation hall and shared vehicles; group of creatives and researchers working around consciousness and the mind."
+      },
+      "deadline": "2026-10-29",
+      "deadline_notes": "Official: '29 October 2026 (Timezone UTC-10 at 23:59)'. Sessions 2 to 30 April 2027 and 3 to 31 May 2027.",
+      "duration": "1 month (29 days), April or May 2027",
+      "money_summary": "Artist pays EUR 1,950 (or EUR 1,350 supported rate) plus EUR 120 on selection and travel; no stipend",
+      "style_fit": 0.45,
+      "style_fit_reason": "Theme on perception, mind and the unknown overlaps with the client's interest in the senses as subject, but the setting is a retreat with general studios rather than a fabrication workshop.",
+      "cautions": [
+        "Fully fee-based; roughly INR 1.8 to 2.6 lakh before flights.",
+        "The 'financially supported' rate is limited and not guaranteed."
+      ],
+      "notes": "Recorded because the brief asks for unfunded calls to be captured accurately for a separate decision. Visa support not mentioned.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Farnham Craft Town Artist in Residence 2027",
+      "location": "Farnham, Surrey",
+      "country": "United Kingdom",
+      "verified": true,
+      "source_urls": [
+        "https://farnhamcrafttown.com/farnham-craft-town-artist-in-residence-opportunity-2027/",
+        "https://www.farnham.gov.uk/farnham-life/crafttown/farnhams-artists-in-residence/",
+        "https://form.jotform.com/252294767073364",
+        "https://www.artrabbit.com/artist-opportunities/2026/october/farnham-craft-town-artist-in-residence-opportunity"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official page: 'We are accepting proposals from creatives at all stages of their development and are particularly interested in people who want to experiment and innovate.' Priority wording: 'Priority this year will be given to artists working in wood and furniture making, and we particularly welcome applications from makers based in other World Craft Towns.' No nationality or residence restriction is stated, and travel costs are fully covered, which implies applicants from outside the UK. Nothing about visas appears on the page. Apply by uploading CV, artist's statement and three images via the JotForm link."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": true,
+        "stipend_detail": "Official page lists the offer as: 'Fully covered travel costs', 'Living costs', 'Contribution to materials', 'Free studio space and accommodation', 'An opportunity to exhibit a new body of work created during the residency'. No amounts are published.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": true,
+        "visa_support": null,
+        "materials_budget": "'contribution to materials', amount not stated",
+        "application_fee": "None. No fee is mentioned on the organiser's own page or on its application form link.",
+        "artist_pays": []
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "Official: 'Priority this year will be given to artists working in wood and furniture making'. Named specialisms: 'cabinet making, hand-cut joinery, marquetry & inlay, wood turning, wood carving, green woodworking, coopering, and work with sustainable or reclaimed timber', with 'We welcome applications from makers working across all of these disciplines and many more.' Based at the Farnham School of Furniture Making.",
+        "programme_focus": "Craft residency in England's first World Craft Town; makers work alongside local craft community and students and create a piece inspired by Farnham for the town's craft collection."
+      },
+      "deadline": "2026-10-02",
+      "deadline_notes": "Resolved on the organiser's own page, which states it twice: 'We will accept applications until October 2nd 2026' and, at the foot of the call, 'Deadline for applications 17.00 GMT Friday 2nd October 2026'. The 3 October date carried by ArtRabbit and Reviewed by Artists is wrong. Read via Brightdata after WebFetch was captcha-blocked.",
+      "duration": "4 to 6 weeks, Spring 2027",
+      "money_summary": "Travel, living costs, accommodation, studio and a materials contribution covered; no amounts published",
+      "style_fit": 0.3,
+      "style_fit_reason": "Craft residency hosted at a furniture-making school, with the 2027 round prioritising wood and furniture makers and encouraging work with local makers and local materials. Material and hand-skill led, but framed as craft rather than dramatic or surrealist art, and a non-wood applicant is outside the stated priority.",
+      "cautions": [
+        "The 2027 round explicitly prioritises wood and furniture makers and applicants from other World Craft Towns; a mixed media sculptor from India matches neither priority.",
+        "Work is retained: 'Each of our artists in residence will be asked to create a piece inspired by Farnham, which will form part of our local craft collection.'",
+        "No amounts are published for living costs, travel or the materials contribution.",
+        "The page says nothing about visas or visa support, and a UK visa would be needed.",
+        "Deadline is 17.00 GMT Friday 2 October 2026, nine days away."
+      ],
+      "notes": "Confirmed on farnhamcrafttown.com itself. Funded by The Farnham South Street Trust and managed by Farnham Town Council. Shortlisted applicants have an online conversation first, and the organiser says it 'is happy to discuss flexibility if any aspect of the offer needs adapting'. Open question: the stipend and travel amounts are not published anywhere, so the cash value is unknown.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Radical Sabbatical 2027 Residencies (Eastside Projects and University of Birmingham)",
+      "location": "Birmingham",
+      "country": "United Kingdom",
+      "verified": true,
+      "source_urls": [
+        "https://eastsideprojects.org/projects/apply-now-radical-sabbatical-2027-residencies/",
+        "https://eastsideprojects.org/wp-content/uploads/Radical-Sabbatical-2027-Artists-Callout.pdf",
+        "https://artquest.org.uk/opportunity/radical-sabbatical-2027-residencies/"
+      ],
+      "eligibility": {
+        "india_eligible": false,
+        "india_specific": false,
+        "international_open": false,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": 3,
+        "eligibility_notes": "Disqualifying. The organiser's own Artists Callout PDF states: 'Artists must be based in the UK, with the right to work here.' Other criteria: 'We welcome applications from artists working in any medium'; 'Artists should have at least 3 years professional experience, and a demonstrable portfolio of work'; 'Artists should not be enrolled on an academic course, including a PHD.' An India-based applicant without UK residence and the right to work cannot apply."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": false,
+        "production_grant": true,
+        "stipend_detail": "Eastside Projects page: 'Fee: £3,500 Artist Fee + £500 Production Budget'. The callout splits the fee as GBP 2,750 at the start of the residency and GBP 750 after the final event, and the GBP 500 production budget is claimed against invoices and receipts for travel and/or material costs. No accommodation is offered and it is not described as a living stipend.",
+        "accommodation": false,
+        "studio": null,
+        "travel_covered": null,
+        "visa_support": null,
+        "materials_budget": "GBP 500 production budget",
+        "application_fee": "None. No application fee is mentioned in the Artists Callout or on the Eastside Projects call page.",
+        "artist_pays": []
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "2027 theme: 'Radical Sabbatical 2027 will take ideas of touch as a starting point.' Suggested areas include haptic and sensory experience, embodied knowledge, disability and inclusive design, medical perspectives on touch, digital touch, 'Materiality, making and craft', and touch, memory and emotion.",
+        "programme_focus": "Six-month research and development residency for two artists at the University of Birmingham with University Collections, run with the artist-led space Eastside Projects. Artists are matched with academics and supported by regular one-to-one conversations. Open to artists working in any medium."
+      },
+      "deadline": "2026-11-20",
+      "deadline_notes": "Confirmed on the organiser's own page: 'Application Deadline: Friday 20 November, 11.59pm', repeated in Key Dates as 'Friday 20 November, 11.59pm - Application deadline'. No timezone is stated. Interviews Thursday 10 December, residencies begin January 2027, final sharing event June/July 2027. Read via Brightdata after WebFetch was blocked by Cloudflare.",
+      "duration": "Six months in 2027",
+      "money_summary": "GBP 3,500 artist fee plus GBP 500 production budget over six months; housing and travel not mentioned",
+      "style_fit": 0.55,
+      "style_fit_reason": "The touch theme covers sensory and embodied experience and names 'Materiality, making and craft', which sits close to a material, body-centred practice. It is a research and development residency with academic pairings rather than a production or exhibition commission, and there is no fabrication facility described.",
+      "cautions": [
+        "Hard disqualification for this client: 'Artists must be based in the UK, with the right to work here.'",
+        "Also requires at least 3 years professional experience and a demonstrable portfolio.",
+        "Applicants must not be enrolled on an academic course, including a PhD.",
+        "GBP 3,500 is an artist fee over six months, not a living stipend, and no accommodation or travel beyond the GBP 500 production budget is offered."
+      ],
+      "notes": "Now read from the organisation's own page and its Artists Callout PDF. The UK residence and right-to-work rule settles the question the previous pass left open: an India-based artist cannot apply. Keeping the record so the pipeline shows a clean disqualification rather than an unknown.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Creative Spark International Artist Residency 2027",
+      "location": "Dundalk, County Louth",
+      "country": "Ireland",
+      "verified": true,
+      "source_urls": [
+        "https://creativespark.ie/artist-in-residence.html",
+        "https://visualartists.ie/advert/open-call-artist-in-residence-programme-2027-from-creative-spark",
+        "https://www.transartists.org/en/air/creative-spark-0"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official: 'We welcome applications from emerging and established artists working across all disciplines.' International category: 'This residency is open to artists based outside Ireland.'"
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "No stipend, fee or bursary is mentioned on the official page. Programme is Arts Council of Ireland funded but the artist receives facilities, not money.",
+        "accommodation": false,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None stated",
+        "application_fee": "UNCONFIRMED, do not treat as zero. The official artist-in-residence page carries no fee wording at all: no figure and no line saying applying is free. Read twice on 2026-09-23.",
+        "artist_pays": [
+          "travel",
+          "accommodation ('Please note that accommodation is not provided')",
+          "living costs",
+          "materials"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "All disciplines; particularly encourages visual arts, photography, printmaking, textiles, ceramics, design and digital fabrication; interested in interdisciplinary, experimental, alternative and sustainable approaches. Shared studio with water supply; access to Fine Art Print Studio, Darkroom, FabLab, Textile Lab and Kiln Room; technical support where appropriate."
+      },
+      "deadline": "2026-10-17",
+      "deadline_notes": "Official page: 'Deadline for Applications is October 17th 2026'. Visual Artists Ireland listing says 19/10/26; the organisation's own date is recorded.",
+      "duration": "Not stated on the 2027 call; TransArtists profile gives 1 to 3 months",
+      "money_summary": "Nothing paid; free shared studio and workshop access only, artist covers travel, housing and living costs",
+      "style_fit": 0.5,
+      "style_fit_reason": "Facilities suit material work (kiln room, FabLab, print, textiles) and the call welcomes experimental, interdisciplinary practice, but there is no curatorial framing that favours dramatic or surrealist work.",
+      "cautions": [
+        "No accommodation and no money; Dundalk housing must be self-funded.",
+        "Selection weighs commitment to workshops, talks and public engagement.",
+        "TransArtists profile says residents donate one artwork to Creative Spark's archive; not on the 2027 official page, so unconfirmed.",
+        "Application fee is not stated on the official page, so it cannot be recorded as zero. Confirm before applying."
+      ],
+      "notes": "Application is via the 'Apply Here' form on the official page. UNCONFIRMED FACT, exact open question: is there any fee to apply for, or to hold, the 2027 International Artist Residency? Two reads of creativespark.ie/artist-in-residence.html on 2026-09-23 found no fee wording of any kind, neither a figure nor a 'no fee' line. Ask Creative Spark through the contact details on creativespark.ie. Duration is also not stated on the 2027 call; the TransArtists profile says 1 to 3 months.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Clay City Professional Residency, Winter 2027 (Throwing Shapes and Staycity)",
+      "location": "Dublin",
+      "country": "Ireland",
+      "verified": true,
+      "source_urls": [
+        "https://throwingshapes.ie/pages/claycity",
+        "https://throwingshapes.ie/pages/clay-city-pro-app",
+        "https://throwingshapes.ie/pages/claycityapply"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "established",
+        "collective_required": false,
+        "min_years_experience": 3,
+        "eligibility_notes": "Official: 'Established arts or ceramics practitioner with proven track record 3+ years of independent work outside of an institution, 3+ collections or bodies of work, or alternative equivalents'; 'Possess advanced ceramics and/or pottery skills'; 'Be legally entitled to live and work in Ireland for duration of residency. If a visa is required, this is the applicant's responsibility'; 'Applications are welcome from professional artists/ceramists based in Ireland or internationally'."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "Official: 'Please note that a stipend is not included in the residency, you will be asked to clarify how you plan on covering your living costs'.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": false,
+        "materials_budget": "None; studio access 'does not include clay, materials, or firing costs'",
+        "application_fee": "None mentioned on the application guide",
+        "artist_pays": [
+          "travel",
+          "living costs",
+          "utility bills in the free apartment",
+          "clay, materials and firing costs",
+          "visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": false,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": "ceramics",
+        "thematic_constraint": "Ceramics practice only; proposal must be a self-directed ceramics project with a specified outcome.",
+        "programme_focus": "Community ceramic studio residency: wheels, kilns, studio glazes, hand-building space; teaching workshops, mentorship, solo exhibition at the end. Plaster casting and mould making not available."
+      },
+      "deadline": "2026-10-05",
+      "deadline_notes": "Official: 'Applications Deadline: 5th October 2026 at 16:00 GMT'. Reviewed by Artists shows 15 October, which is wrong.",
+      "duration": "3 months, 4 January to 31 March 2027",
+      "money_summary": "Free shared apartment and full ceramics studio access for three months; no stipend, no travel, materials and firing at own cost",
+      "style_fit": 0.3,
+      "style_fit_reason": "Ceramics-only studio with a craft and community ethos; suits sculptural work only if made in clay, and past residents are ceramicists.",
+      "cautions": [
+        "Requires advanced ceramics skill and 3+ years established practice; an emerging mixed media artist is unlikely to qualify.",
+        "Applicant must secure the right to live and work in Ireland; no visa support.",
+        "Must donate one piece made during the residency to Throwing Shapes.",
+        "Expected to teach workshops and take part fully in studio life."
+      ],
+      "notes": "Selection criteria: research-led development, use of studio resources, teaching and community contribution. Two referees plus a recommendation letter required.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Ballinglen Arts Foundation Fellowship Programme",
+      "location": "Ballycastle, County Mayo",
+      "country": "Ireland",
+      "verified": true,
+      "source_urls": [
+        "https://www.ballinglenartsfoundation.org/fellowship/",
+        "https://www.ballinglenartsfoundation.org/fellowship/applications/",
+        "https://www.ballinglenartsfoundation.org/fellowship/programme/",
+        "https://www.ballinglenartsfoundation.org/fellowship/museum-of-art-permanent-collection-responsibility/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official: 'Visual artists throughout the world with professional standing in their fields (painting, printmaking, drawing, photography, sculpture) and emerging artists of recognized ability are eligible for residence. No particular style is sought.' Applicants must be 18 or over. Selection 'is based on knowledge of the artist's work and references'."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "No stipend appears anywhere on the official site. FAQ: 'There is no accommodation cost for your first residency with us. You will need to pay for your travel expenses and we will charge a small fee for internet and laundry - approx. €20 each.' A third-party directory claims a weekly stipend; not confirmed and treated as absent.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None stated",
+        "application_fee": "'If you are an international artist not from Ireland, you will also need to pay €50 to apply for a residency. You will need to pay this when you fill out the application form.'",
+        "artist_pays": [
+          "EUR 50 application fee (international)",
+          "travel",
+          "approx. EUR 20 internet and EUR 20 laundry",
+          "food and living costs",
+          "materials",
+          "accommodation and studio on any second residency"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "Residency is expected to be a response to North Mayo; touring elsewhere in Ireland only before or after.",
+        "programme_focus": "Retreat-style fellowship in a coastal village: cottage plus purpose-built studio, no formal programme, artists respond to landscape and community. Disciplines named: painting, printmaking, drawing, photography, sculpture."
+      },
+      "deadline": "rolling",
+      "deadline_notes": "FAQ: 'There is no deadline, we accept applications all year round.' Reviewed twice yearly; notification can take months.",
+      "duration": "Generally around 4 weeks",
+      "money_summary": "Free cottage and studio for about four weeks on a first residency; no stipend, travel at own cost, EUR 50 application fee for international artists",
+      "style_fit": 0.4,
+      "style_fit_reason": "Open on style ('No particular style is sought') and sculpture is listed, but the permanent collection 'cannot include complex installation works or large-scale sculpture', and the programme is oriented to landscape response by painters and printmakers.",
+      "cautions": [
+        "Must give one or more finished works to the Ballinglen Permanent Collection; the museum cannot take complex installation or large sculpture, so the donated work would need to be portable.",
+        "EUR 50 application fee for non-Irish applicants, just under the INR 5,000 cap at current rates.",
+        "Free accommodation applies to the first residency only.",
+        "Fellows may bring family or companions; no formal programme or curatorial support."
+      ],
+      "notes": "Application form is on the Applications page (CV, biography, up to 10 images, total 10 MB). Visa not discussed on the site.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Tyrone Guthrie Centre residency (self-funded, international rate)",
+      "location": "Annaghmakerrig, County Monaghan",
+      "country": "Ireland",
+      "verified": true,
+      "source_urls": [
+        "https://www.tyroneguthrie.ie/Residency-Application-Form",
+        "https://www.tyroneguthrie.ie/Guidelines-for-Applicants",
+        "https://www.tyroneguthrie.ie/Fees",
+        "https://www.tyroneguthrie.ie/International-Residencies-and-Exchanges"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": null,
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official: 'Applications are invited from practising professional artists working in all genres' who 'Have a proven track record in their field', are 'recognised by their peers as a professional, exemplified by membership of an associated professional organisation', and for visual artists 'must have an exhibition track record in professional venues and work selected for exhibition by professional curators, and/or work in a public collection.' International artists have a separate fee band. Career stage is not named, but the track-record test is a real bar for an emerging artist."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "None. Bursaries exist only through Irish and Northern Irish arts bodies and named exchanges (Galicia, Australia, Virginia), none open to Indian applicants.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None",
+        "application_fee": "None stated",
+        "artist_pays": [
+          "International Artists rate: 'The House: 1 week, 7 nights, full-board €840' or 'The Cottages: 1 week, 7 nights, self-catering €560'",
+          "travel",
+          "materials"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Multi-art-form retreat with visual arts studios, print studio, music, dance and performance spaces; residents work independently."
+      },
+      "deadline": "rolling",
+      "deadline_notes": "Official: 'We are now open for residency applications for 2026 dates.' New applicants complete a form; approval then lets the artist book. High demand; stays limited to one or two weeks per year.",
+      "duration": "1 week, maximum 2 weeks per calendar year",
+      "money_summary": "Nothing paid; artist pays EUR 560 (self-catering) or EUR 840 (full board) per week plus travel",
+      "style_fit": null,
+      "style_fit_reason": "",
+      "cautions": [
+        "Entirely self-funded at the higher international rate.",
+        "Requires a proven professional track record and membership of a professional body; emerging artists may not pass approval.",
+        "Maximum two weeks per year; 2026 availability described as very limited."
+      ],
+      "notes": "Fees are 'Effective up to December 2026'; 2027 fees not yet published.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Burren College of Art Artist Residency",
+      "location": "Ballyvaughan, County Clare",
+      "country": "Ireland",
+      "verified": true,
+      "source_urls": [
+        "https://www.burrencollege.ie/programmes/artist-residencies/artist-residency-programmes/",
+        "https://www.burrencollege.ie/programmes/artist-residencies/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official: 'welcomes applications from artists working at all levels and stages of their careers'. No nationality restriction; the college states a non-discrimination policy."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "None. Fee-paying residency; no scholarships or fellowships mentioned on the residency pages.",
+        "accommodation": false,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None",
+        "application_fee": "Not stated. Neither the artist-residencies landing page nor the artist-residency-programmes page mentions a fee or deposit to apply. Both were read on 2026-09-23. Note the separate cancellation term: a full refund is available up to 4 weeks before the programme start, minus a EUR 100 cancellation fee.",
+        "artist_pays": [
+          "'The fee in 2026/2027 is €985 per 4-week period for BCA Artist Residencies'",
+          "optional campus accommodation EUR 1,250 per month",
+          "2-week summer 2027 residency EUR 500, or EUR 1,200 with accommodation",
+          "travel",
+          "materials"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Studio residency on an art college campus in the Burren; studio plus access to campus facilities, optional faculty meetings (Residency +) or course auditing (Burren Immersion)."
+      },
+      "deadline": "rolling",
+      "deadline_notes": "Official: applications 'on a rolling, space-available basis throughout the year'. Currently taking last-minute Autumn 2026 places; sessions listed through August 2027, some full.",
+      "duration": "1 to 3 months in 4-week blocks; 2-week options in summer 2027",
+      "money_summary": "Nothing paid; artist pays EUR 985 per 4 weeks for studio, plus EUR 1,250 per month if campus housing is taken",
+      "style_fit": null,
+      "style_fit_reason": "",
+      "cautions": [
+        "Fully self-funded; roughly EUR 2,235 per month with campus housing before travel and food.",
+        "Accommodation not included in the residency fee.",
+        "Application fee is not stated on either official page, so it cannot be recorded as zero. Confirm before applying.",
+        "Cancelling inside 4 weeks of the start date forfeits the fee; earlier cancellations lose a EUR 100 cancellation fee."
+      ],
+      "notes": "Off-campus housing list available on request. UNCONFIRMED FACT, exact open question: is there a fee or deposit payable to submit a residency application, separate from the EUR 985 per 4-week residency fee? Two official pages were read and neither says. Ask through the contact details on burrencollege.ie.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Cromarty Arts Trust self-funded residency",
+      "location": "Cromarty, Black Isle, Highlands",
+      "country": "United Kingdom",
+      "verified": true,
+      "source_urls": [
+        "https://www.cromartyartstrust.org.uk/artists/residencies-in-cromarty/",
+        "https://www.cromartyartstrust.org.uk/residencies"
+      ],
+      "eligibility": {
+        "india_eligible": null,
+        "india_specific": false,
+        "international_open": null,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Re-read on the official page 2026-09-23 (Brightdata). The only wording about who may apply is: 'We welcome writers and artists in all media to come and stay with us in Cromarty' and 'We continue to invite both self-funded and in-kind residencies from artists of any discipline.' The self-funded route is a paid booking, gated only on availability: 'As long as we have availability, you are welcome to come and stay at Ardyne'. Nationality, country of residence, overseas applicants and visas are not mentioned anywhere on the page, so india_eligible and international_open stay null rather than being inferred from silence."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "None. The separate in-kind winter places (free room and studio in exchange for running a paid workshop) are closed for 2026/27, and even those come with 'We regret we are unable to offer you a fee or assistance with expenses.'",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None",
+        "application_fee": "None mentioned. The self-funded route is an Airtable booking form with no fee stated.",
+        "artist_pays": [
+          "GBP 266 per week (rate as of May 2025) for en-suite room at Ardyne plus studio in the Stables",
+          "travel",
+          "food",
+          "materials"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Small-town Highland retreat for writers and artists of all disciplines; accommodation plus studio, no programme."
+      },
+      "deadline": "rolling",
+      "deadline_notes": "Self-funded residencies 'available year-round with no application deadline', applied for via an online form. In-kind places for winter 2026/27 are closed (decisions were due by 30 May 2026).",
+      "duration": "As long or short as the artist wishes",
+      "money_summary": "Nothing paid; artist pays about GBP 266 per week for room and studio",
+      "style_fit": null,
+      "style_fit_reason": "",
+      "cautions": [
+        "Fully self-funded and remote; a UK visa would be needed and the Trust offers no help with it.",
+        "Official: 'We regret we are unable to offer you a fee or assistance with expenses.'",
+        "International eligibility is not stated either way on the official page.",
+        "The free in-kind winter route is effectively closed: winter 2025/26 is shut and the winter 2026/27 decision date of 30 May 2026 has passed."
+      ],
+      "notes": "Weekly rate quoted as '£266 per week (as of May 2025)' and may have risen. UNCONFIRMED FACT, exact open question: does the Cromarty Arts Trust accept self-funded residents who are not UK-based and who would need a UK visitor visa, and will it supply an invitation or supporting letter? Nothing on the page answers this. Ask info@cromartyartstrust.org.uk (the address on the same page), or phone 01381 600354. Not emailed.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Leitrim Sculpture Centre Professional Development Residency",
+      "location": "Manorhamilton, County Leitrim",
+      "country": "Ireland",
+      "verified": true,
+      "source_urls": [
+        "https://www.leitrimsculpturecentre.ie/residencies",
+        "https://www.leitrimsculpturecentre.ie/residencies/guidelines-how-to-apply",
+        "https://www.leitrimsculpturecentre.ie/facilities/hire-rates"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official: PDRs are for 'artists working in all media who need time to investigate a specific idea and/or explore a technical or material process'; 'Our residential facilities are available to all artists working in any creative process'. No nationality restriction. Note the Centre's funded residency strands (Exhibition, Technical Development, LEER) had 2025 deadlines for 2026 and no 2027 call is posted; LEER is Ireland-based only."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "None for PDRs. 'Previously, artists have received funding from their local County Councils or schemes such as the AC Agility or Bursary Awards, to pay for their time at LSC.' 'For artists without funding, we offer a subsidised charge rate.'",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None; 'Prices exclude materials, energy for large equipment/ kilns etc and technical/ tutor costs. There is also an additional charge for hot processes.'",
+        "application_fee": "None stated",
+        "artist_pays": [
+          "Funded-artist rate: 'Self-Contained Residency Studio with access to all technical facilities - €400 a week'",
+          "Subsidised unfunded-artist rates: accommodation from EUR 35 a night, private studio from EUR 20 a day, technical workshop access from EUR 20 a day (exact PDR package on request)",
+          "materials, kiln firings, hot processes, technician time",
+          "travel"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Sculpture centre with technicians in large fabrication, ceramics, woodwork, mouldmaking, metal sandcasting, metal fabrication and forge, traditional print and analogue darkroom. Residential studio apartments on site. No exhibition or outcome required beyond a short progress report."
+      },
+      "deadline": "rolling",
+      "deadline_notes": "No deadline for PDRs; artists contact info@leitrimsculpturecentre.ie to arrange dates and rates.",
+      "duration": "Flexible; typically weeks to a few months",
+      "money_summary": "Nothing paid; artist pays from roughly EUR 400 a week (funded rate) or a lower subsidised rate on request, plus materials and technician costs",
+      "style_fit": 0.7,
+      "style_fit_reason": "Strongest fabrication facilities of any residency found in this sweep (foundry, forge, mouldmaking, ceramics, woodwork with technicians), well suited to sculptural and installation work; no stylistic or thematic framing.",
+      "cautions": [
+        "Self-funded; the client would need his own grant to cover fees, materials and travel.",
+        "Hot processes, kiln firings and technician time are charged on top.",
+        "Watch for the Centre's funded Exhibition and Technical Development Residency calls, which in past years opened in summer with early September deadlines and admitted international artists."
+      ],
+      "notes": "The 2026 Exhibition Residency paid EUR 4,000 and the Technical Development Residency EUR 2,000; both closed 7 September 2025 and no 2027 round was visible on 23 September 2026.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Est-Nord-Est Artist Residency 2027-2028",
+      "location": "Saint-Jean-Port-Joli, Quebec",
+      "country": "Canada",
+      "verified": true,
+      "source_urls": [
+        "https://estnordest.org/en/artist-residency/artist-residency-regular/",
+        "https://estnordest.org/en/news/programming/2026-2027-calls-for-applications/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official wording: 'Professional visual artists, whether established or emerging, from Quebec, Canada, and other countries.' Summer 2027 session is curated and prioritises artists of African descent; apply for spring, fall or winter. No student exclusion or years minimum stated."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": false,
+        "stipend_detail": "Official wording: 'Residency honorarium of CAD $2,080' for the eight-week residency. 'Materials, travel fees and other living charges are at the residents' expense.' Optional paid workshop: $300 honorarium if selected.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None. Materials at the artist's expense.",
+        "application_fee": "No application fee mentioned on the official page (not confirmed as zero).",
+        "artist_pays": [
+          "international travel",
+          "materials",
+          "food and living costs",
+          "visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Eight-week research, exploration and experimentation residency for visual artists and authors in contemporary art. Studio-workshop with furnished accommodation, access to specialized equipment (wood, metal, ceramics), documentation centre, technical, artistic and logistical support. Interdisciplinary practices welcome."
+      },
+      "deadline": "2026-11-08",
+      "deadline_notes": "Official: 'Deadline: November 8, 2026 at 11:59 p.m.' for the 2027-2028 cycle. Periods: Spring Apr 19 to Jun 11 2027, Summer Jul 5 to Aug 27 2027 (curated), Fall Sep 27 to Nov 19 2027, Winter Jan 24 to Mar 18 2028.",
+      "duration": "8 weeks",
+      "money_summary": "CAD 2,080 honorarium for 8 weeks plus housing and studio-workshop; artist pays travel, materials and food",
+      "style_fit": 0.7,
+      "style_fit_reason": "Research and experimentation centre for contemporary visual art with wood, metal and ceramics workshops and technical support, in a village known for wood sculpture. Suits material, sculptural work. No thematic steer.",
+      "cautions": [
+        "Honorarium is CAD 2,080 for 8 weeks, which will not cover a flight from India plus food; budget the gap.",
+        "Visa: nothing on the page about visa letters or support. Canadian visitor visa processing for Indian applicants can be slow; apply early.",
+        "Summer 2027 session is curated for artists of African descent; choose another season.",
+        "Application fee not stated; assume none but confirm."
+      ],
+      "notes": "Strongest Americas candidate found this sweep: open now, real honorarium, workshop facilities matched to sculpture. Bilingual centre (French and English); language requirement not stated.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Alaska AIR 2027-28 (Bunnell Street Arts Center Artist in Residence)",
+      "location": "Homer, Alaska",
+      "country": "United States",
+      "verified": true,
+      "source_urls": [
+        "https://opportunities.wearecreativewest.org/opportunity/17982/CAFE",
+        "https://artistcommunities.org/directory/open-calls/2027-28-alaska-air-bunnell-street-arts-center-artist-residence",
+        "https://www.bunnellarts.org/artist-in-residence/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Call wording: 'Open to International, US, and Alaska artists.' ACA listing: 'Any stage of career.' No visa wording on the call."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": false,
+        "stipend_detail": "Call wording: '$2000 stipend for 1 month residency (pro-rated if shorter)', 'Round trip travel to Homer (up to $1000 value)', '$250 materials stipend', 'Private bedroom with private bath in a shared apartment'.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": true,
+        "visa_support": null,
+        "materials_budget": "USD 250 materials stipend",
+        "application_fee": "$25 application fee. (Needs-based waivers are available)",
+        "artist_pays": [
+          "food",
+          "any travel above USD 1,000",
+          "visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "Community engagement component required, on themes such as accessibility, inclusion or sustainability.",
+        "programme_focus": "One-month residencies, October through May, in a community arts centre. Visual arts, literary arts, performing arts, social and civic practice, ephemeral art, moving image, movement and dance, music. Shared studios with printmaking, textile and fiber workspaces and a gallery."
+      },
+      "deadline": "2026-10-15",
+      "deadline_notes": "Call wording: 'Applications are accepted September 1 to October 15' for residencies in the 2027-28 season (fall, winter, spring, one month each, October through May).",
+      "duration": "About 1 month (2 weeks to 1 month)",
+      "money_summary": "USD 2,000 stipend for a month plus travel up to USD 1,000, USD 250 materials and private lodging; USD 25 fee",
+      "style_fit": 0.5,
+      "style_fit_reason": "Broad multi-discipline community arts centre; facilities lean to printmaking and textiles rather than sculpture fabrication. Money and openness are the draw, not the studio.",
+      "cautions": [
+        "Obligations: an introductory artist talk and a community engagement component (workshop, outreach or event).",
+        "Travel cap of USD 1,000 will not cover India to Homer, Alaska; expect to top up.",
+        "The organisation's own site (bunnellarts.org) did not respond during this sweep; facts come from its official CaFE / Creative West application listing and its ACA listing. No visa language anywhere."
+      ],
+      "notes": "Winter in Homer is dark and cold; residencies run October to May. Duration is short for the visa effort involved.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Volland Foundation 2027 Residency Program",
+      "location": "Alma, Kansas (Volland, Flint Hills)",
+      "country": "United States",
+      "verified": true,
+      "source_urls": [
+        "https://www.vollandfoundation.org/2027-application",
+        "https://www.vollandfoundation.org/about",
+        "https://artistcommunities.org/directory/open-calls/2027-volland-residencies"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official wording: applicants 'in all stages of their career (emerging, mid-level, professional) and all areas of the globe: local, national and international.' Official: 'Valid driver's license required; car needed for duration.'"
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": false,
+        "stipend_detail": "Official: $500 stipend for two-week residents; $1,000 for four-week residents. Housing and studio space provided. Residents pay transportation and vehicle costs, art materials and shipping, and meals (residents cook their own).",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None",
+        "application_fee": "$25 application fee",
+        "artist_pays": [
+          "travel",
+          "car hire and fuel",
+          "food",
+          "materials and shipping",
+          "visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Two to four week self-directed residencies in a restored general store and campus in the Kansas Flint Hills. Artists, writers, poets, musicians, designers and scientists; disciplines listed include sculpture, painting, book arts, photography, music and writing. Some public interaction encouraged."
+      },
+      "deadline": "2026-11-02",
+      "deadline_notes": "Official: 'Applications close on November 2nd, 2026.' Sessions of 2 to 4 weeks from spring to fall 2027.",
+      "duration": "2 to 4 weeks",
+      "money_summary": "USD 500 (2 weeks) or USD 1,000 (4 weeks) stipend plus free housing and studio; artist pays travel, car, food and materials; USD 25 fee",
+      "style_fit": 0.45,
+      "style_fit_reason": "Open-discipline rural retreat with no fabrication facilities described. Fine for drawing, planning and small-scale work, weak for large sculpture or installation.",
+      "cautions": [
+        "A car for the full stay and a valid driver's licence are required; an Indian licence plus international permit and a US rental would be the artist's cost and problem.",
+        "Stipend is small against a flight from India.",
+        "No visa language on the site."
+      ],
+      "notes": "Remote location; nearest city Manhattan or Topeka, Kansas.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Artist in Residence at The Factory (Factory on Willow) 2027",
+      "location": "Manchester, New Hampshire",
+      "country": "United States",
+      "verified": true,
+      "source_urls": [
+        "https://www.factoryonwillow.com/air",
+        "https://artistcommunities.org/directory/open-calls/2027-artist-residency-open-call-factory",
+        "https://artistcommunities.org/directory/residencies/artist-residence-factory"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "emerging",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Confirmed on the official site (read 2026-09-23). Official: 'A 12-week non-profit program designed to bring artists from around the world to Manchester, NH.' 'The applications are reviewed by an art committee whose efforts ensure that a broad range of artistic disciplines, styles, and national origins are represented.' Career stage is set by a self-assessment table: a 'HOBBY ARTIST' is told 'You're not a good fit for The Factories AIR program just yet', an 'AMATEUR ARTIST' 'may be a good Fit', an 'EMERGING ARTIST' is 'an ideal Fit', and an 'ADVANCED EMERGING ARTIST' 'may be too advanced in your career for what this program can offer'. No nationality bar and no years minimum. Visas and work authorisation are not mentioned anywhere on the official page."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": false,
+        "stipend_detail": "Official: 'Selected applicants are provided a studio apartment with baseic household amenities, heat, hot water, electricity & internet provided. Additionally each artist is granted a $350 travel stipend and a $1600 stipend that covers food and art supplies.' The $1,600 is for the residency, not per month: the page warns 'Works that go beyond the scope of the AIR stipends will depend on self funding or acquiring community partnerships/sponsors.'",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": true,
+        "visa_support": null,
+        "materials_budget": "Included within the USD 1,600 food and art supplies stipend",
+        "application_fee": "None. Official wording: 'There is no applicant fee and the deadline is rolling, but we encourage you to apply as our spots fill up quickly'.",
+        "artist_pays": [
+          "travel above USD 350",
+          "any production beyond the stipends",
+          "visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Official: 'A 12-week non-profit program designed to bring artists from around the world to Manchester, NH. Our program fosters an environment that allows creative freedom to explore, define, and polish your working portfolio.' Live/work studio apartment in a converted mill campus, with the option to 'expand their creative workspace area into our lower level commercial lot'. Runs three times a year: 'Session 1: March - May | Session 2: June - August | Session 3: September - November'. Each residency ends in an artist opening celebration in the onsite event space, set up 'to feature your installations and presentations to the local community'. Manchester Maker Space and the Currier Museum are named local partners."
+      },
+      "deadline": "rolling",
+      "deadline_notes": "CORRECTED on the official site. Official wording: 'There is no applicant fee and the deadline is rolling, but we encourage you to apply as our spots fill up quickly.' The official page shows '2026 Residencies Status: Application Closed' and '2027 Residencies Apply Today' with a Google Form link. The ACA listing's 30 November 2026 deadline is not repeated anywhere on the organisation's own site; treat November 30, 2026 as the ACA-stated cut-off for the 2027 round and apply well before it, since places 'fill up quickly'.",
+      "duration": "Up to 3 months; the programme describes itself as a 12-week program, in sessions March-May, June-August and September-November",
+      "money_summary": "USD 1,600 stipend for food and art supplies plus USD 350 travel, free live/work studio apartment with utilities; no application fee",
+      "style_fit": 0.5,
+      "style_fit_reason": "Open to all disciplines with a live/work studio, an expandable lower-level commercial lot for bigger work and a maker space nearby, and the closing show is explicitly set up for installations. Adequate for mixed media and installation, but there is no on-site fabrication shop or technician and no stated curatorial leaning.",
+      "cautions": [
+        "Official: 'The program requires for each artist to donate once piece created during their residency to be part of the Factory on Willow's permanent collection.' The donated work is displayed across the campus.",
+        "Obligation: 'Each residency concludes with an artist opening celebration' acting as a solo or duo exhibition; artists are also expected to pursue local connections themselves.",
+        "USD 350 travel will not cover a flight from India; the USD 1,600 has to stretch across food and materials for up to 12 weeks.",
+        "The official page says the deadline is rolling and spots fill quickly, so the ACA date is a backstop, not a safe target.",
+        "Visa: nothing on the official site about visas, invitation letters or work authorisation."
+      ],
+      "notes": "Verified on the organisation's own site on 2026-09-23 after WebFetch failed twice; Brightdata's scraper got through (Firecrawl was out of credits). Application is a Google Form linked from the official page. Career-stage self-assessment puts the client squarely in the 'ideal Fit' band. Past residents listed include sculpture work.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Monson Arts Residency, Spring 2027",
+      "location": "Monson, Maine",
+      "country": "United States",
+      "verified": true,
+      "source_urls": [
+        "https://monsonarts.org/residencies/",
+        "https://artistcommunities.org/directory/open-calls/spring-2027-open-call"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official: 'Applications for a residency at Monson Arts are open to anyone at any stage of their career.' ACA listing: 'Open to artists based anywhere in the world.' Official page says nothing about international applicants or visas."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": false,
+        "stipend_detail": "Official: residents 'receive a private studio, private bedroom in shared housing, all meals, and $500 stipend ($250 for 2-week programs)'. No travel support (ACA lists travel stipend $0).",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None stated",
+        "application_fee": "$25 (per ACA listing; not shown on the official residencies page)",
+        "artist_pays": [
+          "travel",
+          "materials",
+          "visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Two to four week residencies for visual arts, writing and related fields (audio, video, photography, woodworking, movement, playwriting). Spacious, light-filled visual arts studios, private bedroom, all meals, in a small town in the Maine Highlands."
+      },
+      "deadline": "2027-01-15",
+      "deadline_notes": "Official: 'Our next application period will be open Dec 1st – Jan 15th for residency sessions taking place in the Spring of 2027.' Portal is not live until December 1, 2026. Sessions: Mar 29 to Apr 22, Apr 26 to May 20, May 24 to Jun 3 (2 weeks) 2027.",
+      "duration": "2 to 4 weeks",
+      "money_summary": "USD 500 stipend (USD 250 for 2 weeks) plus private studio, room and all meals; artist pays travel; USD 25 fee",
+      "style_fit": 0.5,
+      "style_fit_reason": "General visual arts and writing residency with large studios and full board, no fabrication shop described. Comfortable for material work at modest scale.",
+      "cautions": [
+        "Application portal opens only on December 1, 2026; the January 15 deadline is confirmed but the form is not yet live.",
+        "Stipend is small; no travel money.",
+        "No visa language on the site."
+      ],
+      "notes": "All-meals model keeps living costs near zero once there. Remote; reaching Monson from Bangor or Portland airports needs ground transport.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Surel's Place Artist-in-Residence Program (July to November 2027)",
+      "location": "Garden City (Boise), Idaho",
+      "country": "United States",
+      "verified": true,
+      "source_urls": [
+        "https://surelsplace.org/application/",
+        "https://surelsplace.org/month-long-residencies/",
+        "https://artistcommunities.org/directory/open-calls/surels-place-artist-residency-program-july-december"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official: 'All residents must be at least 25 years old'; non-smoking required. ACA listing: 'Open to artists based anywhere in the world', 'Any stage of career'. Official pages do not mention nationality or visas. Playwrights and screenwriters not reviewed this cycle."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": false,
+        "stipend_detail": "Official: 'modest living stipend of $100 per week', '$300 travel stipend', 'free rent', 'free utilities', 'free wi-fi'. Bicycles provided.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None",
+        "application_fee": "$0 (per ACA listing; official application page mentions no fee)",
+        "artist_pays": [
+          "travel above USD 300",
+          "food",
+          "materials",
+          "visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Month-long residency in a one-bedroom live-work home with a spacious studio in the Surel Mitchell Live-Work-Create District. Visual, literary, multimedia and performance artists. Residents give a public workshop and a show or talk; optional paid school outreach."
+      },
+      "deadline": "2027-03-01",
+      "deadline_notes": "Official: 'March 1' deadline for residencies 'July-November of the same year', so March 1, 2027 for July to November 2027. Late applications are held for the next round.",
+      "duration": "About 1 month",
+      "money_summary": "USD 100 per week living stipend plus USD 300 travel and free housing with studio; no fee; artist donates one work and pays 35 percent commission on sales",
+      "style_fit": 0.4,
+      "style_fit_reason": "Domestic home-studio setting with no fabrication facilities; fine for small mixed-media work, not for large installation. No evidence of a surrealist or figurative leaning.",
+      "cautions": [
+        "Official: 'Visual Artists must donate one piece of art to Surel's Place for future fundraising efforts.'",
+        "Official: 35 percent commission on all sales from the residency, 45 percent on ticketed events, 15 percent on merchandise.",
+        "Must be 25 or older.",
+        "Obligations: at least one public workshop plus a show or lecture."
+      ],
+      "notes": "Funding is thin (about USD 400 for the month) but housing is free and there is no fee. Deadline is five months away.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Vermont Studio Center Residency (2027 sessions)",
+      "location": "Johnson, Vermont",
+      "country": "United States",
+      "verified": true,
+      "source_urls": [
+        "https://vermontstudiocenter.org/apply",
+        "https://vermontstudiocenter.org/fees",
+        "https://vermontstudiocenter.org/fellowships",
+        "https://vermontstudiocenter.org/application-faq",
+        "https://artistcommunities.org/directory/open-calls/vermont-studio-center-open-call"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Confirmed on the official site (read 2026-09-23). Official apply page: 'A Vermont Studio Center residency provides artists and writers from around the world with the time and space to deepen their creative practice.' No nationality or career-stage bar is stated. Official application FAQ: 'VSC welcomes collaboration and accepts collaborative pairs (no more than two people)', so solo applications are the norm. 'If you consider yourself a visual artist who uses text or words, then you should fill out a Visual Artist application', which is the right route for a typography-trained artist. Visas are not mentioned anywhere on the official pages."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "ANSWERED: a VSC fellowship is a fee reduction, not a stipend, except for a named handful that are not open to this client. Official fees page: 'Through the generosity of individual donors and foundation partners, Vermont Studio Center is able to ensure a full or partial fellowship for every attendee. All fellowships are awarded through a competitive process. VSC awards full fellowships to 35% of residents and partial fellowships to all accepted applicants. The fee asked of partial fellowship recipients varies by duration of session: $2,700 for two weeks / $3,825 for three weeks / $4,950 for four weeks. A 10% discount on these fees is available to residents who elect to share a bathroom with one other resident, subject to availability.' A full fellowship therefore means paying nothing rather than being paid. Official fellowships page: 'There are no eligibility requirements for a VSC Fellowship, as recipients are selected solely on the merit of their work' - and the VSC Fellowship itself carries no cash. SOME named fellowships do add cash on top, but every one of them is restricted: 'HEDDA STERNE FELLOWSHIP Supports a female-identifying visual artist for a two-week residency. This Fellowship includes a $1,000 stipend.'; 'LATIN AMERICAN AND CARIBBEAN ARTIST FELLOWSHIP ... includes a $1,000 stipend.'; 'HARPO FOUNDATION NATIVE AMERICAN FELLOWSHIP Supports exceptional US-based Native American visual artists ... This award includes a $500 travel stipend.'; 'QUEENS COLLEGE CUNY FELLOWSHIP ... By invitation only.' The one stipend-bearing visual-arts fellowship with no stated nationality, gender or institutional bar is: 'TROUT LILY FELLOWSHIP Supports a visual artist with financial need attending a three-week residency. This fellowship includes a $1000 stipend.' There is no published application route or eligibility detail for Trout Lily beyond that line. Recorded as has_stipend false because no stipend is available by default and none is guaranteed.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None stated",
+        "application_fee": "Not stated on any official VSC page. The ACA listing says '$25 US Dollar (USD)', and VSC's own Civil Society Institute Fellowship text refers to a '$25 application reimbursement', which corroborates a USD 25 fee without stating it directly.",
+        "artist_pays": [
+          "USD 2,700 (2 weeks), USD 3,825 (3 weeks) or USD 4,950 (4 weeks) unless a full fellowship is awarded",
+          "travel",
+          "materials",
+          "visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Two, three and four week residencies for visual artists and writers with private studio, private room and all meals, plus 'resident presentations, open studios, and an acclaimed Visiting Artists & Writers program'. Campus shops and studios cover sculpture, printmaking, painting and woodworking. Applications are 'juried together in a pool by a rotating jury of practicing artists and writers'."
+      },
+      "deadline": "2026-09-30",
+      "deadline_notes": "Confirmed on the official apply page: 'Vermont Studio Center is NOW accepting applications through September 30, 2026 (11:59pm EST)'. 'This Open Call will fill residencies from July 2027 to December 2027.' The following cycle is official too: 'Our next application cycle is: February 15 through March 31.' Notification: 'For our August/September application, VSC will notify you by January 1.'",
+      "duration": "2 to 4 weeks",
+      "money_summary": "Nothing is paid. A full fellowship (35 percent of residents) waives a fee of USD 2,700 to USD 4,950; everyone else pays part of it, plus travel and materials",
+      "style_fit": 0.55,
+      "style_fit_reason": "Large, well-equipped visual arts campus with dedicated sculpture and printmaking studios, all disciplines. Facilities suit material work; no thematic steer either way.",
+      "cautions": [
+        "Confirmed: this is not a funded residency. A fellowship reduces or waives the residency fee, it does not pay the artist. Partial fellowship still leaves USD 2,700 to USD 4,950 to pay, before flights from India.",
+        "Only a 35 percent chance of a full fellowship among accepted residents, and acceptance itself is competitive.",
+        "The few VSC fellowships that do carry cash are restricted by gender, region or invitation. The only unrestricted one is the Trout Lily Fellowship, 'a visual artist with financial need', USD 1,000 stipend, three weeks, with no published application route.",
+        "Deadline is 30 September 2026, seven days away, and this open call fills residencies for July to December 2027.",
+        "Application fee is not published on the official site; budget for the USD 25 the ACA listing states.",
+        "Visa: nothing anywhere on the official site about visas or invitation letters."
+      ],
+      "notes": "Verified on the organisation's own pages on 2026-09-23 via Brightdata after WebFetch failed (Firecrawl out of credits). The stipend question the manager asked is answered: fellowships are fee relief, not income, so the previous scout's call was right. Worth applying only if the client can absorb a four-figure fee at partial-fellowship odds, or is willing to gamble on the 35 percent full-fellowship rate. Open question, unpublished: how a resident is considered for the Trout Lily Fellowship and whether non-US artists are eligible for it. Ask info@vermontstudiocenter.org, the address given in the site footer.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Lighthouse Works Fellowship 2027",
+      "location": "Fishers Island, New York",
+      "country": "United States",
+      "verified": true,
+      "source_urls": [
+        "https://lighthouseworks.us/fellowship",
+        "https://lighthouseworks.us/fellowship/faq",
+        "https://artistcommunities.org/directory/residencies/lighthouse-works-fellowship"
+      ],
+      "eligibility": {
+        "india_eligible": false,
+        "india_specific": false,
+        "international_open": false,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "SETTLED on the organisation's own site. Official F.A.Q., question 'Are international artists allowed to apply?': 'Lighthouse Works primarily considers applications from US-based artists. International artists with a demonstrated history of living and working in the United States are also encouraged to apply.' An India-based artist with no history of living and working in the US is therefore outside the stated pool, so india_eligible is false. Other official wording: 'Artists at any stage of their career are encouraged to apply'; 'You can! We only ask that you are not currently enrolled in a BFA or MFA program'; 'Fellows must be at least 21 years of age. There is no maximum age limit.'"
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": false,
+        "stipend_detail": "Official F.A.Q.: 'The Lighthouse Works fellowship program is cost-free. Each fellow is awarded a $1,750 stipend toward travel, supplies, or whatever else each Fellow feels they need to help them come to Fishers Island for six weeks. Room and board and a workspace are provided free of charge.' Fellowship page: fellowships 'provide fellows with housing, food, studio space, and $1,750 in financial support'. The $1,750 is unrestricted cash, not a separate travel grant.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None stated",
+        "application_fee": "USD 25. Official F.A.Q.: 'The application fee is $25. Ten of these dollars go to Slideroom for providing the online service. The other $15 goes toward providing W.A.G.E.-standard honoraria for the distinguished panelists who review our applications.' Waivers: 'We do offer a limited number of application fee waivers for those who need them (which are available on a first-come, first-served basis). Please complete your application form and contact hello@lighthouseworks.us before you submit it, and we will waive the fee.'",
+        "artist_pays": [
+          "travel",
+          "materials",
+          "visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Six-week fellowships year-round on a small island for 'cultural producers working in the vanguard of their creative fields': visual artists, writers, choreographers, composers. Private studios near the ocean, wood and metal fabrication shop, kiln. 'Artistic excellence is the primary criterion for acceptance.'"
+      },
+      "deadline": "2026-10-01",
+      "deadline_notes": "Official: 'The 2027 Fellowship Application Portal is open between September 1, 2026 and October 1, 2026.'",
+      "duration": "6 weeks",
+      "money_summary": "USD 1,750 unrestricted stipend plus free housing, meals and a private studio for 6 weeks; USD 25 fee; but the programme states it primarily considers US-based artists",
+      "style_fit": 0.6,
+      "style_fit_reason": "Selection on artistic excellence, private studios with wood and metal fabrication and a kiln: good match for sculptural, material work. No evidence on surrealist leaning.",
+      "cautions": [
+        "ELIGIBILITY BLOCKER, now confirmed on the official F.A.Q.: 'Lighthouse Works primarily considers applications from US-based artists. International artists with a demonstrated history of living and working in the United States are also encouraged to apply.' The client has no stated US living-and-working history, so this is very likely a dead end.",
+        "Deadline October 1, 2026, about a week away.",
+        "Fellows must be at least 21 and must not be currently enrolled in a BFA or MFA programme.",
+        "No travel funding beyond the $1,750, which is meant to cover travel and supplies together. Flights from India would eat most of it.",
+        "Visa: the site says nothing about visas or sponsorship."
+      ],
+      "notes": "Resolved the ACA conflict: the ACA listing's 'US-based only' is broadly right and the organisation's own F.A.Q. confirms the preference in its own words. The official page is silent on nationality but the F.A.Q. on the same site is not, so this no longer needs an email. If the manager still wants to test it, the only open question is: does 'a demonstrated history of living and working in the United States' include past US exhibitions and residencies, or does it mean actual US residence? Ask hello@lighthouseworks.us (the F.A.Q. gives that address for fee waivers and general queries). About 25 fellows chosen a year. Island reached by ferry from New London, Connecticut. 2027 sessions: Mar 9-Apr 20, May 4-Jun 15, Jun 29-Aug 10, Aug 24-Oct 5, Oct 19-Nov 30.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Shigaraki Ceramic Cultural Park (SCCP) Artist-in-Residence: Open-Call Guest Artist 2027",
+      "location": "Shigaraki, Koka, Shiga Prefecture",
+      "country": "Japan",
+      "verified": true,
+      "source_urls": [
+        "https://www.sccp.jp/air/wp-content/uploads/sites/5/2026/08/GA_application_guideline_2027_JP.pdf",
+        "https://www.sccp.jp/air-en/application/guest-artist/",
+        "https://www.sccp.jp/air/application/guest-artist/",
+        "https://www.sccp.jp/air-en/about-artist-in-r/fee/",
+        "https://air-j.info/en/program/the-shigaraki-ceramic-cultural-park-sccp-artist-in-residence-program-2027/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official 2027 guidelines (JP PDF): 対象 = '応募の時点で20歳以上の陶芸家、美術家' (ceramic artists and fine artists aged 20 or over at application), with 'a clear motivation and purpose for a residency at the Ceramic Park'. Planned intake: '国内居住者1名、国外居住者1名を予定' (one Japan-resident, one overseas-resident). No nationality restriction. The open-call scheme is described as providing opportunities for young artists (若手作家への活躍の場). The Japanese application page also asks for '陶芸についての基礎知識と経験' (basic knowledge and experience of ceramics)."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": true,
+        "stipend_detail": "謝金 (honorarium): '1回の招聘に付き、年間限度額20万円（所得税及び消費税を含む）' = up to JPY 200,000 per invitation, tax inclusive, paid only after the donated work or technical information is decided. Materials: up to JPY 100,000 covered. Firing (kiln use and fuel): up to JPY 110,000 covered. Amounts over the caps are at the artist's expense.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": true,
+        "visa_support": null,
+        "materials_budget": "Up to JPY 100,000 for raw materials plus up to JPY 110,000 for firing",
+        "application_fee": "None stated. Online application only; the guidelines list no fee.",
+        "artist_pays": [
+          "Accommodation if used: 'ツイン 26,400円 / シングル 20,300円 / 1ヶ月' (JPY 20,300 per month single room)",
+          "Bedding rental approx. JPY 6,600 per month",
+          "Air-conditioning electricity billed monthly",
+          "Shipping of works and luggage, all living costs",
+          "Insurance; Japanese National Health Insurance is mandatory for stays of 4 months or more",
+          "Materials and firing costs above the caps"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": "Ceramics: work is made in the ceramic studios and fired in the park's kilns; open to 'ceramic artists and artists from other fields'",
+        "thematic_constraint": "",
+        "programme_focus": "Contemporary ceramics, sculpture, craft and traditional ceramics. A creative space with a variety of kilns including wood kilns, technical staff support for equipment, and no curriculum: 'artists are free to pursue their work in our creative space according to their own schedule'."
+      },
+      "deadline": "2026-10-31",
+      "deadline_notes": "Application window 1 September 2026 10:00 JST to 31 October 2026 17:00 JST, online only at sccp-air-apply.jp/guest-artist. Results emailed by 27 December 2026.",
+      "duration": "2 months to under 1 year between 1 April 2027 and 31 March 2028; artists travelling from overseas start on or after 1 July 2027",
+      "money_summary": "JPY 200,000 honorarium (one-off, paid after the donation of work is settled) plus economy return travel from nearest airport, JPY 100,000 materials and JPY 110,000 firing; housing charged at JPY 20,300/month.",
+      "style_fit": 0.5,
+      "style_fit_reason": "Serious sculptural facilities (kilns, technical staff, materials budget) and the programme names sculpture alongside ceramics, so figurative or surreal clay work is viable. But the whole residency is built around clay; a mixed-media installation artist would be shifting material and is expected to bring some ceramic experience.",
+      "cautions": [
+        "Work donation is a condition: '制作した作品、もしくは制作の技術的情報を滋賀県もしくは指定管理者に寄贈願います' (donate a work made, or the technical information of the making, to Shiga Prefecture or the operator; selection agreed with staff; large works may be refused).",
+        "The JPY 200,000 honorarium is paid only after the donated work or technical information is decided.",
+        "Housing is not free: JPY 20,300 per month single room, plus bedding and air-con charges.",
+        "Only about two open-call guest slots (one overseas resident), so highly competitive.",
+        "Public lectures or workshops during the stay are expected, and an exhibition at the park may be requested.",
+        "Stays of 4 months or more require enrolment in Japanese National Health Insurance.",
+        "Basic ceramic knowledge and experience is asked for on the application page."
+      ],
+      "notes": "All money and eligibility facts taken from the official FY2027 (令和9年度) guest artist guidelines PDF dated August 2026 and the SCCP fee page. Visa: SCCP issues a '招聘通知' (invitation notice) after scheduling; nothing explicit about visa sponsorship, so visa_support left null. The Studio Artist track (about 20 places) is self-funded at JPY 38,400/month studio fee and is not recorded here.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Tobichi Art Museum 2026 'Baton' Exhibition in a Vacant House: Open-Call Artist (Maru to Henshusha)",
+      "location": "Tatsuno, Nagano Prefecture",
+      "country": "Japan",
+      "verified": true,
+      "source_urls": [
+        "https://tobichi.jp/information/%E3%83%88%E3%83%93%E3%83%81%E7%BE%8E%E8%A1%93%E9%A4%A82026-%E5%85%AC%E5%8B%9F%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%8B%9F%E9%9B%86%E9%96%8B%E5%A7%8B%EF%BC%81/",
+        "https://tobichi.jp/cms/wp-content/uploads/2026/09/%E3%83%95%E3%82%9A%E3%83%AD%E3%82%AF%E3%82%99%E3%83%A9%E3%83%A0%E3%81%93%E3%82%99%E3%81%A8%E3%81%AE%E7%94%B3%E3%81%97%E8%BE%BC%E3%81%BF%E6%9C%9F%E6%97%A5%E3%81%A8%E6%BB%9E%E5%9C%A8%E6%99%82%E9%96%93.png",
+        "https://tobichi.jp/cms/wp-content/uploads/2026/09/%E3%83%AF%E3%82%BF%E3%83%AA%E3%83%88%E3%82%99%E3%83%AA%E3%83%95%E3%82%9A%E3%83%AD%E3%82%AF%E3%82%99%E3%83%A9%E3%83%A0.png",
+        "https://air-j.info/en/program/the-tobichi-art-museum-2026_baton-exhibition-in-a-vacant-house_open-call-program/",
+        "https://news.yahoo.co.jp/articles/b85bdb8cccdebcb81cf520a360b607f49ebd3bec"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "AIR_J listing (organiser-submitted): eligibility is 'Those who resonate with the concept of the Tobichi Art Museum'. No nationality or career-stage restriction stated. Local press quotes the organiser saying overseas artists need an invitation letter to come, which implies international applicants are expected. Two open-call artist places."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "No stipend and no production grant. The organiser's own support table 'アーティストへの支援内容' gives, for column 'A: A.I.R.Competition 公募': 報償費 (compensation) '大賞：¥200,000 / 特別賞：¥50,000', 交通費 (travel, 実費精算) '上限 ¥50,000', 宿泊費 '無料 / 個室', 食費 '無し', 制作道具/空間 '無償貸し出しあり。', 制作素材 '空き家から出てきた不用品（空き家の幸）は無料提供', 展示会場 '無償提供'. The only cash is 報償費, and it is awarded as a 大賞 (grand prize) or 特別賞 (special prize) to selected work at the end, so it is prize money: it is not guaranteed to a participant, it is not a living allowance, and it is not a budget granted up front to make work with. Free private room, free tools, free space, free reclaimed materials and travel reimbursement up to JPY 50,000 are real, but no money is paid to the artist for taking part.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": true,
+        "visa_support": null,
+        "materials_budget": "No cash budget. Official: 制作素材 '空き家から出てきた不用品（空き家の幸）は無料提供' (reclaimed items from the vacant houses supplied free)",
+        "application_fee": "No application fee is mentioned anywhere in the organiser's own call page or its support table; application is through a free Google Form. There is no explicit 'no fee' sentence to quote. Note that category C, 'A.I.R.Free 有料滞在', is the paying track at 個室 ¥60,000/月 or ドミトリー ¥30,000/月; category A is not.",
+        "artist_pays": [
+          "Food and all living costs: the official support table gives 食費 '無し' for category A",
+          "Travel above the JPY 50,000 reimbursement cap (交通費 上限 ¥50,000, 実費精算)"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "Work is made in and for a vacant house or shop on the Tobichi shopping street, using unwanted household items and materials found in the town.",
+        "programme_focus": "Artist-in-residence programme where artists live in the town and create site-specific installation and exhibition work inside vacant houses, using reclaimed objects and local materials. Visual arts, fine arts, craft, film, performance."
+      },
+      "deadline": "2026-09-25",
+      "deadline_notes": "Confirmed on the organiser's own call page. Its schedule graphic 'プログラムごとの申し込み期日と滞在期間' gives, for categories A/B/C including 'A: A.I.R.Competition 公募', '9月25日 申込締切' (25 September application deadline), with the timeline marking '9/6 募集開始', '9/25 申込締切', '9/30 結果連絡'. The same graphic states '9月30日までに審査結果を連絡します。審査後に滞在期間を正式に決定します。コアタイム(11/21~29)は必ず滞在してください。' Two days from today. Applications go through the Google Form linked on the official page: https://forms.gle/7NKhCpJkZujPEgsp6",
+      "duration": "2 weeks to 2 months (official table: '2 week ~ 2 month'), inside the artist intake window 5 October to 31 December 2026; core period 21 to 29 November is mandatory; exhibition 31 October to 27 December 2026",
+      "money_summary": "Free private room, tools, workspace, exhibition venue and reclaimed materials, travel reimbursed up to JPY 50,000; no stipend, cash only if the work wins a prize (JPY 200,000 grand or JPY 50,000 special)",
+      "style_fit": 0.55,
+      "style_fit_reason": "Site-specific installation inside vacant houses with found domestic objects suits a sculptural, installation-led practice and the client's interest in containment and scale. The programme is community-flavoured and improvised rather than dramatic or fabrication-heavy, and there is no production budget.",
+      "cautions": [
+        "Deadline is 25 September 2026, two days away.",
+        "No stipend. The JPY 200,000 / JPY 50,000 figures are competition prizes for selected work, not a fee for taking part, so the artist could complete the residency and receive no money at all.",
+        "Food is not covered: the official table reads 食費 '無し' for the open-call category.",
+        "Mandatory on-site core period 21 to 29 November 2026 ('コアタイム(11/21~29)は必ず滞在してください').",
+        "Only 2 open-call places, against more than 135 applications in 2025 per the organiser.",
+        "The official page is Japanese-only and the whole application runs through a Japanese Google Form; the organiser told local press that overseas artists need an invitation letter to travel, and nothing on the page confirms visa support.",
+        "Other categories on the same call are unfunded or paid by the artist (B part-time job, C 有料滞在 at ¥60,000/month private room); apply only under A, A.I.R.Competition 公募.",
+        "Work is made from 空き家の幸, unwanted items found in the vacant houses, so material choice is constrained."
+      ],
+      "notes": "Verified on 2026-09-23 against the organiser's own call page at tobichi.jp (一般社団法人◯と編集社). The page's money and date terms are published as two images rather than text ('アーティスト・インターンへの支援内容：下記画像参照', '滞在期間：下記画像参照'); both images were downloaded from tobichi.jp and read directly, and every figure above is quoted from them. That also resolves the AIR_J date typo: the intake window is 10/5 to 12/31 in 2026. Contact: revision@maruto.or.jp / 0266-88-9198. Still unconfirmed: whether works remain in the vacant house afterwards, and any visa support.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "SIXI AiR (Sixi Museum) International Artist-in-Residence Project 2027, Spring and Autumn",
+      "location": "Nanjing, Jiangsu",
+      "country": "China",
+      "verified": true,
+      "source_urls": [
+        "https://siximuseum.com/en/residency/",
+        "https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1760/usr/library/images/main/feature_panels/65/sixi-air-event-digital-2027-open-call-xhs-ig-p4_071126.jpg",
+        "https://siximuseum.com/en/news/8-sixi-air-project-open-call-2027-spring/",
+        "https://resartis.org/open-call/sixi-air-open-call-2027-spring-autumn/",
+        "https://www.opencallartist.com/o/71d86bdd-505b-4fc5-8ef6-5fceb5c34547/sixi-international-artist-in-residence-project-2027-spring-a"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "emerging",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Museum's own open-call slide 'Application Guidelines': 'Artists from all disciplines are welcome to apply. Please refer to the themes of this open call when submitting your application.' 'Applicants must be at least 18 years old at the time of applying, fully capable of completing the entire residency program; there are no restrictions on nationality.' 'Sufficient Chinese Mandarin or English language skills in speaking and writing for research and communication.' 'The application addresses one of the two themes listed above.' Slide 'About SIXI AiR': 'Launched in 2024 to support emerging artists'."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": null,
+        "production_grant": true,
+        "stipend_detail": "Museum's own slide 'Funding and Support': 'Sixi AiR Project runs on a non-profit basis, and will cover fees of Visa application; Travel expenses (Round-trip flights); Insurance for the duration of the stay; Accommodation (one private apartment or one private loft studio); Residency personnel assistance, technical assistance; Material allowance.' No cash living allowance or per diem appears anywhere in that list and no figure is given for the material allowance, so living_stipend stays null.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": true,
+        "visa_support": true,
+        "materials_budget": "'Material allowance' per the museum's own Funding and Support slide; amount not stated",
+        "application_fee": "No fee is charged as far as the museum states: its own slides describe application only as 'Please package all application documentations into one PDF or ZIP file and send it to info@siximuseum.com', with no fee mentioned anywhere in the call. Res Artis's republication lists the call as 'Free'. No explicit 'no fee' sentence exists on the museum's own material.",
+        "artist_pays": [
+          "Unclear: no living allowance figure published, so assume daily living costs may be the artist's unless confirmed"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "Proposals must respond to one of two themes: 'Flux and Imprints: Contemporary Echoes of Migration History' or 'Folds of Text: Cross-Media Intertextuality and Intervention'.",
+        "programme_focus": "Three-month residencies for emerging artists of all disciplines, with a city-centre apartment and a loft studio on the outskirts, staff and technical assistance, and an exhibition of outcomes at the museum. 2027 themes on migration history and on text and cross-media intertextuality."
+      },
+      "deadline": "2026-11-15",
+      "deadline_notes": "Confirmed on the museum's own open-call slides at siximuseum.com/en/residency/. Slide 'Duration and Deadline': '[Application Deadline] 15 November, 2026 (GMT+8 / Beijing Time)'. Same slide: '[Duration] For both 2027 Spring (March - May) and 2027 Autumn (September - November)' and 'The specific dates of the residency will be finalized based on the selected artists' preferences and the schedule of Sixi Residency Project.' Slide 'How to Apply': 'Applicants will receive a final response no later than mid-February 2027.' The terms sit inside poster images rather than HTML text, so they were read from the images published on the museum's own residency page.",
+      "duration": "3 months: Spring (March to May 2027) or Autumn (September to November 2027)",
+      "money_summary": "Flights, visa, insurance, apartment and studio plus a material allowance of unstated size; no published living stipend.",
+      "style_fit": 0.55,
+      "style_fit_reason": "Open to all media with studio, staff support and a materials allowance, and the 'Folds of Text' theme on cross-media intertextuality speaks directly to a typography-trained sculptor. The themes are prescriptive, and the museum's own text emphasises exchange and outcomes rather than material or figurative work.",
+      "cautions": [
+        "Museum's own slide: 'The artist is expected to donate a selection of the artworks created during the residency to Sixi Museum.'",
+        "Only 4 places across two seasons, 2 artists in residence at a time.",
+        "No living allowance is listed among the covered costs, so day-to-day food and spending money look like the artist's own. Confirm before applying.",
+        "Obligations: 'residents should participate in events including artist talk, workshop and open studio' and the project 'expects for tangible and presentable outcome'.",
+        "Proposals must address one of the two named themes.",
+        "Chinese visa for an Indian passport holder: the museum covers the visa application fee and warns 'International artists should allow sufficient time for visa processing at the time of application, usually at least 2-3 months in advance.'"
+      ],
+      "notes": "Verified on 2026-09-23 against the Sixi Museum's own residency page. The call's terms are published as poster slides rather than HTML text; the slides were downloaded from the museum's own page and read directly, so the deadline, eligibility, funding, obligations and donation clause are now all quoted from the museum, not from Res Artis. Application is by email to info@siximuseum.com with 'Residency Application' in the subject line. Still unquantified: the size of the material allowance, and whether any living costs are covered.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Swatch Art Peace Hotel Artist Residency",
+      "location": "Shanghai",
+      "country": "China",
+      "verified": true,
+      "source_urls": [
+        "https://www.swatch-art-peace-hotel.com/en/apply",
+        "https://www.swatch-art-peace-hotel.com/en/what-you-get",
+        "https://www.swatch-art-peace-hotel.com/en/artist-residency"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official: welcomes 'known and unknown artists from around the world'; 'Dancers, musicians, photographers, filmmakers, writers, painters, conceptual artists, and many more.' No nationality, age or career-stage restriction stated. 'Only online applications written in English can be accepted.' Group applications limited to 2 people, each applying individually."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "Official: 'There is no stipend' and guests 'should be able to provide for their personal and professional needs for the duration of their stay'. Provided: 'Round trip ticket to Shanghai' (economy, paid by Swatch Group), furnished individual apartment, studio space, daily breakfast, housekeeping twice weekly, kitchen, laundry, library, Wi-Fi, visa assistance.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": true,
+        "visa_support": true,
+        "materials_budget": "None; artists provide their own materials",
+        "application_fee": "'Submit and pay a fee of 30 Swiss francs which will be entirely donated to Médecins Sans Frontières' (about INR 3,200)",
+        "artist_pays": [
+          "All living costs beyond breakfast",
+          "Materials",
+          "Excess luggage, artwork shipping and storage, phone, visitor costs",
+          "Hotel services settled monthly; a credit card must be presented as guarantee"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Multidisciplinary residency in a landmark hotel on the Bund: painters, conceptual artists, photographers, filmmakers, writers, musicians and dancers. Furnished studios on two floors; selection by an international committee balancing disciplines, styles and national origins."
+      },
+      "deadline": "rolling",
+      "deadline_notes": "Official: 'There is no application deadline.' Allow 'minimum 12 weeks' for review.",
+      "duration": "'A minimum of 3 months and a maximum of 6 months are obligatory'; length assigned by need and availability",
+      "money_summary": "Free flights, apartment, studio and breakfast for 3 to 6 months; no stipend; CHF 30 application donation.",
+      "style_fit": 0.5,
+      "style_fit_reason": "Genuinely all-media and conceptual work is welcomed, with a private studio, but there is no fabrication facility, no materials budget and no curatorial focus; a sculptural installation practice would be self-funded on materials.",
+      "cautions": [
+        "No stipend: the artist funds all living costs and materials for 3 to 6 months in Shanghai.",
+        "Residents must 'leave an artistic trace of their choice' at the end of the stay.",
+        "A credit card guarantee is required and hotel services are billed monthly.",
+        "Chinese visa for an Indian passport holder: Swatch offers visa assistance, but check processing times and requirements early."
+      ],
+      "notes": "Fully sourced from the official site. Recorded as an unfunded option because the call is open, the fee is under INR 5,000 and it covers flights, housing and studio.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "The Inlaks Residency at Skowhegan (2027)",
+      "location": "Madison, Maine (Skowhegan School of Painting and Sculpture); call run by Inlaks Shivdasani Foundation, India",
+      "country": "United States",
+      "verified": true,
+      "source_urls": [
+        "https://inlaksfoundation.org/opportunities/overseas-residencies/the-inlaks-residency-at-skowhegan-united-states/",
+        "https://skowheganart.org/school/",
+        "https://inlaksfoundation.org/opportunities/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": true,
+        "international_open": false,
+        "career_stage": "emerging",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Inlaks wording: 'The applicant must be an Indian passport holding citizen and resident in India at the time of application.' 'The applicant must be 35 years or younger in the year of application.' 'The applicant should not have received any prior grant from the Inlaks Shivdasani Foundation for any other overseas project.' Skowhegan's own page states the same age and residence cap for the fee waiver: 'Indian artists younger than 35 who are living in India', and 'Proof of nationality, residency and age will be required to waive the fee.' Client's age is not in criteria.json and must be checked."
+      },
+      "funding": {
+        "has_stipend": true,
+        "living_stipend": true,
+        "production_grant": true,
+        "stipend_detail": "Inlaks wording: 'Accommodation at Skowhegan, including housing and all meals'; 'return ticket for the artist up to 1200 USD and a materials stipend for 1000 USD'. Private studio and access to fabrication shops included. No cash living allowance beyond housing and meals.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": true,
+        "visa_support": false,
+        "materials_budget": "USD 1000 materials stipend",
+        "application_fee": "USD 25, rising to USD 50 in the last two days, and waived on this route. Skowhegan's own School page/FAQ: 'You will be required to pay a fee when you submit your application. This fee is $25, and increases to $50 for the final two days of the application period.' and 'Yes, there is an application fee, and it cannot be waived.* ... *We have an agreement with Inklas Foundation in which we can waive the application fee for Indian artists younger than 35 who are living in India. Before submitting your application, please send us an email at help@skowheganart.org. ... Proof of nationality, residency and age will be required to waive the fee.' Inlaks wording: 'All Indian applicants who meet the Inlaks eligibility criteria should contact Skowhegan before submitting their applications, and Skowhegan will be able to waive the application fee accordingly.' Net cost to this applicant: USD 0 if the waiver is arranged by email before submitting. Skowhegan also notes 'The application fee is nonrefundable under all circumstances.'",
+        "artist_pays": [
+          "US visa costs: Skowhegan wording, 'We are unable to assist with the application for a Visa or cover the associated expenses, but we can provide a letter of invitation upon request.'",
+          "airfare above USD 1200",
+          "Tuition of USD 6,000 in principle, subject to Skowhegan's need-blind scholarship practice"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Nine-week intensive summer programme in painting and sculpture with private studio, fabrication shops, fresco barn, weekly lectures, workshops, reading groups and theoretical seminars."
+      },
+      "deadline": "2026-10-16",
+      "deadline_notes": "Inlaks page: 'October 16th, 11:59pm (ET - Eastern Time)'. Skowhegan's own site confirms 'Applications will be accepted from September 1 through October 16, 2026' for the 2027 programme. Residency runs 5 June 2027 to 7 August 2027.",
+      "duration": "9 weeks, 5 June to 7 August 2027",
+      "money_summary": "Housing, all meals and studio at Skowhegan, return airfare up to USD 1200, USD 1000 materials stipend; USD 25 application fee waived for Indian applicants under 35 who email Skowhegan first",
+      "style_fit": 0.8,
+      "style_fit_reason": "Skowhegan is explicitly a painting and sculpture school with fabrication shops and a fresco barn; it suits material, figurative, sculptural work. Not a themed call.",
+      "cautions": [
+        "Outside this run's region (USA). Recorded because the call is India-specific and open now.",
+        "Age cap: 35 or younger in the year of application, on both the Inlaks and Skowhegan wording. Client's age unconfirmed.",
+        "The fee waiver is not automatic. Skowhegan: 'Before submitting your application, please send us an email at help@skowheganart.org.' Proof of nationality, residency and age is required, so allow time before 16 October.",
+        "No visa help. Skowhegan: 'We are unable to assist with the application for a Visa or cover the associated expenses, but we can provide a letter of invitation upon request... The majority of our international participants come to Skowhegan on a tourist visa.' US interview waits in India can be long.",
+        "Tuition is USD 6,000 per person. Skowhegan is need-blind and says 'no accepted artists will be turned away for lack of funding', but the tuition conversation is separate from the Inlaks grant and should be settled in writing.",
+        "Rejected if the artist has held any prior Inlaks overseas grant."
+      ],
+      "notes": "Fee, visa and tuition facts now read on Skowhegan's own School page (skowheganart.org/school/), reached through a text-render proxy because the site sits behind a CAPTCHA wall for direct fetches; the wording quoted is Skowhegan's own. Skowhegan's own dates match Inlaks: '2027 Program will run from June 5-August 7, 2027. The 2027 Call for Applications is open from September 1, 2026 through October 16, 2026 (11:59PM ET).' Inlaks contact: gladys@inlaksfoundation.org; Skowhegan fee-waiver contact: help@skowheganart.org. Not on the sheet skip list.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Farm Studio International Artist Residency",
+      "location": "Andore village, near Jodhpur, Rajasthan",
+      "country": "India",
+      "verified": true,
+      "source_urls": [
+        "https://farmstudioindia.org/art-residency/",
+        "https://resartis.org/open-call/farm-studio-india-international-artist-residency/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official wording: 'Artists of all disciplines creating in any media are welcome to apply.' Open to emerging and established artists; researchers, curators and critics may also apply."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "None. Pay-to-stay. Artist pays a residency fee that covers accommodation, vegetarian meals, studio space and an exhibition opportunity.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "",
+        "application_fee": "No application fee stated. Residency fee: official page says only 'acknowledgment of residency fee'; Res Artis listing states 'US $850' (an earlier listing said US $800). Amount not shown on the official page.",
+        "artist_pays": [
+          "residency fee (approx USD 850 per session per Res Artis)",
+          "travel",
+          "visa",
+          "personal materials",
+          "insurance",
+          "extra food and entertainment"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Rural retreat-style residency for artists of all disciplines and any media, including sculpture, ceramics, mixed-media and installation; private hut or room, studio spaces, basic tools, work tables."
+      },
+      "deadline": "rolling",
+      "deadline_notes": "Official page: 'Applications are accepted on an ongoing basis.' Res Artis lists 31 October 2026 as the deadline for the October to December 2027 sessions (3rd to 28th of each month). 2026 sessions in October, November and December were also listed on Res Artis.",
+      "duration": "About 4 weeks (3rd to 28th of the month)",
+      "money_summary": "Artist pays about USD 850 per session; nothing is paid to the artist",
+      "style_fit": null,
+      "style_fit_reason": "",
+      "cautions": [
+        "Pay-to-stay. No stipend or grant of any kind.",
+        "Fee amount is only visible on Res Artis, not on the official page."
+      ],
+      "notes": "Recorded as an unfunded India-based option since the manager asked for unfunded calls to be logged accurately. Fails the stipend gate.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Kala Yatra International Artist Residency (KaYa)",
+      "location": "Lalitpur / Kathmandu valley",
+      "country": "Nepal",
+      "verified": true,
+      "source_urls": [
+        "https://kalayatra.org/apply-air",
+        "https://resartis.org/open-call/kala-yatra-international-artist-residency-nepal-2025-2026/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Open to visual artists, writers, performers, curators, filmmakers, architects and others. Reduced fee for SAARC citizens resident in SAARC countries, which includes India."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "None. Self-funded. Official wording: '€ 200 (two weeks / 14 Days)', '€ 400 (a month/ 30 Days)', '€ 300 ( a month/ 30 Days - for SAARC Artist)'. Optional airport pickup € 25.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "",
+        "application_fee": "No application fee stated. Residency fee EUR 300 per month for SAARC artists (EUR 400 otherwise, EUR 200 for two weeks).",
+        "artist_pays": [
+          "residency fee",
+          "travel",
+          "food (self-catering)",
+          "materials"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Artist-run collective offering self-funded residencies with private bedroom, shared living and work areas, exhibition and presentation opportunities, and introductions to Kathmandu galleries and studios."
+      },
+      "deadline": "rolling",
+      "deadline_notes": "Official page: 'While there is no specific deadline, we recommend giving yourself sufficient time'; apply 'at least three months in advance to secure your preferred time period.' Res Artis shows 31 December 2026 for the current listing.",
+      "duration": "2 weeks minimum, 1 month or longer by availability",
+      "money_summary": "Artist pays EUR 300 per month (SAARC rate); nothing is paid to the artist",
+      "style_fit": null,
+      "style_fit_reason": "",
+      "cautions": [
+        "Pay-to-stay. No stipend or grant.",
+        "Shared work areas rather than a dedicated sculpture workshop; check suitability for large or messy material work."
+      ],
+      "notes": "The official page could only be read via a proxy render; direct fetch failed twice. No visa needed for Indian nationals in Nepal. Fails the stipend gate.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "NIROX Foundation Residency",
+      "location": "NIROX Sculpture Park, Cradle of Humankind, near Johannesburg",
+      "country": "South Africa",
+      "verified": true,
+      "source_urls": [
+        "https://www.niroxarts.com/residency"
+      ],
+      "eligibility": {
+        "india_eligible": null,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "No eligibility criteria of any kind are published. The page's only application wording is 'There is no call for applicants nor a fixed application process. If you are interested, contact us at info@niroxarts.com, and we will begin a conversation.' Applicants are asked for a CV, artist's statement, portfolio, biography and 'a short text on why you are interested'. Nationality is never mentioned, so india_eligible stays null. Past residents are international, which is an inference and not a stated rule."
+      },
+      "funding": {
+        "has_stipend": null,
+        "living_stipend": null,
+        "production_grant": null,
+        "stipend_detail": "Not stated. Page says residencies are 'fully serviced with meals' with a house and studio, wifi and 'assistance with sourcing materials, building and making', but says nothing about who pays or any stipend.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": null,
+        "visa_support": null,
+        "materials_budget": "",
+        "application_fee": "Not published. NIROX's residency page states no fee and no 'no fee' line either; its only wording on applying is 'There is no call for applicants nor a fixed application process. If you are interested, contact us at info@niroxarts.com, and we will begin a conversation.' No currency figure exists to record.",
+        "artist_pays": []
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Sculpture park residency with a large double-volume studio and hands-on help with building and making; residents come from many disciplines."
+      },
+      "deadline": "rolling",
+      "deadline_notes": "No deadline. Enquiry-based year round.",
+      "duration": "Varies; current residents show one to four weeks",
+      "money_summary": "Unknown. Housing, meals and studio provided on site; whether the artist pays, or receives anything, is not stated",
+      "style_fit": 0.7,
+      "style_fit_reason": "A sculpture park with a large studio and practical fabrication help suits material and sculptural work; no themed constraint.",
+      "cautions": [
+        "Money flow unconfirmed: could be funded, could be pay-to-stay. Ask before pitching.",
+        "Official wording: 'Residents are required to leave an artwork or other suitable record for the NIROX Foundation Archives.'",
+        "The funded route for Indians is the Inlaks Residency at NIROX, but its 2026 cycle is closed (residency 1 October to 12 November 2026; shortlist notified late July 2026). Watch Inlaks for the 2027 call.",
+        "South African visa required for Indian passport holders; nothing on the page about visa support."
+      ],
+      "notes": "Not an open call. Re-checked on 2026-09-23 on the organisation's own page only, both by direct fetch and by a text-render proxy of the same URL: NIROX publishes no application fee, no stipend or bursary, and no eligibility or nationality rule anywhere on that page. These three fields stay null by design, not by omission. Open questions to put to NIROX, in this order, whenever the manager next writes to them: (1) Does the residency pay the artist anything, or does the artist pay NIROX, and what is the amount and currency? (2) Is there any application or administration fee? (3) Are artists on an Indian passport eligible, and does NIROX issue an invitation letter for the South African visa? No email has been sent. The funded route for an Indian artist remains the Inlaks Residency at NIROX, whose 2026 cycle is closed.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Driving Creek Artist in Residence Programme",
+      "location": "Coromandel, Waikato",
+      "country": "New Zealand",
+      "verified": true,
+      "source_urls": [
+        "https://drivingcreek.nz/pottery-and-residency/",
+        "https://drivingcreek.nz/",
+        "https://form.jotform.com/231777784782878"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official page: 'Driving Creek residency panel selects artists for residencies 4 times per year' and the call is open to 'any form of artist'. No nationality, residency or career-stage restriction is stated anywhere on the page, but international eligibility is not spelled out in so many words. Confirm with the pottery before applying. Up to 5 artists per quarter."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "None. Official wording: 'there is no fee for the artist residency' and 'we offer free artist residencies'. Nothing is paid to the artist.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None stated. Artists are asked to 'chip in here and there to keep the co-operative spirit of the pottery alive'.",
+        "application_fee": "None stated; official wording 'there is no fee for the artist residency'",
+        "artist_pays": [
+          "travel",
+          "food",
+          "art materials",
+          "visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Working pottery and railway founded by Barry Brickell, with shared studio spaces, wood-fired and gas kilns, native forest setting. Residents have worked across ceramics, painting, sculpture, photography and textiles."
+      },
+      "deadline": "2026-09-30",
+      "deadline_notes": "Quarterly cycles. Official wording: 'April - June, applications close at the end of September'; 'July - September, applications close at the end of December'; 'October - December, applications close at the end of March'; 'January - March, applications close at the end of June'. The 30 September 2026 date is for the April to June 2027 quarter; the next is 31 December 2026 for July to September 2027. Exact day not stated on the page, 'end of' month is the official wording.",
+      "duration": "Up to one 3-month quarter (Jan-Mar, Apr-Jun, Jul-Sep, Oct-Dec)",
+      "money_summary": "No fee, no stipend. Free basic on-site accommodation, shared studio and kilns. Artist pays travel, food and materials.",
+      "style_fit": 0.5,
+      "style_fit_reason": "A ceramics-led co-operative with real kilns and a sculpture-friendly, hands-on culture. Good for material work; no particular leaning toward surreal or figurative practice, and no fabrication support beyond the pottery.",
+      "cautions": [
+        "Unfunded: no stipend, travel or materials. Only accommodation and studio are free.",
+        "International eligibility is implied by the absence of restrictions, not stated. Confirm by email before applying.",
+        "Accommodation is described as 'basic' and shared; up to five residents at once.",
+        "Visa: nothing on the page. An Indian passport holder needs a New Zealand visitor visa; check whether a 3-month unpaid residency is permitted under it."
+      ],
+      "notes": "Confirmed from the official residency page on 2026-09-23. Deadline for the April to June 2027 quarter is the end of September 2026, so this is open for one more week; the December deadline is the realistic target. Application is via JotForm.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "BigCi (Bilpin international ground for Creative initiatives) Artist Residency",
+      "location": "Bilpin, Blue Mountains, New South Wales",
+      "country": "Australia",
+      "verified": true,
+      "source_urls": [
+        "https://bigci.org/artist-residency/",
+        "https://www.bigci.org/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official wording: 'Painters, sculptors, multimedia artists, performance artists, writers, musicians, dancers, filmmakers and other creative souls are invited to apply for the residency.' The fee page lists separate rates for 'Self-funded International artists', so international applicants are explicitly expected. No career-stage requirement."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "Official wording: 'There is no stipend or living allowance attached to the stay.' Money flows from the artist to the residency.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None. Art materials are the artist's cost.",
+        "application_fee": "Not stated. The official Artist Residency page publishes only stay rates: 'AUD$400 for International artists' per week for self-funded individuals, and 'Our rates for organisations are AUD$700 per person per week for Australian artists and AUD$800 per person per week for International artists.' There is no fee to apply mentioned, and no 'no fee' line either.",
+        "artist_pays": [
+          "residency fee AUD 400 per week (international)",
+          "food",
+          "transport",
+          "travel",
+          "insurance",
+          "art materials",
+          "visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "None required. The organisation notes many residents pursue environmental or ecological projects because of the Wollemi National Park setting, but says 'many others use our outstanding natural surroundings as a source of creativity for a variety of different artistic pursuits.'",
+        "programme_focus": "Independent, artist-run residency on the edge of Wollemi National Park focused on artists' professional development and project facilitation. Facilities are the Art Shed, the Barn and the House on 8 acres of bushland. Residents present at a BigCi Open Day at the end of their stay."
+      },
+      "deadline": "rolling",
+      "deadline_notes": "Official wording: 'Artist residency proposals are welcome throughout the year', to be submitted 'well in advance'.",
+      "duration": "Flexible, an 'agreed period of time' set by the project",
+      "money_summary": "Artist pays AUD 400 per week (international rate) covering accommodation, workspace, utilities and internet. No stipend. Artist also pays food, travel, insurance and materials.",
+      "style_fit": 0.4,
+      "style_fit_reason": "Open to sculptors and multimedia artists with a shed and barn to work in, but the programme's gravity is environmental and site-based rather than figurative or surreal, and there is no fabrication support.",
+      "cautions": [
+        "Fee-paying residency: roughly AUD 1,600 per four weeks before food, travel and materials.",
+        "Environmental setting shapes the programme; a dramatic figurative project would sit outside the usual resident profile.",
+        "Application fee is not stated anywhere on the official site, so it cannot be recorded as zero. Confirm before applying.",
+        "Visa: nothing on the site. Indian passport holders need an Australian visitor visa; confirm a paid residency stay is permitted."
+      ],
+      "notes": "Fee schedule confirmed from the official Artist Residency page on 2026-09-23. Listed by Res Artis and TransArtists; BigCi cites collaborative links with Asialink and Artspace Sydney. UNCONFIRMED FACT, exact open question: does BigCi charge anything to submit a residency proposal, on top of the AUD 400 per week stay rate? The official page and the BigCi home page were both read on 2026-09-23 and neither states a figure nor says applying is free. Ask through the contact form on bigci.org.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Eramboo Artist Environment Live-in Residency",
+      "location": "Terrey Hills, Sydney, New South Wales",
+      "country": "Australia",
+      "verified": true,
+      "source_urls": [
+        "https://eramboo.com.au/artist-programs/",
+        "https://eramboo.com.au/artist-programs/apply/",
+        "https://eramboo.com.au/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "Official wording for the live-in residency (Studio 5): ideal for 'regional, inter-state or international artists working in all media, writers, musicians, dance or performance artists'. The separate non-residential 6-month Award with a $3,000 allowance is run with Northern Beaches Council and its 2026 round is closed; it is not the programme recorded here."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "None for the live-in residency. Residents fund their own travel, food and art materials.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": false,
+        "materials_budget": "None",
+        "application_fee": "Not stated; online application form with no fee mentioned",
+        "artist_pays": [
+          "residency fee AUD 250 per week (single) or AUD 300 per week (couple)",
+          "AUD 500 refundable bond",
+          "AUD 100 non-refundable cleaning fee",
+          "travel",
+          "food",
+          "art materials",
+          "visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "",
+        "programme_focus": "Bushland artist environment next to Ku-ring-gai Chase National Park offering a furnished live-in studio apartment (kitchenette, bathroom, deck, wifi, 24/7 access) for artists in all media to develop a body of work."
+      },
+      "deadline": "rolling",
+      "deadline_notes": "The online application form for the live-in residency is live and lets applicants choose their own start and end dates. No closing date is stated. The 2026 non-residential AIR Award is a separate programme and is closed.",
+      "duration": "1 week to 3 months",
+      "money_summary": "Artist pays AUD 250 per week plus AUD 500 bond and AUD 100 cleaning fee for a furnished live-in studio. No stipend, travel or materials.",
+      "style_fit": 0.4,
+      "style_fit_reason": "All media welcome and a private live-in studio, but it is a quiet bushland retreat with no workshop, technician or fabrication support and no stated curatorial interest in figurative or surreal work.",
+      "cautions": [
+        "Fee-paying residency; the artist carries every cost.",
+        "Official page: international artists are 'responsible for arranging their own visas and travel'.",
+        "Studio apartment scale suits studio-sized work, not large installation.",
+        "Do not confuse with the funded non-residential Eramboo AIR Award, which is a Northern Beaches Council programme and closed for 2026."
+      ],
+      "notes": "Fees and eligibility confirmed from the official Artist Programs page on 2026-09-23. Application form on the official site accepts international addresses.",
+      "last_updated": "2026-09-23"
+    },
+    {
+      "name": "Earthskin Creative Residency",
+      "location": "Piha (Waygood Foundation) and Warkworth, Auckland region",
+      "country": "New Zealand",
+      "verified": true,
+      "source_urls": [
+        "https://www.earthskintrust.org/artist-residency",
+        "https://www.earthskintrust.org/"
+      ],
+      "eligibility": {
+        "india_eligible": true,
+        "india_specific": false,
+        "international_open": true,
+        "career_stage": "any",
+        "collective_required": false,
+        "min_years_experience": null,
+        "eligibility_notes": "The residency page welcomes 'artists, potters, sculptors, musicians, designers, writers, and environmental innovators' with no nationality restriction stated. International eligibility is implied rather than spelled out; confirm by email."
+      },
+      "funding": {
+        "has_stipend": false,
+        "living_stipend": false,
+        "production_grant": false,
+        "stipend_detail": "None. Official wording: '$250 per week', with the cost 'reduced through work exchange' in the permaculture gardens.",
+        "accommodation": true,
+        "studio": true,
+        "travel_covered": false,
+        "visa_support": null,
+        "materials_budget": "None. Official wording: 'bring your own food and art supplies'.",
+        "application_fee": "None stated; application is a form emailed to earthskintrust@gmail.com",
+        "artist_pays": [
+          "residency fee NZD 250 per week",
+          "utilities",
+          "food",
+          "art materials",
+          "travel",
+          "one artwork as koha",
+          "visa"
+        ]
+      },
+      "discipline": {
+        "mixed_media_ok": true,
+        "sculpture_installation_ok": true,
+        "digital_only": false,
+        "required_material": null,
+        "thematic_constraint": "Environmental stewardship. Official wording: 'The use of unnatural chemical art materials that can go into our precious land is not allowed.' Residents contribute talks, workshops, exhibitions or a gifted artwork.",
+        "programme_focus": "Trust-run creative residency on a permaculture and earthbuild site at Piha and in the Warkworth valley, with studio, gallery, yurt and housing, aimed at 'deepening connection with self, community, and the land'."
+      },
+      "deadline": "rolling",
+      "deadline_notes": "Official wording: 'Residencies for 2026 and 2027 open in May, please apply now.' No closing date is given; applications are accepted on an ongoing basis.",
+      "duration": "2 to 4 weeks, extendable to 1 to 3 months",
+      "money_summary": "Artist pays NZD 250 per week plus utilities, food and materials, and gives one artwork as koha. No stipend.",
+      "style_fit": 0.2,
+      "style_fit_reason": "An eco-retreat with a ban on 'unnatural chemical art materials', which rules out most resins, solvents and industrial finishes a mixed-media sculptor would use. No fabrication facilities and a land-focused ethos far from dramatic figurative work.",
+      "cautions": [
+        "Fee-paying and unfunded.",
+        "A koha artwork must be gifted to the trust's collection for fundraising.",
+        "No synthetic or chemical art materials permitted on site; check this against the client's actual materials before applying.",
+        "No smoking, drugs or alcohol.",
+        "Visa not addressed on the site."
+      ],
+      "notes": "Fee, koha rule and material restriction confirmed from the official residency page on 2026-09-23. Recorded so the unfunded decision has the full Oceania picture, but this is the weakest fit of the four.",
+      "last_updated": "2026-09-23"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "residency_options": [
+    {
+      "name": "Gasworks",
+      "location": "London, UK",
+      "eligibility": "Early-career visual artists based in India (current India-specific call)",
+      "duration": "11 weeks",
+      "funding": {
+        "weekly_stipend_gbp": 175,
+        "materials_budget_gbp_max": 800,
+        "studio_provided": true,
+        "accommodation": "Shared accommodation provided",
+        "flights": "Return economy flights from India covered",
+        "visa_support": true,
+        "travel_card": "Prepaid London travel card included"
+      },
+      "application_deadline": "2026-03-02",
+      "status": "actionable_now",
+      "fit_notes": "Strong fit — open to any visual art discipline, suits sculpture/mixed-media/containment work well. Deadline is near-term, prep portfolio soon.",
+      "source_note": "Confirmed via India-specific open call"
+    },
+    {
+      "name": "Delfina Foundation",
+      "location": "London, UK",
+      "eligibility": "Current call restricted to Latin American, Caribbean, and USA-based diaspora artists. India not currently eligible.",
+      "duration": "12 weeks",
+      "funding": {
+        "type": "Fully funded",
+        "covers": ["travel", "accommodation at Delfina Foundation house", "daily living allowance"]
+      },
+      "application_deadline": null,
+      "selection_timeline": {
+        "shortlisting": "2026-05",
+        "final_selection_by": "2026-06-01"
+      },
+      "status": "watchlist_not_eligible",
+      "fit_notes": "Not eligible for current call. Historical precedent for India-specific residency existed via Charles Wallace India Trust / Inlaks Shivdasani Foundation partnership — monitor for a future India-focused open call.",
+      "source_note": "Fully funded when open; current cycle scoped to LatAm/Caribbean/diaspora artists"
+    }
+  ],
+  "last_checked": "2026-09-10"
+}

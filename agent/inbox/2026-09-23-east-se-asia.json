@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Shigaraki Ceramic Cultural Park (SCCP) Artist-in-Residence: Open-Call Guest Artist 2027",
+    "location": "Shigaraki, Koka, Shiga Prefecture",
+    "country": "Japan",
+    "verified": true,
+    "source_urls": [
+      "https://www.sccp.jp/air/wp-content/uploads/sites/5/2026/08/GA_application_guideline_2027_JP.pdf",
+      "https://www.sccp.jp/air-en/application/guest-artist/",
+      "https://www.sccp.jp/air/application/guest-artist/",
+      "https://www.sccp.jp/air-en/about-artist-in-r/fee/",
+      "https://air-j.info/en/program/the-shigaraki-ceramic-cultural-park-sccp-artist-in-residence-program-2027/"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official 2027 guidelines (JP PDF): 対象 = '応募の時点で20歳以上の陶芸家、美術家' (ceramic artists and fine artists aged 20 or over at application), with 'a clear motivation and purpose for a residency at the Ceramic Park'. Planned intake: '国内居住者1名、国外居住者1名を予定' (one Japan-resident, one overseas-resident). No nationality restriction. The open-call scheme is described as providing opportunities for young artists (若手作家への活躍の場). The Japanese application page also asks for '陶芸についての基礎知識と経験' (basic knowledge and experience of ceramics)."
+    },
+    "funding": {
+      "has_stipend": true,
+      "living_stipend": true,
+      "production_grant": true,
+      "stipend_detail": "謝金 (honorarium): '1回の招聘に付き、年間限度額20万円（所得税及び消費税を含む）' = up to JPY 200,000 per invitation, tax inclusive, paid only after the donated work or technical information is decided. Materials: up to JPY 100,000 covered. Firing (kiln use and fuel): up to JPY 110,000 covered. Amounts over the caps are at the artist's expense.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": true,
+      "visa_support": null,
+      "materials_budget": "Up to JPY 100,000 for raw materials plus up to JPY 110,000 for firing",
+      "application_fee": "None stated. Online application only; the guidelines list no fee.",
+      "artist_pays": [
+        "Accommodation if used: 'ツイン 26,400円 / シングル 20,300円 / 1ヶ月' (JPY 20,300 per month single room)",
+        "Bedding rental approx. JPY 6,600 per month",
+        "Air-conditioning electricity billed monthly",
+        "Shipping of works and luggage, all living costs",
+        "Insurance; Japanese National Health Insurance is mandatory for stays of 4 months or more",
+        "Materials and firing costs above the caps"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": "Ceramics: work is made in the ceramic studios and fired in the park's kilns; open to 'ceramic artists and artists from other fields'",
+      "thematic_constraint": "",
+      "programme_focus": "Contemporary ceramics, sculpture, craft and traditional ceramics. A creative space with a variety of kilns including wood kilns, technical staff support for equipment, and no curriculum: 'artists are free to pursue their work in our creative space according to their own schedule'."
+    },
+    "deadline": "2026-10-31",
+    "deadline_notes": "Application window 1 September 2026 10:00 JST to 31 October 2026 17:00 JST, online only at sccp-air-apply.jp/guest-artist. Results emailed by 27 December 2026.",
+    "duration": "2 months to under 1 year between 1 April 2027 and 31 March 2028; artists travelling from overseas start on or after 1 July 2027",
+    "money_summary": "JPY 200,000 honorarium (one-off, paid after the donation of work is settled) plus economy return travel from nearest airport, JPY 100,000 materials and JPY 110,000 firing; housing charged at JPY 20,300/month.",
+    "style_fit": 0.5,
+    "style_fit_reason": "Serious sculptural facilities (kilns, technical staff, materials budget) and the programme names sculpture alongside ceramics, so figurative or surreal clay work is viable. But the whole residency is built around clay; a mixed-media installation artist would be shifting material and is expected to bring some ceramic experience.",
+    "cautions": [
+      "Work donation is a condition: '制作した作品、もしくは制作の技術的情報を滋賀県もしくは指定管理者に寄贈願います' (donate a work made, or the technical information of the making, to Shiga Prefecture or the operator; selection agreed with staff; large works may be refused).",
+      "The JPY 200,000 honorarium is paid only after the donated work or technical information is decided.",
+      "Housing is not free: JPY 20,300 per month single room, plus bedding and air-con charges.",
+      "Only about two open-call guest slots (one overseas resident), so highly competitive.",
+      "Public lectures or workshops during the stay are expected, and an exhibition at the park may be requested.",
+      "Stays of 4 months or more require enrolment in Japanese National Health Insurance.",
+      "Basic ceramic knowledge and experience is asked for on the application page."
+    ],
+    "notes": "All money and eligibility facts taken from the official FY2027 (令和9年度) guest artist guidelines PDF dated August 2026 and the SCCP fee page. Visa: SCCP issues a '招聘通知' (invitation notice) after scheduling; nothing explicit about visa sponsorship, so visa_support left null. The Studio Artist track (about 20 places) is self-funded at JPY 38,400/month studio fee and is not recorded here."
+  },
+  {
+    "name": "Tobichi Art Museum 2026 'Baton' Exhibition in a Vacant House: Open-Call Artist (Maru to Henshusha)",
+    "location": "Tatsuno, Nagano Prefecture",
+    "country": "Japan",
+    "verified": true,
+    "source_urls": [
+      "https://tobichi.jp/information/%E3%83%88%E3%83%93%E3%83%81%E7%BE%8E%E8%A1%93%E9%A4%A82026-%E5%85%AC%E5%8B%9F%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%8B%9F%E9%9B%86%E9%96%8B%E5%A7%8B%EF%BC%81/",
+      "https://tobichi.jp/cms/wp-content/uploads/2026/09/%E3%83%95%E3%82%9A%E3%83%AD%E3%82%AF%E3%82%99%E3%83%A9%E3%83%A0%E3%81%93%E3%82%99%E3%81%A8%E3%81%AE%E7%94%B3%E3%81%97%E8%BE%BC%E3%81%BF%E6%9C%9F%E6%97%A5%E3%81%A8%E6%BB%9E%E5%9C%A8%E6%99%82%E9%96%93.png",
+      "https://tobichi.jp/cms/wp-content/uploads/2026/09/%E3%83%AF%E3%82%BF%E3%83%AA%E3%83%88%E3%82%99%E3%83%AA%E3%83%95%E3%82%9A%E3%83%AD%E3%82%AF%E3%82%99%E3%83%A9%E3%83%A0.png",
+      "https://air-j.info/en/program/the-tobichi-art-museum-2026_baton-exhibition-in-a-vacant-house_open-call-program/",
+      "https://news.yahoo.co.jp/articles/b85bdb8cccdebcb81cf520a360b607f49ebd3bec"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "AIR_J listing (organiser-submitted): eligibility is 'Those who resonate with the concept of the Tobichi Art Museum'. No nationality or career-stage restriction stated. Local press quotes the organiser saying overseas artists need an invitation letter to come, which implies international applicants are expected. Two open-call artist places."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "No stipend and no production grant. The organiser's own support table 'アーティストへの支援内容' gives, for column 'A: A.I.R.Competition 公募': 報償費 (compensation) '大賞：¥200,000 / 特別賞：¥50,000', 交通費 (travel, 実費精算) '上限 ¥50,000', 宿泊費 '無料 / 個室', 食費 '無し', 制作道具/空間 '無償貸し出しあり。', 制作素材 '空き家から出てきた不用品（空き家の幸）は無料提供', 展示会場 '無償提供'. The only cash is 報償費, and it is awarded as a 大賞 (grand prize) or 特別賞 (special prize) to selected work at the end, so it is prize money: it is not guaranteed to a participant, it is not a living allowance, and it is not a budget granted up front to make work with. Free private room, free tools, free space, free reclaimed materials and travel reimbursement up to JPY 50,000 are real, but no money is paid to the artist for taking part.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": true,
+      "visa_support": null,
+      "materials_budget": "No cash budget. Official: 制作素材 '空き家から出てきた不用品（空き家の幸）は無料提供' (reclaimed items from the vacant houses supplied free)",
+      "application_fee": "No application fee is mentioned anywhere in the organiser's own call page or its support table; application is through a free Google Form. There is no explicit 'no fee' sentence to quote. Note that category C, 'A.I.R.Free 有料滞在', is the paying track at 個室 ¥60,000/月 or ドミトリー ¥30,000/月; category A is not.",
+      "artist_pays": [
+        "Food and all living costs: the official support table gives 食費 '無し' for category A",
+        "Travel above the JPY 50,000 reimbursement cap (交通費 上限 ¥50,000, 実費精算)"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "Work is made in and for a vacant house or shop on the Tobichi shopping street, using unwanted household items and materials found in the town.",
+      "programme_focus": "Artist-in-residence programme where artists live in the town and create site-specific installation and exhibition work inside vacant houses, using reclaimed objects and local materials. Visual arts, fine arts, craft, film, performance."
+    },
+    "deadline": "2026-09-25",
+    "deadline_notes": "Confirmed on the organiser's own call page. Its schedule graphic 'プログラムごとの申し込み期日と滞在期間' gives, for categories A/B/C including 'A: A.I.R.Competition 公募', '9月25日 申込締切' (25 September application deadline), with the timeline marking '9/6 募集開始', '9/25 申込締切', '9/30 結果連絡'. The same graphic states '9月30日までに審査結果を連絡します。審査後に滞在期間を正式に決定します。コアタイム(11/21~29)は必ず滞在してください。' Two days from today. Applications go through the Google Form linked on the official page: https://forms.gle/7NKhCpJkZujPEgsp6",
+    "duration": "2 weeks to 2 months (official table: '2 week ~ 2 month'), inside the artist intake window 5 October to 31 December 2026; core period 21 to 29 November is mandatory; exhibition 31 October to 27 December 2026",
+    "money_summary": "Free private room, tools, workspace, exhibition venue and reclaimed materials, travel reimbursed up to JPY 50,000; no stipend, cash only if the work wins a prize (JPY 200,000 grand or JPY 50,000 special)",
+    "style_fit": 0.55,
+    "style_fit_reason": "Site-specific installation inside vacant houses with found domestic objects suits a sculptural, installation-led practice and the client's interest in containment and scale. The programme is community-flavoured and improvised rather than dramatic or fabrication-heavy, and there is no production budget.",
+    "cautions": [
+      "Deadline is 25 September 2026, two days away.",
+      "No stipend. The JPY 200,000 / JPY 50,000 figures are competition prizes for selected work, not a fee for taking part, so the artist could complete the residency and receive no money at all.",
+      "Food is not covered: the official table reads 食費 '無し' for the open-call category.",
+      "Mandatory on-site core period 21 to 29 November 2026 ('コアタイム(11/21~29)は必ず滞在してください').",
+      "Only 2 open-call places, against more than 135 applications in 2025 per the organiser.",
+      "The official page is Japanese-only and the whole application runs through a Japanese Google Form; the organiser told local press that overseas artists need an invitation letter to travel, and nothing on the page confirms visa support.",
+      "Other categories on the same call are unfunded or paid by the artist (B part-time job, C 有料滞在 at ¥60,000/month private room); apply only under A, A.I.R.Competition 公募.",
+      "Work is made from 空き家の幸, unwanted items found in the vacant houses, so material choice is constrained."
+    ],
+    "notes": "Verified on 2026-09-23 against the organiser's own call page at tobichi.jp (一般社団法人◯と編集社). The page's money and date terms are published as two images rather than text ('アーティスト・インターンへの支援内容：下記画像参照', '滞在期間：下記画像参照'); both images were downloaded from tobichi.jp and read directly, and every figure above is quoted from them. That also resolves the AIR_J date typo: the intake window is 10/5 to 12/31 in 2026. Contact: revision@maruto.or.jp / 0266-88-9198. Still unconfirmed: whether works remain in the vacant house afterwards, and any visa support."
+  },
+  {
+    "name": "SIXI AiR (Sixi Museum) International Artist-in-Residence Project 2027, Spring and Autumn",
+    "location": "Nanjing, Jiangsu",
+    "country": "China",
+    "verified": true,
+    "source_urls": [
+      "https://siximuseum.com/en/residency/",
+      "https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1760/usr/library/images/main/feature_panels/65/sixi-air-event-digital-2027-open-call-xhs-ig-p4_071126.jpg",
+      "https://siximuseum.com/en/news/8-sixi-air-project-open-call-2027-spring/",
+      "https://resartis.org/open-call/sixi-air-open-call-2027-spring-autumn/",
+      "https://www.opencallartist.com/o/71d86bdd-505b-4fc5-8ef6-5fceb5c34547/sixi-international-artist-in-residence-project-2027-spring-a"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "emerging",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Museum's own open-call slide 'Application Guidelines': 'Artists from all disciplines are welcome to apply. Please refer to the themes of this open call when submitting your application.' 'Applicants must be at least 18 years old at the time of applying, fully capable of completing the entire residency program; there are no restrictions on nationality.' 'Sufficient Chinese Mandarin or English language skills in speaking and writing for research and communication.' 'The application addresses one of the two themes listed above.' Slide 'About SIXI AiR': 'Launched in 2024 to support emerging artists'."
+    },
+    "funding": {
+      "has_stipend": true,
+      "living_stipend": null,
+      "production_grant": true,
+      "stipend_detail": "Museum's own slide 'Funding and Support': 'Sixi AiR Project runs on a non-profit basis, and will cover fees of Visa application; Travel expenses (Round-trip flights); Insurance for the duration of the stay; Accommodation (one private apartment or one private loft studio); Residency personnel assistance, technical assistance; Material allowance.' No cash living allowance or per diem appears anywhere in that list and no figure is given for the material allowance, so living_stipend stays null.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": true,
+      "visa_support": true,
+      "materials_budget": "'Material allowance' per the museum's own Funding and Support slide; amount not stated",
+      "application_fee": "No fee is charged as far as the museum states: its own slides describe application only as 'Please package all application documentations into one PDF or ZIP file and send it to info@siximuseum.com', with no fee mentioned anywhere in the call. Res Artis's republication lists the call as 'Free'. No explicit 'no fee' sentence exists on the museum's own material.",
+      "artist_pays": [
+        "Unclear: no living allowance figure published, so assume daily living costs may be the artist's unless confirmed"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "Proposals must respond to one of two themes: 'Flux and Imprints: Contemporary Echoes of Migration History' or 'Folds of Text: Cross-Media Intertextuality and Intervention'.",
+      "programme_focus": "Three-month residencies for emerging artists of all disciplines, with a city-centre apartment and a loft studio on the outskirts, staff and technical assistance, and an exhibition of outcomes at the museum. 2027 themes on migration history and on text and cross-media intertextuality."
+    },
+    "deadline": "2026-11-15",
+    "deadline_notes": "Confirmed on the museum's own open-call slides at siximuseum.com/en/residency/. Slide 'Duration and Deadline': '[Application Deadline] 15 November, 2026 (GMT+8 / Beijing Time)'. Same slide: '[Duration] For both 2027 Spring (March - May) and 2027 Autumn (September - November)' and 'The specific dates of the residency will be finalized based on the selected artists' preferences and the schedule of Sixi Residency Project.' Slide 'How to Apply': 'Applicants will receive a final response no later than mid-February 2027.' The terms sit inside poster images rather than HTML text, so they were read from the images published on the museum's own residency page.",
+    "duration": "3 months: Spring (March to May 2027) or Autumn (September to November 2027)",
+    "money_summary": "Flights, visa, insurance, apartment and studio plus a material allowance of unstated size; no published living stipend.",
+    "style_fit": 0.55,
+    "style_fit_reason": "Open to all media with studio, staff support and a materials allowance, and the 'Folds of Text' theme on cross-media intertextuality speaks directly to a typography-trained sculptor. The themes are prescriptive, and the museum's own text emphasises exchange and outcomes rather than material or figurative work.",
+    "cautions": [
+      "Museum's own slide: 'The artist is expected to donate a selection of the artworks created during the residency to Sixi Museum.'",
+      "Only 4 places across two seasons, 2 artists in residence at a time.",
+      "No living allowance is listed among the covered costs, so day-to-day food and spending money look like the artist's own. Confirm before applying.",
+      "Obligations: 'residents should participate in events including artist talk, workshop and open studio' and the project 'expects for tangible and presentable outcome'.",
+      "Proposals must address one of the two named themes.",
+      "Chinese visa for an Indian passport holder: the museum covers the visa application fee and warns 'International artists should allow sufficient time for visa processing at the time of application, usually at least 2-3 months in advance.'"
+    ],
+    "notes": "Verified on 2026-09-23 against the Sixi Museum's own residency page. The call's terms are published as poster slides rather than HTML text; the slides were downloaded from the museum's own page and read directly, so the deadline, eligibility, funding, obligations and donation clause are now all quoted from the museum, not from Res Artis. Application is by email to info@siximuseum.com with 'Residency Application' in the subject line. Still unquantified: the size of the material allowance, and whether any living costs are covered."
+  },
+  {
+    "name": "Swatch Art Peace Hotel Artist Residency",
+    "location": "Shanghai",
+    "country": "China",
+    "verified": true,
+    "source_urls": [
+      "https://www.swatch-art-peace-hotel.com/en/apply",
+      "https://www.swatch-art-peace-hotel.com/en/what-you-get",
+      "https://www.swatch-art-peace-hotel.com/en/artist-residency"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official: welcomes 'known and unknown artists from around the world'; 'Dancers, musicians, photographers, filmmakers, writers, painters, conceptual artists, and many more.' No nationality, age or career-stage restriction stated. 'Only online applications written in English can be accepted.' Group applications limited to 2 people, each applying individually."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "Official: 'There is no stipend' and guests 'should be able to provide for their personal and professional needs for the duration of their stay'. Provided: 'Round trip ticket to Shanghai' (economy, paid by Swatch Group), furnished individual apartment, studio space, daily breakfast, housekeeping twice weekly, kitchen, laundry, library, Wi-Fi, visa assistance.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": true,
+      "visa_support": true,
+      "materials_budget": "None; artists provide their own materials",
+      "application_fee": "'Submit and pay a fee of 30 Swiss francs which will be entirely donated to Médecins Sans Frontières' (about INR 3,200)",
+      "artist_pays": [
+        "All living costs beyond breakfast",
+        "Materials",
+        "Excess luggage, artwork shipping and storage, phone, visitor costs",
+        "Hotel services settled monthly; a credit card must be presented as guarantee"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Multidisciplinary residency in a landmark hotel on the Bund: painters, conceptual artists, photographers, filmmakers, writers, musicians and dancers. Furnished studios on two floors; selection by an international committee balancing disciplines, styles and national origins."
+    },
+    "deadline": "rolling",
+    "deadline_notes": "Official: 'There is no application deadline.' Allow 'minimum 12 weeks' for review.",
+    "duration": "'A minimum of 3 months and a maximum of 6 months are obligatory'; length assigned by need and availability",
+    "money_summary": "Free flights, apartment, studio and breakfast for 3 to 6 months; no stipend; CHF 30 application donation.",
+    "style_fit": 0.5,
+    "style_fit_reason": "Genuinely all-media and conceptual work is welcomed, with a private studio, but there is no fabrication facility, no materials budget and no curatorial focus; a sculptural installation practice would be self-funded on materials.",
+    "cautions": [
+      "No stipend: the artist funds all living costs and materials for 3 to 6 months in Shanghai.",
+      "Residents must 'leave an artistic trace of their choice' at the end of the stay.",
+      "A credit card guarantee is required and hotel services are billed monthly.",
+      "Chinese visa for an Indian passport holder: Swatch offers visa assistance, but check processing times and requirements early."
+    ],
+    "notes": "Fully sourced from the official site. Recorded as an unfunded option because the call is open, the fee is under INR 5,000 and it covers flights, housing and studio."
+  }
+]

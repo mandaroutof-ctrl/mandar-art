@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Villa Lena Foundation Artist Residency",
+    "location": "Villa Lena estate, Tuscany",
+    "country": "Italy",
+    "verified": true,
+    "source_urls": ["https://www.villa-lena.org/artists-residencies", "https://www.villa-lena.org/open-calls", "https://www.villa-lena.org/application", "https://www.transartists.org/en/air/villa-lena-foundation", "https://theglassmagazine.com/villa-lena-foundations-2025-artist-residency-program-announces-open-call/", "https://www.villa-lena.it/villa-lena-foundation/"],
+    "eligibility": {"india_eligible": true, "international_open": true, "career_stage": "any", "collective_required": null, "eligibility_notes": "Open to artists of all backgrounds and nationalities and at all stages of their careers. All creative disciplines."},
+    "funding": {"has_stipend": false, "living_stipend": false, "production_grant": false, "stipend_detail": "No stipend. Fee-based: the artist pays. One scholarship a year waives the fee but pays no cash. Partner-sponsored places exist with unpublished terms.", "accommodation": true, "studio": true, "travel_covered": null, "materials_budget": null, "application_fee": "EUR 21", "artist_pays": ["residency fee, EUR 150/week per TransArtists or EUR 20/day per Villa Lena's own pages", "lunch groceries and extras", "travel"]},
+    "discipline": {"mixed_media_ok": true, "sculpture_installation_ok": true, "digital_only": false, "thematic_constraint": "None. All creative disciplines."},
+    "deadline": null,
+    "deadline_notes": "Closed. Villa Lena's Open Calls page says applications for the 2027 programme are closed. Past cycles closed around late May to early June.",
+    "duration": "4 to 5 week group residencies, April to October",
+    "money_summary": "No stipend. Artist pays a weekly or daily fee plus a EUR 21 application fee",
+    "notes": "Pay-to-attend. Studios up to 120 m2 and ceramics facilities, but fails the stipend requirement. Official site could not be loaded directly; facts come from its search-indexed text corroborated by TransArtists.",
+    "curation_note": "Condensed 2026-09-10 from the Italy research agent output."
+  },
+  {
+    "name": "Marea Art Project",
+    "location": "Praiano and Positano, Amalfi Coast",
+    "country": "Italy",
+    "verified": true,
+    "source_urls": ["https://www.mareartproject.com/en/apply-for-a-residency-with-marea/", "https://mareartproject.com/en/portfolio/il-progetto/", "https://www.mareartproject.com/en/open-call-echoing/", "https://www.mareartproject.com/wp-content/uploads/2024/08/Call_Culture_Moves_Europe_ITA.pdf", "https://culture.ec.europa.eu/culture-moves-europe/call-for-individual-mobility"],
+    "eligibility": {"india_eligible": false, "international_open": false, "career_stage": null, "collective_required": false, "eligibility_notes": "2026 call: artist must be legally resident in a Creative Europe participating country other than Italy. Legal residence counts, not nationality, and India is not on the list. Outside calls, participation is by invitation."},
+    "funding": {"has_stipend": false, "living_stipend": false, "production_grant": false, "stipend_detail": "No stipend from Marea's own funds. Marea only provides a letter of support for the artist's own EU Culture Moves Europe grant, which is open to Creative Europe residents only. Otherwise the artist must bring their own funding.", "accommodation": true, "studio": null, "travel_covered": null, "materials_budget": null, "application_fee": null, "artist_pays": ["own funding outside an EU-funded call"]},
+    "discipline": {"mixed_media_ok": true, "sculpture_installation_ok": true, "digital_only": false, "thematic_constraint": "Research or production in dialogue with the cultural, social and anthropological context of the Amalfi Coast, Southern Italy and the Mediterranean."},
+    "deadline": "2026-03-22",
+    "deadline_notes": "Closed. Expression of interest was due 22 March 2026, then the artist's own EU grant application by 30 April 2026.",
+    "duration": "21 days (Nov or Dec 2026)",
+    "money_summary": "No stipend from Marea. Only paid route is an EU travel grant closed to India residents",
+    "notes": "Blocked twice: residence rule and no own funding. Historic houses with many stairs as workspaces, a weak practical fit for sculpture or vitrines.",
+    "curation_note": "Condensed 2026-09-10 from the Italy research agent output."
+  },
+  {
+    "name": "Arroscia Residency",
+    "location": "Pieve di Teco, Arroscia Valley, Liguria",
+    "country": "Italy",
+    "verified": true,
+    "source_urls": ["https://arrosciaresidency.org/the-residency", "https://arrosciaresidency.org/application", "https://arrosciaresidency.org/", "https://artistcommunities.org/directory/open-calls/arroscia-residency-fall-2026", "https://artistcommunities.org/directory/residencies/arroscia-residency", "https://app.entrythingy.com/calls/external/open-call-artist-residency-italy/", "https://www.theartlist.com/arroscia-residency-italy-fall-2026"],
+    "eligibility": {"india_eligible": true, "international_open": true, "career_stage": "emerging", "collective_required": false, "eligibility_notes": "Open to artists based anywhere in the world. Open to emerging and mid-career artists. Must apply and be accepted individually. Not for artists enrolled in an academic program. Disciplines: painting, drawing, collage, fiber art, photography, murals, installations and mixed media work."},
+    "funding": {"has_stipend": true, "living_stipend": true, "production_grant": null, "stipend_detail": "EUR 300 per week for art supplies and living expenses, plus paid housing and round-trip flights from the artist's hometown airport to Europe, reimbursed on arrival. No residency fees.", "accommodation": true, "studio": true, "travel_covered": true, "materials_budget": "No separate budget; the weekly stipend covers art supplies and living expenses", "application_fee": "USD 25", "artist_pays": ["food and daily living beyond the EUR 300/week stipend", "Schengen visa, about EUR 90", "one jury-chosen artwork donated to the permanent collection"]},
+    "discipline": {"mixed_media_ok": true, "sculpture_installation_ok": true, "digital_only": false, "thematic_constraint": "None. Output of at least 6 to 8 pieces exhibited in the studio."},
+    "deadline": "2026-04-07",
+    "deadline_notes": "Closed. Fall 2026 call ran 3 March to 7 April 2026 (TheArtList says 5 April). No Spring 2027 call published as of 2026-09-10. Calls run twice a year.",
+    "duration": "3 to 8 weeks, twice a year",
+    "money_summary": "EUR 300/week stipend, free housing, return flights reimbursed on arrival",
+    "style_fit": 0.5,
+    "style_fit_reason": "Self-directed with no theme and names installation and mixed media, but facilities are painting-oriented and a 6 to 8 piece minimum is heavy for sculptural work.",
+    "cautions": [
+      "Last call closed 7 April 2026. No Spring 2027 call is published yet, so watch for it.",
+      "Airfare is paid up front and only reimbursed on arrival.",
+      "Facilities are painting-oriented. No sculpture, wood or metal workshop is mentioned.",
+      "Must produce at least 6 to 8 pieces, and one jury-chosen piece stays in the permanent collection.",
+      "Very selective: 3 artists from 76 applicants in the latest year.",
+      "The official site could not be loaded directly. Facts come from its indexed text and directory listings, so confirm before applying."
+    ],
+    "notes": "The only one of the three Italian residencies that pays the artist. Studio in a renovated medieval palazzo, run by a Texas-based nonprofit founded 2023. Housing is described as private by one directory and shared by another.",
+    "curation_note": "Condensed 2026-09-10 from the Italy research agent output."
+  }
+]

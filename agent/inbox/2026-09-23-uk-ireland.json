@@ -1,0 +1,526 @@
+[
+  {
+    "name": "Farnham Craft Town Artist in Residence 2027",
+    "location": "Farnham, Surrey",
+    "country": "United Kingdom",
+    "verified": true,
+    "source_urls": [
+      "https://farnhamcrafttown.com/farnham-craft-town-artist-in-residence-opportunity-2027/",
+      "https://www.farnham.gov.uk/farnham-life/crafttown/farnhams-artists-in-residence/",
+      "https://form.jotform.com/252294767073364",
+      "https://www.artrabbit.com/artist-opportunities/2026/october/farnham-craft-town-artist-in-residence-opportunity"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official page: 'We are accepting proposals from creatives at all stages of their development and are particularly interested in people who want to experiment and innovate.' Priority wording: 'Priority this year will be given to artists working in wood and furniture making, and we particularly welcome applications from makers based in other World Craft Towns.' No nationality or residence restriction is stated, and travel costs are fully covered, which implies applicants from outside the UK. Nothing about visas appears on the page. Apply by uploading CV, artist's statement and three images via the JotForm link."
+    },
+    "funding": {
+      "has_stipend": true,
+      "living_stipend": true,
+      "production_grant": true,
+      "stipend_detail": "Official page lists the offer as: 'Fully covered travel costs', 'Living costs', 'Contribution to materials', 'Free studio space and accommodation', 'An opportunity to exhibit a new body of work created during the residency'. No amounts are published.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": true,
+      "visa_support": null,
+      "materials_budget": "'contribution to materials', amount not stated",
+      "application_fee": "None. No fee is mentioned on the organiser's own page or on its application form link.",
+      "artist_pays": []
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "Official: 'Priority this year will be given to artists working in wood and furniture making'. Named specialisms: 'cabinet making, hand-cut joinery, marquetry & inlay, wood turning, wood carving, green woodworking, coopering, and work with sustainable or reclaimed timber', with 'We welcome applications from makers working across all of these disciplines and many more.' Based at the Farnham School of Furniture Making.",
+      "programme_focus": "Craft residency in England's first World Craft Town; makers work alongside local craft community and students and create a piece inspired by Farnham for the town's craft collection."
+    },
+    "deadline": "2026-10-02",
+    "deadline_notes": "Resolved on the organiser's own page, which states it twice: 'We will accept applications until October 2nd 2026' and, at the foot of the call, 'Deadline for applications 17.00 GMT Friday 2nd October 2026'. The 3 October date carried by ArtRabbit and Reviewed by Artists is wrong. Read via Brightdata after WebFetch was captcha-blocked.",
+    "duration": "4 to 6 weeks, Spring 2027",
+    "money_summary": "Travel, living costs, accommodation, studio and a materials contribution covered; no amounts published",
+    "style_fit": 0.3,
+    "style_fit_reason": "Craft residency hosted at a furniture-making school, with the 2027 round prioritising wood and furniture makers and encouraging work with local makers and local materials. Material and hand-skill led, but framed as craft rather than dramatic or surrealist art, and a non-wood applicant is outside the stated priority.",
+    "cautions": [
+      "The 2027 round explicitly prioritises wood and furniture makers and applicants from other World Craft Towns; a mixed media sculptor from India matches neither priority.",
+      "Work is retained: 'Each of our artists in residence will be asked to create a piece inspired by Farnham, which will form part of our local craft collection.'",
+      "No amounts are published for living costs, travel or the materials contribution.",
+      "The page says nothing about visas or visa support, and a UK visa would be needed.",
+      "Deadline is 17.00 GMT Friday 2 October 2026, nine days away."
+    ],
+    "notes": "Confirmed on farnhamcrafttown.com itself. Funded by The Farnham South Street Trust and managed by Farnham Town Council. Shortlisted applicants have an online conversation first, and the organiser says it 'is happy to discuss flexibility if any aspect of the offer needs adapting'. Open question: the stipend and travel amounts are not published anywhere, so the cash value is unknown."
+  },
+  {
+    "name": "Radical Sabbatical 2027 Residencies (Eastside Projects and University of Birmingham)",
+    "location": "Birmingham",
+    "country": "United Kingdom",
+    "verified": true,
+    "source_urls": [
+      "https://eastsideprojects.org/projects/apply-now-radical-sabbatical-2027-residencies/",
+      "https://eastsideprojects.org/wp-content/uploads/Radical-Sabbatical-2027-Artists-Callout.pdf",
+      "https://artquest.org.uk/opportunity/radical-sabbatical-2027-residencies/"
+    ],
+    "eligibility": {
+      "india_eligible": false,
+      "india_specific": false,
+      "international_open": false,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": 3,
+      "eligibility_notes": "Disqualifying. The organiser's own Artists Callout PDF states: 'Artists must be based in the UK, with the right to work here.' Other criteria: 'We welcome applications from artists working in any medium'; 'Artists should have at least 3 years professional experience, and a demonstrable portfolio of work'; 'Artists should not be enrolled on an academic course, including a PHD.' An India-based applicant without UK residence and the right to work cannot apply."
+    },
+    "funding": {
+      "has_stipend": true,
+      "living_stipend": false,
+      "production_grant": true,
+      "stipend_detail": "Eastside Projects page: 'Fee: £3,500 Artist Fee + £500 Production Budget'. The callout splits the fee as GBP 2,750 at the start of the residency and GBP 750 after the final event, and the GBP 500 production budget is claimed against invoices and receipts for travel and/or material costs. No accommodation is offered and it is not described as a living stipend.",
+      "accommodation": false,
+      "studio": null,
+      "travel_covered": null,
+      "visa_support": null,
+      "materials_budget": "GBP 500 production budget",
+      "application_fee": "None. No application fee is mentioned in the Artists Callout or on the Eastside Projects call page.",
+      "artist_pays": []
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "2027 theme: 'Radical Sabbatical 2027 will take ideas of touch as a starting point.' Suggested areas include haptic and sensory experience, embodied knowledge, disability and inclusive design, medical perspectives on touch, digital touch, 'Materiality, making and craft', and touch, memory and emotion.",
+      "programme_focus": "Six-month research and development residency for two artists at the University of Birmingham with University Collections, run with the artist-led space Eastside Projects. Artists are matched with academics and supported by regular one-to-one conversations. Open to artists working in any medium."
+    },
+    "deadline": "2026-11-20",
+    "deadline_notes": "Confirmed on the organiser's own page: 'Application Deadline: Friday 20 November, 11.59pm', repeated in Key Dates as 'Friday 20 November, 11.59pm - Application deadline'. No timezone is stated. Interviews Thursday 10 December, residencies begin January 2027, final sharing event June/July 2027. Read via Brightdata after WebFetch was blocked by Cloudflare.",
+    "duration": "Six months in 2027",
+    "money_summary": "GBP 3,500 artist fee plus GBP 500 production budget over six months; housing and travel not mentioned",
+    "style_fit": 0.55,
+    "style_fit_reason": "The touch theme covers sensory and embodied experience and names 'Materiality, making and craft', which sits close to a material, body-centred practice. It is a research and development residency with academic pairings rather than a production or exhibition commission, and there is no fabrication facility described.",
+    "cautions": [
+      "Hard disqualification for this client: 'Artists must be based in the UK, with the right to work here.'",
+      "Also requires at least 3 years professional experience and a demonstrable portfolio.",
+      "Applicants must not be enrolled on an academic course, including a PhD.",
+      "GBP 3,500 is an artist fee over six months, not a living stipend, and no accommodation or travel beyond the GBP 500 production budget is offered."
+    ],
+    "notes": "Now read from the organisation's own page and its Artists Callout PDF. The UK residence and right-to-work rule settles the question the previous pass left open: an India-based artist cannot apply. Keeping the record so the pipeline shows a clean disqualification rather than an unknown."
+  },
+  {
+    "name": "Creative Spark International Artist Residency 2027",
+    "location": "Dundalk, County Louth",
+    "country": "Ireland",
+    "verified": true,
+    "source_urls": [
+      "https://creativespark.ie/artist-in-residence.html",
+      "https://visualartists.ie/advert/open-call-artist-in-residence-programme-2027-from-creative-spark",
+      "https://www.transartists.org/en/air/creative-spark-0"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official: 'We welcome applications from emerging and established artists working across all disciplines.' International category: 'This residency is open to artists based outside Ireland.'"
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "No stipend, fee or bursary is mentioned on the official page. Programme is Arts Council of Ireland funded but the artist receives facilities, not money.",
+      "accommodation": false,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None stated",
+      "application_fee": "UNCONFIRMED, do not treat as zero. The official artist-in-residence page carries no fee wording at all: no figure and no line saying applying is free. Read twice on 2026-09-23.",
+      "artist_pays": [
+        "travel",
+        "accommodation ('Please note that accommodation is not provided')",
+        "living costs",
+        "materials"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "All disciplines; particularly encourages visual arts, photography, printmaking, textiles, ceramics, design and digital fabrication; interested in interdisciplinary, experimental, alternative and sustainable approaches. Shared studio with water supply; access to Fine Art Print Studio, Darkroom, FabLab, Textile Lab and Kiln Room; technical support where appropriate."
+    },
+    "deadline": "2026-10-17",
+    "deadline_notes": "Official page: 'Deadline for Applications is October 17th 2026'. Visual Artists Ireland listing says 19/10/26; the organisation's own date is recorded.",
+    "duration": "Not stated on the 2027 call; TransArtists profile gives 1 to 3 months",
+    "money_summary": "Nothing paid; free shared studio and workshop access only, artist covers travel, housing and living costs",
+    "style_fit": 0.5,
+    "style_fit_reason": "Facilities suit material work (kiln room, FabLab, print, textiles) and the call welcomes experimental, interdisciplinary practice, but there is no curatorial framing that favours dramatic or surrealist work.",
+    "cautions": [
+      "No accommodation and no money; Dundalk housing must be self-funded.",
+      "Selection weighs commitment to workshops, talks and public engagement.",
+      "TransArtists profile says residents donate one artwork to Creative Spark's archive; not on the 2027 official page, so unconfirmed.",
+      "Application fee is not stated on the official page, so it cannot be recorded as zero. Confirm before applying."
+    ],
+    "notes": "Application is via the 'Apply Here' form on the official page. UNCONFIRMED FACT, exact open question: is there any fee to apply for, or to hold, the 2027 International Artist Residency? Two reads of creativespark.ie/artist-in-residence.html on 2026-09-23 found no fee wording of any kind, neither a figure nor a 'no fee' line. Ask Creative Spark through the contact details on creativespark.ie. Duration is also not stated on the 2027 call; the TransArtists profile says 1 to 3 months."
+  },
+  {
+    "name": "Clay City Professional Residency, Winter 2027 (Throwing Shapes and Staycity)",
+    "location": "Dublin",
+    "country": "Ireland",
+    "verified": true,
+    "source_urls": [
+      "https://throwingshapes.ie/pages/claycity",
+      "https://throwingshapes.ie/pages/clay-city-pro-app",
+      "https://throwingshapes.ie/pages/claycityapply"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "established",
+      "collective_required": false,
+      "min_years_experience": 3,
+      "eligibility_notes": "Official: 'Established arts or ceramics practitioner with proven track record 3+ years of independent work outside of an institution, 3+ collections or bodies of work, or alternative equivalents'; 'Possess advanced ceramics and/or pottery skills'; 'Be legally entitled to live and work in Ireland for duration of residency. If a visa is required, this is the applicant's responsibility'; 'Applications are welcome from professional artists/ceramists based in Ireland or internationally'."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "Official: 'Please note that a stipend is not included in the residency, you will be asked to clarify how you plan on covering your living costs'.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": false,
+      "materials_budget": "None; studio access 'does not include clay, materials, or firing costs'",
+      "application_fee": "None mentioned on the application guide",
+      "artist_pays": [
+        "travel",
+        "living costs",
+        "utility bills in the free apartment",
+        "clay, materials and firing costs",
+        "visa"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": false,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": "ceramics",
+      "thematic_constraint": "Ceramics practice only; proposal must be a self-directed ceramics project with a specified outcome.",
+      "programme_focus": "Community ceramic studio residency: wheels, kilns, studio glazes, hand-building space; teaching workshops, mentorship, solo exhibition at the end. Plaster casting and mould making not available."
+    },
+    "deadline": "2026-10-05",
+    "deadline_notes": "Official: 'Applications Deadline: 5th October 2026 at 16:00 GMT'. Reviewed by Artists shows 15 October, which is wrong.",
+    "duration": "3 months, 4 January to 31 March 2027",
+    "money_summary": "Free shared apartment and full ceramics studio access for three months; no stipend, no travel, materials and firing at own cost",
+    "style_fit": 0.3,
+    "style_fit_reason": "Ceramics-only studio with a craft and community ethos; suits sculptural work only if made in clay, and past residents are ceramicists.",
+    "cautions": [
+      "Requires advanced ceramics skill and 3+ years established practice; an emerging mixed media artist is unlikely to qualify.",
+      "Applicant must secure the right to live and work in Ireland; no visa support.",
+      "Must donate one piece made during the residency to Throwing Shapes.",
+      "Expected to teach workshops and take part fully in studio life."
+    ],
+    "notes": "Selection criteria: research-led development, use of studio resources, teaching and community contribution. Two referees plus a recommendation letter required."
+  },
+  {
+    "name": "Ballinglen Arts Foundation Fellowship Programme",
+    "location": "Ballycastle, County Mayo",
+    "country": "Ireland",
+    "verified": true,
+    "source_urls": [
+      "https://www.ballinglenartsfoundation.org/fellowship/",
+      "https://www.ballinglenartsfoundation.org/fellowship/applications/",
+      "https://www.ballinglenartsfoundation.org/fellowship/programme/",
+      "https://www.ballinglenartsfoundation.org/fellowship/museum-of-art-permanent-collection-responsibility/"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official: 'Visual artists throughout the world with professional standing in their fields (painting, printmaking, drawing, photography, sculpture) and emerging artists of recognized ability are eligible for residence. No particular style is sought.' Applicants must be 18 or over. Selection 'is based on knowledge of the artist's work and references'."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "No stipend appears anywhere on the official site. FAQ: 'There is no accommodation cost for your first residency with us. You will need to pay for your travel expenses and we will charge a small fee for internet and laundry - approx. €20 each.' A third-party directory claims a weekly stipend; not confirmed and treated as absent.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None stated",
+      "application_fee": "'If you are an international artist not from Ireland, you will also need to pay €50 to apply for a residency. You will need to pay this when you fill out the application form.'",
+      "artist_pays": [
+        "EUR 50 application fee (international)",
+        "travel",
+        "approx. EUR 20 internet and EUR 20 laundry",
+        "food and living costs",
+        "materials",
+        "accommodation and studio on any second residency"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "Residency is expected to be a response to North Mayo; touring elsewhere in Ireland only before or after.",
+      "programme_focus": "Retreat-style fellowship in a coastal village: cottage plus purpose-built studio, no formal programme, artists respond to landscape and community. Disciplines named: painting, printmaking, drawing, photography, sculpture."
+    },
+    "deadline": "rolling",
+    "deadline_notes": "FAQ: 'There is no deadline, we accept applications all year round.' Reviewed twice yearly; notification can take months.",
+    "duration": "Generally around 4 weeks",
+    "money_summary": "Free cottage and studio for about four weeks on a first residency; no stipend, travel at own cost, EUR 50 application fee for international artists",
+    "style_fit": 0.4,
+    "style_fit_reason": "Open on style ('No particular style is sought') and sculpture is listed, but the permanent collection 'cannot include complex installation works or large-scale sculpture', and the programme is oriented to landscape response by painters and printmakers.",
+    "cautions": [
+      "Must give one or more finished works to the Ballinglen Permanent Collection; the museum cannot take complex installation or large sculpture, so the donated work would need to be portable.",
+      "EUR 50 application fee for non-Irish applicants, just under the INR 5,000 cap at current rates.",
+      "Free accommodation applies to the first residency only.",
+      "Fellows may bring family or companions; no formal programme or curatorial support."
+    ],
+    "notes": "Application form is on the Applications page (CV, biography, up to 10 images, total 10 MB). Visa not discussed on the site."
+  },
+  {
+    "name": "Tyrone Guthrie Centre residency (self-funded, international rate)",
+    "location": "Annaghmakerrig, County Monaghan",
+    "country": "Ireland",
+    "verified": true,
+    "source_urls": [
+      "https://www.tyroneguthrie.ie/Residency-Application-Form",
+      "https://www.tyroneguthrie.ie/Guidelines-for-Applicants",
+      "https://www.tyroneguthrie.ie/Fees",
+      "https://www.tyroneguthrie.ie/International-Residencies-and-Exchanges"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": null,
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official: 'Applications are invited from practising professional artists working in all genres' who 'Have a proven track record in their field', are 'recognised by their peers as a professional, exemplified by membership of an associated professional organisation', and for visual artists 'must have an exhibition track record in professional venues and work selected for exhibition by professional curators, and/or work in a public collection.' International artists have a separate fee band. Career stage is not named, but the track-record test is a real bar for an emerging artist."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "None. Bursaries exist only through Irish and Northern Irish arts bodies and named exchanges (Galicia, Australia, Virginia), none open to Indian applicants.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None",
+      "application_fee": "None stated",
+      "artist_pays": [
+        "International Artists rate: 'The House: 1 week, 7 nights, full-board €840' or 'The Cottages: 1 week, 7 nights, self-catering €560'",
+        "travel",
+        "materials"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Multi-art-form retreat with visual arts studios, print studio, music, dance and performance spaces; residents work independently."
+    },
+    "deadline": "rolling",
+    "deadline_notes": "Official: 'We are now open for residency applications for 2026 dates.' New applicants complete a form; approval then lets the artist book. High demand; stays limited to one or two weeks per year.",
+    "duration": "1 week, maximum 2 weeks per calendar year",
+    "money_summary": "Nothing paid; artist pays EUR 560 (self-catering) or EUR 840 (full board) per week plus travel",
+    "style_fit": null,
+    "style_fit_reason": "",
+    "cautions": [
+      "Entirely self-funded at the higher international rate.",
+      "Requires a proven professional track record and membership of a professional body; emerging artists may not pass approval.",
+      "Maximum two weeks per year; 2026 availability described as very limited."
+    ],
+    "notes": "Fees are 'Effective up to December 2026'; 2027 fees not yet published."
+  },
+  {
+    "name": "Burren College of Art Artist Residency",
+    "location": "Ballyvaughan, County Clare",
+    "country": "Ireland",
+    "verified": true,
+    "source_urls": [
+      "https://www.burrencollege.ie/programmes/artist-residencies/artist-residency-programmes/",
+      "https://www.burrencollege.ie/programmes/artist-residencies/"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official: 'welcomes applications from artists working at all levels and stages of their careers'. No nationality restriction; the college states a non-discrimination policy."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "None. Fee-paying residency; no scholarships or fellowships mentioned on the residency pages.",
+      "accommodation": false,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None",
+      "application_fee": "Not stated. Neither the artist-residencies landing page nor the artist-residency-programmes page mentions a fee or deposit to apply. Both were read on 2026-09-23. Note the separate cancellation term: a full refund is available up to 4 weeks before the programme start, minus a EUR 100 cancellation fee.",
+      "artist_pays": [
+        "'The fee in 2026/2027 is €985 per 4-week period for BCA Artist Residencies'",
+        "optional campus accommodation EUR 1,250 per month",
+        "2-week summer 2027 residency EUR 500, or EUR 1,200 with accommodation",
+        "travel",
+        "materials"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Studio residency on an art college campus in the Burren; studio plus access to campus facilities, optional faculty meetings (Residency +) or course auditing (Burren Immersion)."
+    },
+    "deadline": "rolling",
+    "deadline_notes": "Official: applications 'on a rolling, space-available basis throughout the year'. Currently taking last-minute Autumn 2026 places; sessions listed through August 2027, some full.",
+    "duration": "1 to 3 months in 4-week blocks; 2-week options in summer 2027",
+    "money_summary": "Nothing paid; artist pays EUR 985 per 4 weeks for studio, plus EUR 1,250 per month if campus housing is taken",
+    "style_fit": null,
+    "style_fit_reason": "",
+    "cautions": [
+      "Fully self-funded; roughly EUR 2,235 per month with campus housing before travel and food.",
+      "Accommodation not included in the residency fee.",
+      "Application fee is not stated on either official page, so it cannot be recorded as zero. Confirm before applying.",
+      "Cancelling inside 4 weeks of the start date forfeits the fee; earlier cancellations lose a EUR 100 cancellation fee."
+    ],
+    "notes": "Off-campus housing list available on request. UNCONFIRMED FACT, exact open question: is there a fee or deposit payable to submit a residency application, separate from the EUR 985 per 4-week residency fee? Two official pages were read and neither says. Ask through the contact details on burrencollege.ie."
+  },
+  {
+    "name": "Cromarty Arts Trust self-funded residency",
+    "location": "Cromarty, Black Isle, Highlands",
+    "country": "United Kingdom",
+    "verified": true,
+    "source_urls": [
+      "https://www.cromartyartstrust.org.uk/artists/residencies-in-cromarty/",
+      "https://www.cromartyartstrust.org.uk/residencies"
+    ],
+    "eligibility": {
+      "india_eligible": null,
+      "india_specific": false,
+      "international_open": null,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Re-read on the official page 2026-09-23 (Brightdata). The only wording about who may apply is: 'We welcome writers and artists in all media to come and stay with us in Cromarty' and 'We continue to invite both self-funded and in-kind residencies from artists of any discipline.' The self-funded route is a paid booking, gated only on availability: 'As long as we have availability, you are welcome to come and stay at Ardyne'. Nationality, country of residence, overseas applicants and visas are not mentioned anywhere on the page, so india_eligible and international_open stay null rather than being inferred from silence."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "None. The separate in-kind winter places (free room and studio in exchange for running a paid workshop) are closed for 2026/27, and even those come with 'We regret we are unable to offer you a fee or assistance with expenses.'",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None",
+      "application_fee": "None mentioned. The self-funded route is an Airtable booking form with no fee stated.",
+      "artist_pays": [
+        "GBP 266 per week (rate as of May 2025) for en-suite room at Ardyne plus studio in the Stables",
+        "travel",
+        "food",
+        "materials"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Small-town Highland retreat for writers and artists of all disciplines; accommodation plus studio, no programme."
+    },
+    "deadline": "rolling",
+    "deadline_notes": "Self-funded residencies 'available year-round with no application deadline', applied for via an online form. In-kind places for winter 2026/27 are closed (decisions were due by 30 May 2026).",
+    "duration": "As long or short as the artist wishes",
+    "money_summary": "Nothing paid; artist pays about GBP 266 per week for room and studio",
+    "style_fit": null,
+    "style_fit_reason": "",
+    "cautions": [
+      "Fully self-funded and remote; a UK visa would be needed and the Trust offers no help with it.",
+      "Official: 'We regret we are unable to offer you a fee or assistance with expenses.'",
+      "International eligibility is not stated either way on the official page.",
+      "The free in-kind winter route is effectively closed: winter 2025/26 is shut and the winter 2026/27 decision date of 30 May 2026 has passed."
+    ],
+    "notes": "Weekly rate quoted as '£266 per week (as of May 2025)' and may have risen. UNCONFIRMED FACT, exact open question: does the Cromarty Arts Trust accept self-funded residents who are not UK-based and who would need a UK visitor visa, and will it supply an invitation or supporting letter? Nothing on the page answers this. Ask info@cromartyartstrust.org.uk (the address on the same page), or phone 01381 600354. Not emailed."
+  },
+  {
+    "name": "Leitrim Sculpture Centre Professional Development Residency",
+    "location": "Manorhamilton, County Leitrim",
+    "country": "Ireland",
+    "verified": true,
+    "source_urls": [
+      "https://www.leitrimsculpturecentre.ie/residencies",
+      "https://www.leitrimsculpturecentre.ie/residencies/guidelines-how-to-apply",
+      "https://www.leitrimsculpturecentre.ie/facilities/hire-rates"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official: PDRs are for 'artists working in all media who need time to investigate a specific idea and/or explore a technical or material process'; 'Our residential facilities are available to all artists working in any creative process'. No nationality restriction. Note the Centre's funded residency strands (Exhibition, Technical Development, LEER) had 2025 deadlines for 2026 and no 2027 call is posted; LEER is Ireland-based only."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "None for PDRs. 'Previously, artists have received funding from their local County Councils or schemes such as the AC Agility or Bursary Awards, to pay for their time at LSC.' 'For artists without funding, we offer a subsidised charge rate.'",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None; 'Prices exclude materials, energy for large equipment/ kilns etc and technical/ tutor costs. There is also an additional charge for hot processes.'",
+      "application_fee": "None stated",
+      "artist_pays": [
+        "Funded-artist rate: 'Self-Contained Residency Studio with access to all technical facilities - €400 a week'",
+        "Subsidised unfunded-artist rates: accommodation from EUR 35 a night, private studio from EUR 20 a day, technical workshop access from EUR 20 a day (exact PDR package on request)",
+        "materials, kiln firings, hot processes, technician time",
+        "travel"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Sculpture centre with technicians in large fabrication, ceramics, woodwork, mouldmaking, metal sandcasting, metal fabrication and forge, traditional print and analogue darkroom. Residential studio apartments on site. No exhibition or outcome required beyond a short progress report."
+    },
+    "deadline": "rolling",
+    "deadline_notes": "No deadline for PDRs; artists contact info@leitrimsculpturecentre.ie to arrange dates and rates.",
+    "duration": "Flexible; typically weeks to a few months",
+    "money_summary": "Nothing paid; artist pays from roughly EUR 400 a week (funded rate) or a lower subsidised rate on request, plus materials and technician costs",
+    "style_fit": 0.7,
+    "style_fit_reason": "Strongest fabrication facilities of any residency found in this sweep (foundry, forge, mouldmaking, ceramics, woodwork with technicians), well suited to sculptural and installation work; no stylistic or thematic framing.",
+    "cautions": [
+      "Self-funded; the client would need his own grant to cover fees, materials and travel.",
+      "Hot processes, kiln firings and technician time are charged on top.",
+      "Watch for the Centre's funded Exhibition and Technical Development Residency calls, which in past years opened in summer with early September deadlines and admitted international artists."
+    ],
+    "notes": "The 2026 Exhibition Residency paid EUR 4,000 and the Technical Development Residency EUR 2,000; both closed 7 September 2025 and no 2027 round was visible on 23 September 2026."
+  }
+]

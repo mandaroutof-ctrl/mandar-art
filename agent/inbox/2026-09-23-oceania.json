@@ -1,0 +1,246 @@
+[
+  {
+    "name": "Driving Creek Artist in Residence Programme",
+    "location": "Coromandel, Waikato",
+    "country": "New Zealand",
+    "verified": true,
+    "source_urls": [
+      "https://drivingcreek.nz/pottery-and-residency/",
+      "https://drivingcreek.nz/",
+      "https://form.jotform.com/231777784782878"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official page: 'Driving Creek residency panel selects artists for residencies 4 times per year' and the call is open to 'any form of artist'. No nationality, residency or career-stage restriction is stated anywhere on the page, but international eligibility is not spelled out in so many words. Confirm with the pottery before applying. Up to 5 artists per quarter."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "None. Official wording: 'there is no fee for the artist residency' and 'we offer free artist residencies'. Nothing is paid to the artist.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None stated. Artists are asked to 'chip in here and there to keep the co-operative spirit of the pottery alive'.",
+      "application_fee": "None stated; official wording 'there is no fee for the artist residency'",
+      "artist_pays": [
+        "travel",
+        "food",
+        "art materials",
+        "visa"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Working pottery and railway founded by Barry Brickell, with shared studio spaces, wood-fired and gas kilns, native forest setting. Residents have worked across ceramics, painting, sculpture, photography and textiles."
+    },
+    "deadline": "2026-09-30",
+    "deadline_notes": "Quarterly cycles. Official wording: 'April - June, applications close at the end of September'; 'July - September, applications close at the end of December'; 'October - December, applications close at the end of March'; 'January - March, applications close at the end of June'. The 30 September 2026 date is for the April to June 2027 quarter; the next is 31 December 2026 for July to September 2027. Exact day not stated on the page, 'end of' month is the official wording.",
+    "duration": "Up to one 3-month quarter (Jan-Mar, Apr-Jun, Jul-Sep, Oct-Dec)",
+    "money_summary": "No fee, no stipend. Free basic on-site accommodation, shared studio and kilns. Artist pays travel, food and materials.",
+    "style_fit": 0.5,
+    "style_fit_reason": "A ceramics-led co-operative with real kilns and a sculpture-friendly, hands-on culture. Good for material work; no particular leaning toward surreal or figurative practice, and no fabrication support beyond the pottery.",
+    "cautions": [
+      "Unfunded: no stipend, travel or materials. Only accommodation and studio are free.",
+      "International eligibility is implied by the absence of restrictions, not stated. Confirm by email before applying.",
+      "Accommodation is described as 'basic' and shared; up to five residents at once.",
+      "Visa: nothing on the page. An Indian passport holder needs a New Zealand visitor visa; check whether a 3-month unpaid residency is permitted under it."
+    ],
+    "notes": "Confirmed from the official residency page on 2026-09-23. Deadline for the April to June 2027 quarter is the end of September 2026, so this is open for one more week; the December deadline is the realistic target. Application is via JotForm."
+  },
+  {
+    "name": "BigCi (Bilpin international ground for Creative initiatives) Artist Residency",
+    "location": "Bilpin, Blue Mountains, New South Wales",
+    "country": "Australia",
+    "verified": true,
+    "source_urls": [
+      "https://bigci.org/artist-residency/",
+      "https://www.bigci.org/"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official wording: 'Painters, sculptors, multimedia artists, performance artists, writers, musicians, dancers, filmmakers and other creative souls are invited to apply for the residency.' The fee page lists separate rates for 'Self-funded International artists', so international applicants are explicitly expected. No career-stage requirement."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "Official wording: 'There is no stipend or living allowance attached to the stay.' Money flows from the artist to the residency.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None. Art materials are the artist's cost.",
+      "application_fee": "Not stated. The official Artist Residency page publishes only stay rates: 'AUD$400 for International artists' per week for self-funded individuals, and 'Our rates for organisations are AUD$700 per person per week for Australian artists and AUD$800 per person per week for International artists.' There is no fee to apply mentioned, and no 'no fee' line either.",
+      "artist_pays": [
+        "residency fee AUD 400 per week (international)",
+        "food",
+        "transport",
+        "travel",
+        "insurance",
+        "art materials",
+        "visa"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "None required. The organisation notes many residents pursue environmental or ecological projects because of the Wollemi National Park setting, but says 'many others use our outstanding natural surroundings as a source of creativity for a variety of different artistic pursuits.'",
+      "programme_focus": "Independent, artist-run residency on the edge of Wollemi National Park focused on artists' professional development and project facilitation. Facilities are the Art Shed, the Barn and the House on 8 acres of bushland. Residents present at a BigCi Open Day at the end of their stay."
+    },
+    "deadline": "rolling",
+    "deadline_notes": "Official wording: 'Artist residency proposals are welcome throughout the year', to be submitted 'well in advance'.",
+    "duration": "Flexible, an 'agreed period of time' set by the project",
+    "money_summary": "Artist pays AUD 400 per week (international rate) covering accommodation, workspace, utilities and internet. No stipend. Artist also pays food, travel, insurance and materials.",
+    "style_fit": 0.4,
+    "style_fit_reason": "Open to sculptors and multimedia artists with a shed and barn to work in, but the programme's gravity is environmental and site-based rather than figurative or surreal, and there is no fabrication support.",
+    "cautions": [
+      "Fee-paying residency: roughly AUD 1,600 per four weeks before food, travel and materials.",
+      "Environmental setting shapes the programme; a dramatic figurative project would sit outside the usual resident profile.",
+      "Application fee is not stated anywhere on the official site, so it cannot be recorded as zero. Confirm before applying.",
+      "Visa: nothing on the site. Indian passport holders need an Australian visitor visa; confirm a paid residency stay is permitted."
+    ],
+    "notes": "Fee schedule confirmed from the official Artist Residency page on 2026-09-23. Listed by Res Artis and TransArtists; BigCi cites collaborative links with Asialink and Artspace Sydney. UNCONFIRMED FACT, exact open question: does BigCi charge anything to submit a residency proposal, on top of the AUD 400 per week stay rate? The official page and the BigCi home page were both read on 2026-09-23 and neither states a figure nor says applying is free. Ask through the contact form on bigci.org."
+  },
+  {
+    "name": "Eramboo Artist Environment Live-in Residency",
+    "location": "Terrey Hills, Sydney, New South Wales",
+    "country": "Australia",
+    "verified": true,
+    "source_urls": [
+      "https://eramboo.com.au/artist-programs/",
+      "https://eramboo.com.au/artist-programs/apply/",
+      "https://eramboo.com.au/"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "Official wording for the live-in residency (Studio 5): ideal for 'regional, inter-state or international artists working in all media, writers, musicians, dance or performance artists'. The separate non-residential 6-month Award with a $3,000 allowance is run with Northern Beaches Council and its 2026 round is closed; it is not the programme recorded here."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "None for the live-in residency. Residents fund their own travel, food and art materials.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": false,
+      "materials_budget": "None",
+      "application_fee": "Not stated; online application form with no fee mentioned",
+      "artist_pays": [
+        "residency fee AUD 250 per week (single) or AUD 300 per week (couple)",
+        "AUD 500 refundable bond",
+        "AUD 100 non-refundable cleaning fee",
+        "travel",
+        "food",
+        "art materials",
+        "visa"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "",
+      "programme_focus": "Bushland artist environment next to Ku-ring-gai Chase National Park offering a furnished live-in studio apartment (kitchenette, bathroom, deck, wifi, 24/7 access) for artists in all media to develop a body of work."
+    },
+    "deadline": "rolling",
+    "deadline_notes": "The online application form for the live-in residency is live and lets applicants choose their own start and end dates. No closing date is stated. The 2026 non-residential AIR Award is a separate programme and is closed.",
+    "duration": "1 week to 3 months",
+    "money_summary": "Artist pays AUD 250 per week plus AUD 500 bond and AUD 100 cleaning fee for a furnished live-in studio. No stipend, travel or materials.",
+    "style_fit": 0.4,
+    "style_fit_reason": "All media welcome and a private live-in studio, but it is a quiet bushland retreat with no workshop, technician or fabrication support and no stated curatorial interest in figurative or surreal work.",
+    "cautions": [
+      "Fee-paying residency; the artist carries every cost.",
+      "Official page: international artists are 'responsible for arranging their own visas and travel'.",
+      "Studio apartment scale suits studio-sized work, not large installation.",
+      "Do not confuse with the funded non-residential Eramboo AIR Award, which is a Northern Beaches Council programme and closed for 2026."
+    ],
+    "notes": "Fees and eligibility confirmed from the official Artist Programs page on 2026-09-23. Application form on the official site accepts international addresses."
+  },
+  {
+    "name": "Earthskin Creative Residency",
+    "location": "Piha (Waygood Foundation) and Warkworth, Auckland region",
+    "country": "New Zealand",
+    "verified": true,
+    "source_urls": [
+      "https://www.earthskintrust.org/artist-residency",
+      "https://www.earthskintrust.org/"
+    ],
+    "eligibility": {
+      "india_eligible": true,
+      "india_specific": false,
+      "international_open": true,
+      "career_stage": "any",
+      "collective_required": false,
+      "min_years_experience": null,
+      "eligibility_notes": "The residency page welcomes 'artists, potters, sculptors, musicians, designers, writers, and environmental innovators' with no nationality restriction stated. International eligibility is implied rather than spelled out; confirm by email."
+    },
+    "funding": {
+      "has_stipend": false,
+      "living_stipend": false,
+      "production_grant": false,
+      "stipend_detail": "None. Official wording: '$250 per week', with the cost 'reduced through work exchange' in the permaculture gardens.",
+      "accommodation": true,
+      "studio": true,
+      "travel_covered": false,
+      "visa_support": null,
+      "materials_budget": "None. Official wording: 'bring your own food and art supplies'.",
+      "application_fee": "None stated; application is a form emailed to earthskintrust@gmail.com",
+      "artist_pays": [
+        "residency fee NZD 250 per week",
+        "utilities",
+        "food",
+        "art materials",
+        "travel",
+        "one artwork as koha",
+        "visa"
+      ]
+    },
+    "discipline": {
+      "mixed_media_ok": true,
+      "sculpture_installation_ok": true,
+      "digital_only": false,
+      "required_material": null,
+      "thematic_constraint": "Environmental stewardship. Official wording: 'The use of unnatural chemical art materials that can go into our precious land is not allowed.' Residents contribute talks, workshops, exhibitions or a gifted artwork.",
+      "programme_focus": "Trust-run creative residency on a permaculture and earthbuild site at Piha and in the Warkworth valley, with studio, gallery, yurt and housing, aimed at 'deepening connection with self, community, and the land'."
+    },
+    "deadline": "rolling",
+    "deadline_notes": "Official wording: 'Residencies for 2026 and 2027 open in May, please apply now.' No closing date is given; applications are accepted on an ongoing basis.",
+    "duration": "2 to 4 weeks, extendable to 1 to 3 months",
+    "money_summary": "Artist pays NZD 250 per week plus utilities, food and materials, and gives one artwork as koha. No stipend.",
+    "style_fit": 0.2,
+    "style_fit_reason": "An eco-retreat with a ban on 'unnatural chemical art materials', which rules out most resins, solvents and industrial finishes a mixed-media sculptor would use. No fabrication facilities and a land-focused ethos far from dramatic figurative work.",
+    "cautions": [
+      "Fee-paying and unfunded.",
+      "A koha artwork must be gifted to the trust's collection for fundraising.",
+      "No synthetic or chemical art materials permitted on site; check this against the client's actual materials before applying.",
+      "No smoking, drugs or alcohol.",
+      "Visa not addressed on the site."
+    ],
+    "notes": "Fee, koha rule and material restriction confirmed from the official residency page on 2026-09-23. Recorded so the unfunded decision has the full Oceania picture, but this is the weakest fit of the four."
+  }
+]

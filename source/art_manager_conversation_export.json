@@ -1,0 +1,246 @@
+{
+  "conversation_export": {
+    "topic": "Becoming an art manager and building a growth strategy for an artist client",
+    "sections": [
+      {
+        "section": "Art Manager Role & Skills",
+        "content": {
+          "definition": "An art manager handles the business and career side of an artist's practice, so the artist can focus on making work.",
+          "responsibilities": [
+            "Career strategy and long-term positioning",
+            "Sales and business development",
+            "Exhibition and placement logistics",
+            "Marketing and promotion",
+            "Financial management (invoicing, commissions, budgeting)",
+            "Relationship management with galleries, venues, buyers",
+            "Administrative work (contracts, inventory, shipping, insurance)"
+          ],
+          "key_skills": [
+            "Negotiation",
+            "Networking",
+            "Marketing/branding basics",
+            "Organizational skills",
+            "Basic financial literacy",
+            "Communication",
+            "Eye for art and market fit",
+            "Contract literacy"
+          ]
+        }
+      },
+      {
+        "section": "General Blueprint for Getting Started",
+        "steps": [
+          "Onboard the artist (collect portfolio, background, pricing, goals)",
+          "Build the artist profile and pitch materials (bio, statement, images, price list)",
+          "Identify and shortlist venues/buyers matched to style and price point",
+          "Pitch and negotiate terms, get written agreements",
+          "Manage logistics for the show/placement (framing, transport, inventory)",
+          "Track sales and finances",
+          "Report back and iterate after each show/placement"
+        ],
+        "artist_intake_checklist": {
+          "portfolio_inventory": [
+            "High-quality images of all available work",
+            "Title, medium, dimensions, year, edition info per piece",
+            "Which pieces are for sale vs. not for sale"
+          ],
+          "pricing": [
+            "Current/desired price per piece or formula",
+            "Negotiability range",
+            "Past sales history"
+          ],
+          "background": [
+            "Bio (education, exhibitions, awards)",
+            "Artist statement",
+            "Existing press, social media, website"
+          ],
+          "goals_and_boundaries": [
+            "Primary goal: sales income, exposure, following, gallery representation",
+            "Preferred venue types",
+            "Desired level of involvement/approval"
+          ],
+          "logistics": [
+            "Framing/mounting status",
+            "Transport responsibility",
+            "Insurance coverage"
+          ],
+          "commercial_terms": [
+            "Expected commission split for manager",
+            "Consignment vs. guaranteed fee preference"
+          ]
+        }
+      },
+      {
+        "section": "Expanded Goals Discussed",
+        "goals": [
+          "Get his art into the fashion industry (t-shirt/shirt collaborations with brands)",
+          "Create an artist magazine",
+          "Get him into artist residencies",
+          "Get his art into exhibitions",
+          "Build recognition",
+          "Short reels of him painting/working"
+        ],
+        "context_note": "Client has a fine arts degree specializing in typography, from a well-renowned art college. Currently has no public recognition."
+      },
+      {
+        "section": "Initial Sequencing Plan (General)",
+        "order": [
+          "Build visual proof-of-work first (photograph work, start process reels)",
+          "Create the artist magazine/zine early as a credibility tool",
+          "Apply to residencies in parallel (long lead times, don't require prior fame)",
+          "Pitch small/niche fashion & apparel brands directly, leading with typography specialization",
+          "Use residency outcomes and brand collabs to unlock exhibitions (group shows first)",
+          "Let recognition compound from documented, stacked proof points"
+        ]
+      },
+      {
+        "section": "Artist's Visual Style Analysis",
+        "source": "Based on 8 reference images shared by the user showing artworks the client admires",
+        "recurring_themes": [
+          "Containment and framing (glass boxes, mirrored cubes, acrylic vitrines)",
+          "The body breaking through the 2D plane (hands emerging from paintings/plaster)",
+          "Hyperrealism used for unease rather than beauty",
+          "Scale distortion (giant objects in landscapes, tiny figures against massive structures)",
+          "Restrained palette with a single loud accent color",
+          "Senses and perception as subject matter (eyes, ears, mouths)",
+          "Fashion-editorial style staging in some reference pieces"
+        ],
+        "open_question_raised": "Whether this reference style matches the client's current actual output, or is aspirational relative to his present typography-based work"
+      },
+      {
+        "section": "Tailored Blueprint (Style-Specific)",
+        "steps": [
+          "Define his signature intersection: type + surrealism + containment (3-5 original signature pieces)",
+          "Film process reels around these specific signature pieces (not generic painting content)",
+          "Build the artist magazine as a visual artifact reflecting his own aesthetic (editorial/campaign style)",
+          "Target fashion brands whose past campaigns already share this visual language (conceptual/surreal, not just product collabs)",
+          "Apply to residencies matched to his materials (glass, plaster, mixed media, experimental typography) rather than generalist residencies",
+          "Pitch themed group exhibitions (surrealism, identity, perception, materiality) rather than open-call generalist shows",
+          "Package the full story for press once 2-3 proof points exist (signature series + residency or brand collab or exhibition)"
+        ]
+      },
+      {
+        "section": "Residency Research",
+        "requirement": "Client needs a residency with stipend/grant",
+        "user_provided_list": [
+          "European Media Art Platform (EMAP) Residency 2026",
+          "Medialab Matadero — Situated Research Residencies 2027",
+          "25AV Residency Program (2026-2027)",
+          "Tokyo Arts and Space (TOKAS) International Creator Residency",
+          "Kyoto Art Center Artist in Residence Program",
+          "L-AIR Himeji Artist in Residence & Support Program",
+          "Gasworks",
+          "Delfina Foundation",
+          "Palazzo Monti (Brescia)",
+          "Villa Lena (Tuscany)",
+          "Marea Art Project (Amalfi Coast)",
+          "Fondazione Pistoletto Cittadellarte / UNIDEE (Biella)",
+          "Arroscia Residency (Liguria)",
+          "Villa Belleville",
+          "ACCR (Odyssee/Nora programs)",
+          "Studio Museum in Harlem (Artist-in-Residence)",
+          "Banff Centre Early Career Banff Artist in Residence"
+        ],
+        "findings": [
+          {
+            "name": "Gasworks",
+            "location": "London, UK",
+            "eligibility": "Early-career visual artists based in India (current India-specific open call)",
+            "duration": "11 weeks",
+            "funding": {
+              "weekly_stipend_gbp": 175,
+              "materials_budget_gbp_max": 800,
+              "studio_provided": true,
+              "accommodation": "Shared accommodation provided",
+              "flights": "Return economy flights from India covered",
+              "visa_support": true,
+              "travel_card": "Prepaid London travel card included"
+            },
+            "application_deadline": "2026-03-02",
+            "status": "actionable_now",
+            "fit_notes": "Strong fit — open to any visual art discipline, suits sculpture/mixed-media/containment work well."
+          },
+          {
+            "name": "Delfina Foundation",
+            "location": "London, UK",
+            "eligibility": "Current call restricted to Latin American, Caribbean, and USA-based diaspora artists; India not currently eligible",
+            "duration": "12 weeks",
+            "funding": {
+              "type": "Fully funded",
+              "covers": ["travel", "accommodation at Delfina Foundation house", "daily living allowance"]
+            },
+            "application_deadline": null,
+            "selection_timeline": {
+              "shortlisting": "2026-05",
+              "final_selection_by": "2026-06-01"
+            },
+            "status": "watchlist_not_eligible",
+            "fit_notes": "Historical precedent for India-specific residency via Charles Wallace India Trust / Inlaks Shivdasani Foundation partnership — monitor for future India-focused call."
+          },
+          {
+            "name": "EMAP (European Media Art Platform)",
+            "location": "Multiple European host organizations",
+            "eligibility": "Must apply as duo/collective or collaborative project; primarily EU residents/taxpayers or eligible non-EU countries",
+            "duration": "2 months",
+            "funding": {
+              "artist_grant_eur": 4000,
+              "collaborator_grant_eur": 2000,
+              "duo_total_eur": 6000,
+              "project_budget_eur": 4000,
+              "accommodation": "Provided by host",
+              "travel": "Covered by host per EU ceilings"
+            },
+            "application_deadline": "2026-03-13",
+            "status": "funding_strong_but_scope_mismatch",
+            "fit_notes": "Scoped to digital, media, robotic, AI, and bio art — not a natural fit for sculptural/material-based practice unless a digital angle is developed. Duo/collective requirement is also a barrier."
+          },
+          {
+            "name": "UNIDEE / Fondazione Pistoletto Cittadellarte",
+            "location": "Biella, Italy",
+            "eligibility": "Current 'Ecosystems as Living Communities' call: one Italian artist + one international artist residing in Europe",
+            "duration": "Up to 60 days (varies by program)",
+            "funding": {
+              "per_diem_eur": 25,
+              "travel_research_budget_eur": "1000-1500",
+              "accommodation": "Single room with shared facilities provided"
+            },
+            "application_deadline": "2026-09-06",
+            "status": "eligibility_blocked_for_current_call",
+            "fit_notes": "Thematically focused on socially engaged/ecological practice — a stretch from containment/surrealism direction. Current call requires EU residency."
+          },
+          {
+            "name": "Palazzo Monti",
+            "location": "Brescia, Italy",
+            "eligibility": "Open to international artists, anonymous selection",
+            "duration": "1 month",
+            "funding": {
+              "stipend": false,
+              "covered_by_host": ["private bedroom", "private studio", "monthly utilities", "basic production supplies"],
+              "covered_by_artist": ["travel", "food", "artwork return shipping", "production supplies"],
+              "application_fee_eur": 25
+            },
+            "application_deadline": "rolling (quarterly: 30 Sep, 30 Dec, 30 Mar, 30 Jun 2026)",
+            "status": "confirmed_no_stipend",
+            "fit_notes": "Strong materials/aesthetic fit (ceramic, iron, bronze, marble, wood) but does not meet the stipend/grant requirement."
+          }
+        ],
+        "not_yet_verified": [
+          "Medialab Matadero",
+          "25AV Residency Program",
+          "Tokyo Arts and Space (TOKAS)",
+          "Kyoto Art Center",
+          "L-AIR Himeji",
+          "Villa Lena",
+          "Marea Art Project",
+          "Arroscia Residency",
+          "Villa Belleville",
+          "ACCR (Odyssee/Nora programs)",
+          "Studio Museum in Harlem",
+          "Banff Centre Early Career AIR"
+        ]
+      }
+    ],
+    "export_note": "This is a structured summary of the conversation's content, not a verbatim transcript. Residency data was current as of research date; funding/eligibility details should be re-verified before application given how frequently these change.",
+    "export_date": "2026-09-10"
+  }
+}
